@@ -1,0 +1,1077 @@
+,Week,Day,Date,Time,Outcome,OT,Rec,Home,Opp,Score_Tm,Score_Opp,Offense_1stD,Offense_TotYd,Offense_PassY,Offense_RushY,Offense_TO,Defense_1stD,Defense_TotYd,Defense_PassY,Defense_RushY,Defense_TO,Year,Expected Points_Offense,Expected Points_Defense,Expected Points_Sp. Tms
+0,1,Sat,September 24,,L,False,0-1,True,Pittsburgh Steelers,28.0,35.0,17.0,395.0,323.0,72.0,4.0,20.0,475.0,353.0,122.0,1.0,1960,,,
+1,2,Fri,September 30,,L,False,0-2,True,Philadelphia Eagles,25.0,27.0,18.0,339.0,185.0,154.0,5.0,16.0,301.0,139.0,162.0,5.0,1960,,,
+2,3,Sun,October 9,,L,False,0-3,False,Washington Redskins,14.0,26.0,22.0,331.0,275.0,56.0,4.0,13.0,362.0,213.0,149.0,1.0,1960,,,
+3,4,Sun,October 16,,L,False,0-4,True,Cleveland Browns,7.0,48.0,8.0,167.0,79.0,88.0,6.0,18.0,282.0,82.0,200.0,1.0,1960,,,
+4,5,Sun,October 23,,L,False,0-5,False,St. Louis Cardinals,10.0,12.0,9.0,175.0,124.0,51.0,2.0,17.0,306.0,80.0,226.0,3.0,1960,,,
+5,6,Sun,October 30,,L,False,0-6,True,Baltimore Colts,7.0,45.0,9.0,147.0,64.0,83.0,6.0,23.0,493.0,276.0,217.0,1.0,1960,,,
+6,7,Sun,November 6,,L,False,0-7,True,Los Angeles Rams,13.0,38.0,15.0,225.0,61.0,164.0,4.0,20.0,500.0,219.0,281.0,1.0,1960,,,
+7,8,Sun,November 13,,L,False,0-8,False,Green Bay Packers,7.0,41.0,14.0,260.0,161.0,99.0,5.0,20.0,391.0,226.0,165.0,2.0,1960,,,
+8,9,Sun,November 20,,L,False,0-9,True,San Francisco 49ers,14.0,26.0,13.0,282.0,228.0,54.0,7.0,17.0,313.0,141.0,172.0,2.0,1960,,,
+9,10,Sun,November 27,,L,False,0-10,False,Chicago Bears,7.0,17.0,12.0,218.0,174.0,44.0,2.0,16.0,279.0,58.0,221.0,3.0,1960,,,
+10,11,Sun,December 4,,T,False,0-10-1,False,New York Giants,31.0,31.0,19.0,328.0,258.0,70.0,2.0,19.0,327.0,213.0,114.0,3.0,1960,,,
+11,12,Sun,December 11,,L,False,0-11-1,False,Detroit Lions,14.0,23.0,24.0,286.0,172.0,114.0,3.0,17.0,343.0,130.0,213.0,3.0,1960,,,
+12,1,Sun,September 17,,W,False,1-0,True,Pittsburgh Steelers,27.0,24.0,20.0,403.0,307.0,96.0,2.0,15.0,342.0,237.0,105.0,4.0,1961,,,
+13,2,Sun,September 24,,W,False,2-0,True,Minnesota Vikings,21.0,7.0,22.0,437.0,229.0,208.0,3.0,16.0,251.0,126.0,125.0,3.0,1961,,,
+14,3,Sun,October 1,,L,False,2-1,False,Cleveland Browns,7.0,25.0,9.0,152.0,100.0,52.0,3.0,18.0,316.0,100.0,216.0,4.0,1961,,,
+15,4,Sun,October 8,,W,False,3-1,False,Minnesota Vikings,28.0,0.0,18.0,297.0,180.0,117.0,,14.0,183.0,100.0,83.0,5.0,1961,,,
+16,5,Sun,October 15,,L,False,3-2,True,New York Giants,10.0,31.0,15.0,331.0,139.0,192.0,7.0,21.0,375.0,117.0,258.0,6.0,1961,,,
+17,6,Sun,October 22,,L,False,3-3,True,Philadelphia Eagles,7.0,43.0,26.0,346.0,169.0,177.0,2.0,23.0,480.0,191.0,289.0,,1961,,,
+18,7,Sun,October 29,,W,False,4-3,False,New York Giants,17.0,16.0,17.0,333.0,187.0,146.0,4.0,15.0,262.0,150.0,112.0,4.0,1961,,,
+19,8,Sun,November 5,,L,False,4-4,True,St. Louis Cardinals,17.0,31.0,18.0,374.0,238.0,136.0,5.0,13.0,193.0,71.0,122.0,1.0,1961,,,
+20,9,Sun,November 12,,L,False,4-5,False,Pittsburgh Steelers,7.0,37.0,8.0,185.0,122.0,63.0,2.0,22.0,371.0,204.0,167.0,1.0,1961,,,
+21,10,Sun,November 19,,T,False,4-5-1,True,Washington Redskins,28.0,28.0,27.0,441.0,271.0,170.0,4.0,18.0,292.0,210.0,82.0,3.0,1961,,,
+22,11,Sun,November 26,,L,False,4-6-1,False,Philadelphia Eagles,13.0,35.0,21.0,358.0,240.0,118.0,3.0,20.0,454.0,337.0,117.0,4.0,1961,,,
+23,12,Sun,December 3,,L,False,4-7-1,True,Cleveland Browns,17.0,38.0,19.0,376.0,202.0,174.0,6.0,23.0,373.0,143.0,230.0,3.0,1961,,,
+24,13,Sun,December 10,,L,False,4-8-1,False,St. Louis Cardinals,13.0,31.0,8.0,126.0,16.0,110.0,3.0,14.0,334.0,260.0,74.0,3.0,1961,,,
+25,14,Sun,December 17,,L,False,4-9-1,False,Washington Redskins,24.0,34.0,11.0,321.0,261.0,60.0,4.0,22.0,366.0,185.0,181.0,2.0,1961,,,
+26,1,Sun,September 16,,T,False,0-0-1,True,Washington Redskins,35.0,35.0,22.0,483.0,341.0,142.0,3.0,17.0,286.0,211.0,75.0,2.0,1962,,,
+27,2,Sun,September 23,,L,False,0-1-1,True,Pittsburgh Steelers,28.0,30.0,19.0,351.0,225.0,126.0,2.0,22.0,354.0,144.0,210.0,1.0,1962,,,
+28,3,Sun,September 30,,W,False,1-1-1,False,Los Angeles Rams,27.0,17.0,13.0,403.0,226.0,177.0,1.0,15.0,274.0,234.0,40.0,2.0,1962,,,
+29,4,Sun,October 7,,L,False,1-2-1,False,Cleveland Browns,10.0,19.0,12.0,239.0,138.0,101.0,2.0,12.0,231.0,169.0,62.0,2.0,1962,,,
+30,5,Sun,October 14,,W,False,2-2-1,True,Philadelphia Eagles,41.0,19.0,13.0,354.0,199.0,155.0,1.0,21.0,328.0,250.0,78.0,2.0,1962,,,
+31,6,Sun,October 21,,W,False,3-2-1,False,Pittsburgh Steelers,42.0,27.0,19.0,402.0,295.0,107.0,3.0,21.0,373.0,250.0,123.0,4.0,1962,,,
+32,7,Sun,October 28,,L,False,3-3-1,True,St. Louis Cardinals,24.0,28.0,20.0,379.0,178.0,201.0,4.0,14.0,349.0,239.0,110.0,5.0,1962,,,
+33,8,Sun,November 4,,W,False,4-3-1,False,Washington Redskins,38.0,10.0,21.0,388.0,164.0,224.0,1.0,17.0,293.0,225.0,68.0,3.0,1962,,,
+34,9,Sun,November 11,,L,False,4-4-1,True,New York Giants,10.0,41.0,16.0,262.0,173.0,89.0,4.0,22.0,446.0,340.0,106.0,2.0,1962,,,
+35,10,Sun,November 18,,L,False,4-5-1,True,Chicago Bears,33.0,34.0,14.0,301.0,144.0,157.0,1.0,28.0,504.0,437.0,67.0,2.0,1962,,,
+36,11,Sun,November 25,,L,False,4-6-1,False,Philadelphia Eagles,14.0,28.0,19.0,300.0,208.0,92.0,4.0,22.0,453.0,313.0,140.0,2.0,1962,,,
+37,12,Sun,December 2,,W,False,5-6-1,True,Cleveland Browns,45.0,21.0,28.0,398.0,181.0,217.0,1.0,18.0,295.0,234.0,61.0,2.0,1962,,,
+38,13,Sun,December 9,,L,False,5-7-1,False,St. Louis Cardinals,20.0,52.0,14.0,274.0,188.0,86.0,5.0,22.0,527.0,310.0,217.0,3.0,1962,,,
+39,14,Sun,December 16,,L,False,5-8-1,False,New York Giants,31.0,41.0,16.0,378.0,212.0,166.0,4.0,23.0,471.0,318.0,153.0,4.0,1962,,,
+40,1,Sat,September 14,,L,False,0-1,True,St. Louis Cardinals,7.0,34.0,16.0,254.0,143.0,111.0,1.0,20.0,339.0,133.0,206.0,1.0,1963,,,
+41,2,Sun,September 22,,L,False,0-2,True,Cleveland Browns,24.0,41.0,19.0,307.0,189.0,118.0,3.0,19.0,453.0,188.0,265.0,2.0,1963,,,
+42,3,Sun,September 29,,L,False,0-3,False,Washington Redskins,17.0,21.0,22.0,349.0,185.0,164.0,3.0,19.0,273.0,150.0,123.0,2.0,1963,,,
+43,4,Sun,October 6,,L,False,0-4,False,Philadelphia Eagles,21.0,24.0,11.0,203.0,129.0,74.0,1.0,20.0,385.0,193.0,192.0,1.0,1963,,,
+44,5,Sun,October 13,,W,False,1-4,True,Detroit Lions,17.0,14.0,10.0,236.0,63.0,173.0,3.0,16.0,359.0,254.0,105.0,3.0,1963,,,
+45,6,Sun,October 20,,L,False,1-5,False,New York Giants,21.0,37.0,19.0,317.0,257.0,60.0,2.0,22.0,360.0,273.0,87.0,1.0,1963,,,
+46,7,Sun,October 27,,L,False,1-6,False,Pittsburgh Steelers,21.0,27.0,22.0,416.0,290.0,126.0,3.0,19.0,484.0,370.0,114.0,3.0,1963,,,
+47,8,Sun,November 3,,W,False,2-6,True,Washington Redskins,35.0,20.0,17.0,221.0,124.0,97.0,3.0,23.0,468.0,318.0,150.0,7.0,1963,,,
+48,9,Sun,November 10,,L,False,2-7,False,San Francisco 49ers,24.0,31.0,31.0,532.0,419.0,113.0,3.0,23.0,394.0,239.0,155.0,1.0,1963,,,
+49,10,Sun,November 17,,W,False,3-7,True,Philadelphia Eagles,27.0,20.0,25.0,448.0,297.0,151.0,2.0,16.0,340.0,264.0,76.0,2.0,1963,,,
+50,11,Sun,November 24,,L,False,3-8,False,Cleveland Browns,17.0,27.0,13.0,207.0,82.0,125.0,4.0,14.0,337.0,162.0,175.0,5.0,1963,,,
+51,12,Sun,December 1,,L,False,3-9,True,New York Giants,27.0,34.0,18.0,296.0,70.0,226.0,5.0,15.0,264.0,191.0,73.0,3.0,1963,,,
+52,13,Sun,December 8,,L,False,3-10,True,Pittsburgh Steelers,19.0,24.0,15.0,263.0,112.0,151.0,1.0,19.0,426.0,215.0,211.0,2.0,1963,,,
+53,14,Sun,December 15,,W,False,4-10,False,St. Louis Cardinals,28.0,24.0,10.0,214.0,108.0,106.0,2.0,21.0,443.0,281.0,162.0,4.0,1963,,,
+54,1,Sat,September 12,,L,False,0-1,True,St. Louis Cardinals,6.0,16.0,14.0,275.0,151.0,124.0,3.0,14.0,271.0,199.0,72.0,2.0,1964,,,
+55,2,Sun,September 20,,W,False,1-1,True,Washington Redskins,24.0,18.0,19.0,335.0,155.0,180.0,4.0,12.0,207.0,148.0,59.0,2.0,1964,,,
+56,3,Sun,September 27,,L,False,1-2,False,Pittsburgh Steelers,17.0,23.0,19.0,320.0,170.0,150.0,2.0,16.0,291.0,160.0,131.0,,1964,,,
+57,4,Sun,October 4,,L,False,1-3,False,Cleveland Browns,6.0,27.0,17.0,239.0,107.0,132.0,1.0,18.0,367.0,251.0,116.0,2.0,1964,,,
+58,5,Sun,October 11,,T,False,1-3-1,True,New York Giants,13.0,13.0,27.0,463.0,245.0,218.0,6.0,9.0,128.0,33.0,95.0,2.0,1964,,,
+59,6,Sun,October 18,,L,False,1-4-1,True,Cleveland Browns,16.0,20.0,20.0,332.0,236.0,96.0,5.0,12.0,264.0,69.0,195.0,3.0,1964,,,
+60,7,Sun,October 25,,W,False,2-4-1,False,St. Louis Cardinals,31.0,13.0,18.0,276.0,130.0,146.0,1.0,17.0,264.0,145.0,119.0,4.0,1964,,,
+61,8,Sun,November 1,,W,False,3-4-1,False,Chicago Bears,24.0,10.0,19.0,271.0,142.0,129.0,4.0,19.0,263.0,168.0,95.0,4.0,1964,,,
+62,9,Sun,November 8,,W,False,4-4-1,False,New York Giants,31.0,21.0,14.0,242.0,161.0,81.0,3.0,20.0,301.0,249.0,52.0,5.0,1964,,,
+63,10,Sun,November 15,,L,False,4-5-1,True,Philadelphia Eagles,14.0,17.0,14.0,223.0,152.0,71.0,1.0,13.0,300.0,148.0,152.0,2.0,1964,,,
+64,11,Sun,November 22,,L,False,4-6-1,False,Washington Redskins,16.0,28.0,11.0,196.0,60.0,136.0,5.0,16.0,366.0,307.0,59.0,3.0,1964,,,
+65,12,Sun,November 29,,L,False,4-7-1,True,Green Bay Packers,21.0,45.0,8.0,132.0,54.0,78.0,6.0,17.0,246.0,130.0,116.0,2.0,1964,,,
+66,13,Sun,December 6,,L,False,4-8-1,False,Philadelphia Eagles,14.0,24.0,13.0,132.0,73.0,59.0,1.0,16.0,257.0,92.0,165.0,2.0,1964,,,
+67,14,Sun,December 13,,W,False,5-8-1,True,Pittsburgh Steelers,17.0,14.0,17.0,268.0,177.0,91.0,1.0,12.0,225.0,147.0,78.0,5.0,1964,,,
+68,1,Sun,September 19,,W,False,1-0,True,New York Giants,31.0,2.0,19.0,270.0,128.0,142.0,1.0,8.0,139.0,40.0,99.0,4.0,1965,,,
+69,2,Sun,September 26,,W,False,2-0,True,Washington Redskins,27.0,7.0,16.0,297.0,137.0,160.0,1.0,13.0,274.0,185.0,89.0,5.0,1965,,,
+70,3,Mon,October 4,,L,False,2-1,False,St. Louis Cardinals,13.0,20.0,9.0,181.0,96.0,85.0,3.0,20.0,353.0,156.0,197.0,3.0,1965,,,
+71,4,Sun,October 10,,L,False,2-2,True,Philadelphia Eagles,24.0,35.0,14.0,298.0,234.0,64.0,3.0,22.0,396.0,254.0,142.0,,1965,,,
+72,5,Sun,October 17,,L,False,2-3,False,Cleveland Browns,17.0,23.0,15.0,264.0,185.0,79.0,1.0,16.0,335.0,230.0,105.0,1.0,1965,,,
+73,6,Sun,October 24,,L,False,2-4,False,Green Bay Packers,3.0,13.0,13.0,192.0,-1.0,193.0,5.0,7.0,63.0,-10.0,73.0,,1965,,,
+74,7,Sun,October 31,,L,False,2-5,False,Pittsburgh Steelers,13.0,22.0,14.0,255.0,165.0,90.0,3.0,16.0,314.0,245.0,69.0,2.0,1965,,,
+75,8,Sun,November 7,,W,False,3-5,True,San Francisco 49ers,39.0,31.0,9.0,242.0,201.0,41.0,3.0,26.0,411.0,238.0,173.0,5.0,1965,,,
+76,9,Sun,November 14,,W,False,4-5,True,Pittsburgh Steelers,24.0,17.0,15.0,341.0,218.0,123.0,5.0,12.0,197.0,147.0,50.0,6.0,1965,,,
+77,10,Sun,November 21,,L,False,4-6,True,Cleveland Browns,17.0,24.0,18.0,293.0,169.0,124.0,3.0,15.0,200.0,65.0,135.0,1.0,1965,,,
+78,11,Sun,November 28,,L,False,4-7,False,Washington Redskins,31.0,34.0,17.0,284.0,202.0,82.0,2.0,28.0,415.0,364.0,51.0,6.0,1965,,,
+79,12,Sun,December 5,,W,False,5-7,False,Philadelphia Eagles,21.0,19.0,18.0,341.0,156.0,185.0,2.0,22.0,434.0,370.0,64.0,2.0,1965,,,
+80,13,Sat,December 11,,W,False,6-7,True,St. Louis Cardinals,27.0,13.0,18.0,403.0,324.0,79.0,1.0,17.0,339.0,251.0,88.0,,1965,,,
+81,14,Sun,December 19,,W,False,7-7,False,New York Giants,38.0,20.0,16.0,334.0,173.0,161.0,2.0,18.0,322.0,213.0,109.0,3.0,1965,,,
+82,2,Sun,September 18,,W,False,1-0,True,New York Giants,52.0,7.0,24.0,518.0,374.0,144.0,1.0,18.0,257.0,120.0,137.0,4.0,1966,,,
+83,3,Sun,September 25,,W,False,2-0,True,Minnesota Vikings,28.0,17.0,18.0,314.0,166.0,148.0,,25.0,389.0,247.0,142.0,1.0,1966,,,
+84,4,Sun,October 2,,W,False,3-0,False,Atlanta Falcons,47.0,14.0,22.0,363.0,220.0,143.0,2.0,20.0,276.0,170.0,106.0,5.0,1966,,,
+85,5,Sun,October 9,,W,False,4-0,True,Philadelphia Eagles,56.0,7.0,32.0,652.0,440.0,212.0,,11.0,217.0,179.0,38.0,1.0,1966,,,
+86,6,Sun,October 16,,T,False,4-0-1,False,St. Louis Cardinals,10.0,10.0,17.0,326.0,191.0,135.0,4.0,13.0,175.0,130.0,45.0,,1966,,,
+87,7,Sun,October 23,,L,False,4-1-1,False,Cleveland Browns,21.0,30.0,30.0,413.0,257.0,156.0,4.0,17.0,264.0,159.0,105.0,,1966,,,
+88,8,Sun,October 30,,W,False,5-1-1,True,Pittsburgh Steelers,52.0,21.0,24.0,425.0,233.0,192.0,3.0,6.0,119.0,112.0,7.0,4.0,1966,,,
+89,9,Sun,November 6,,L,False,5-2-1,False,Philadelphia Eagles,23.0,24.0,16.0,240.0,128.0,112.0,2.0,5.0,80.0,22.0,58.0,3.0,1966,,,
+90,10,Sun,November 13,,W,False,6-2-1,False,Washington Redskins,31.0,30.0,24.0,515.0,383.0,132.0,3.0,19.0,341.0,318.0,23.0,,1966,,,
+91,11,Sun,November 20,,W,False,7-2-1,False,Pittsburgh Steelers,20.0,7.0,16.0,258.0,134.0,124.0,1.0,16.0,163.0,110.0,53.0,3.0,1966,,,
+92,12,Thu,November 24,,W,False,8-2-1,True,Cleveland Browns,26.0,14.0,25.0,304.0,131.0,173.0,,18.0,321.0,164.0,157.0,1.0,1966,,,
+93,13,Sun,December 4,,W,False,9-2-1,True,St. Louis Cardinals,31.0,17.0,11.0,190.0,82.0,108.0,1.0,21.0,295.0,201.0,94.0,5.0,1966,,,
+94,14,Sun,December 11,,L,False,9-3-1,True,Washington Redskins,31.0,34.0,17.0,370.0,129.0,241.0,1.0,13.0,399.0,295.0,104.0,2.0,1966,,,
+95,15,Sun,December 18,,W,False,10-3-1,False,New York Giants,17.0,7.0,11.0,257.0,155.0,102.0,2.0,19.0,262.0,155.0,107.0,2.0,1966,,,
+96,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1966,,,
+97,Championship,Sun,January 1,,L,False,10-4-1,True,Green Bay Packers,27.0,34.0,23.0,418.0,231.0,187.0,2.0,19.0,367.0,265.0,102.0,1.0,1966,,,
+98,1,Sun,September 17,,W,False,1-0,False,Cleveland Browns,21.0,14.0,19.0,370.0,189.0,181.0,4.0,12.0,221.0,210.0,11.0,3.0,1967,,,
+99,2,Sun,September 24,,W,False,2-0,True,New York Giants,38.0,24.0,23.0,414.0,236.0,178.0,1.0,15.0,266.0,190.0,76.0,3.0,1967,,,
+100,3,Sun,October 1,,L,False,2-1,True,Los Angeles Rams,13.0,35.0,20.0,272.0,221.0,51.0,4.0,25.0,356.0,135.0,221.0,1.0,1967,,,
+101,4,Sun,October 8,,W,False,3-1,False,Washington Redskins,17.0,14.0,18.0,320.0,205.0,115.0,2.0,14.0,253.0,237.0,16.0,3.0,1967,,,
+102,5,Sun,October 15,,W,False,4-1,True,New Orleans Saints,14.0,10.0,18.0,234.0,109.0,125.0,3.0,12.0,207.0,165.0,42.0,3.0,1967,,,
+103,6,Sun,October 22,,W,False,5-1,False,Pittsburgh Steelers,24.0,21.0,14.0,378.0,290.0,88.0,1.0,29.0,379.0,298.0,81.0,2.0,1967,,,
+104,7,Sun,October 29,,L,False,5-2,False,Philadelphia Eagles,14.0,21.0,13.0,306.0,192.0,114.0,5.0,23.0,341.0,165.0,176.0,6.0,1967,,,
+105,8,Sun,November 5,,W,False,6-2,True,Atlanta Falcons,37.0,7.0,21.0,324.0,153.0,171.0,2.0,13.0,223.0,157.0,66.0,5.0,1967,,,
+106,9,Sun,November 12,,W,False,7-2,False,New Orleans Saints,27.0,10.0,18.0,380.0,178.0,202.0,2.0,14.0,211.0,168.0,43.0,3.0,1967,,,
+107,10,Sun,November 19,,L,False,7-3,True,Washington Redskins,20.0,27.0,27.0,446.0,342.0,104.0,5.0,16.0,314.0,265.0,49.0,2.0,1967,,,
+108,11,Thu,November 23,,W,False,8-3,True,St. Louis Cardinals,46.0,21.0,18.0,436.0,300.0,136.0,1.0,15.0,317.0,222.0,95.0,4.0,1967,,,
+109,12,Sun,December 3,,L,False,8-4,False,Baltimore Colts,17.0,23.0,13.0,223.0,89.0,134.0,4.0,16.0,310.0,260.0,50.0,4.0,1967,,,
+110,13,Sun,December 10,,W,False,9-4,True,Philadelphia Eagles,38.0,17.0,22.0,325.0,158.0,167.0,4.0,12.0,102.0,79.0,23.0,5.0,1967,,,
+111,14,Sat,December 16,,L,False,9-5,False,San Francisco 49ers,16.0,24.0,17.0,271.0,137.0,134.0,4.0,20.0,371.0,239.0,132.0,4.0,1967,,,
+112,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1967,,,
+113,Division,Sun,December 24,,W,False,10-5,True,Cleveland Browns,52.0,14.0,22.0,401.0,223.0,178.0,2.0,15.0,322.0,163.0,159.0,1.0,1967,,,
+114,Championship,Sun,December 31,,L,False,10-6,False,Green Bay Packers,17.0,21.0,11.0,192.0,100.0,92.0,2.0,18.0,195.0,115.0,80.0,2.0,1967,,,
+115,1,Sun,September 15,,W,False,1-0,True,Detroit Lions,59.0,13.0,29.0,542.0,381.0,161.0,,15.0,257.0,189.0,68.0,4.0,1968,,,
+116,2,Sun,September 22,,W,False,2-0,True,Cleveland Browns,28.0,7.0,24.0,346.0,143.0,203.0,1.0,12.0,250.0,163.0,87.0,2.0,1968,,,
+117,3,Sun,September 29,,W,False,3-0,False,Philadelphia Eagles,45.0,13.0,21.0,418.0,281.0,137.0,2.0,14.0,263.0,223.0,40.0,7.0,1968,,,
+118,4,Sun,October 6,,W,False,4-0,False,St. Louis Cardinals,27.0,10.0,22.0,297.0,103.0,194.0,1.0,14.0,251.0,173.0,78.0,2.0,1968,,,
+119,5,Sun,October 13,,W,False,5-0,True,Philadelphia Eagles,34.0,14.0,27.0,414.0,263.0,151.0,1.0,11.0,164.0,72.0,92.0,5.0,1968,,,
+120,6,Sun,October 20,,W,False,6-0,False,Minnesota Vikings,20.0,7.0,9.0,177.0,93.0,84.0,2.0,16.0,274.0,144.0,130.0,3.0,1968,,,
+121,7,Mon,October 28,,L,False,6-1,True,Green Bay Packers,17.0,28.0,20.0,365.0,206.0,159.0,4.0,20.0,322.0,217.0,105.0,1.0,1968,,,
+122,8,Sun,November 3,,W,False,7-1,False,New Orleans Saints,17.0,3.0,22.0,405.0,220.0,185.0,7.0,13.0,243.0,184.0,59.0,4.0,1968,,,
+123,9,Sun,November 10,,L,False,7-2,True,New York Giants,21.0,27.0,24.0,349.0,250.0,99.0,5.0,13.0,293.0,181.0,112.0,1.0,1968,,,
+124,10,Sun,November 17,,W,False,8-2,False,Washington Redskins,44.0,24.0,24.0,515.0,295.0,220.0,2.0,13.0,289.0,207.0,82.0,2.0,1968,,,
+125,11,Sun,November 24,,W,False,9-2,False,Chicago Bears,34.0,3.0,26.0,343.0,230.0,113.0,2.0,9.0,147.0,80.0,67.0,3.0,1968,,,
+126,12,Thu,November 28,,W,False,10-2,True,Washington Redskins,29.0,20.0,17.0,285.0,138.0,147.0,1.0,18.0,248.0,220.0,28.0,5.0,1968,,,
+127,13,Sun,December 8,,W,False,11-2,True,Pittsburgh Steelers,28.0,7.0,11.0,341.0,232.0,109.0,2.0,19.0,313.0,120.0,193.0,1.0,1968,,,
+128,14,Sun,December 15,,W,False,12-2,False,New York Giants,28.0,10.0,21.0,320.0,191.0,129.0,3.0,15.0,319.0,265.0,54.0,1.0,1968,,,
+129,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1968,,,
+130,Division,Sat,December 21,,L,False,12-3,False,Cleveland Browns,20.0,31.0,13.0,286.0,200.0,86.0,4.0,12.0,280.0,178.0,102.0,2.0,1968,,,
+131,1,Sun,September 21,,W,False,1-0,True,St. Louis Cardinals,24.0,3.0,14.0,362.0,210.0,152.0,2.0,10.0,257.0,199.0,58.0,3.0,1969,,,
+132,2,Sun,September 28,,W,False,2-0,False,New Orleans Saints,21.0,17.0,17.0,294.0,81.0,213.0,1.0,17.0,310.0,269.0,41.0,4.0,1969,,,
+133,3,Sun,October 5,,W,False,3-0,False,Philadelphia Eagles,38.0,7.0,27.0,526.0,344.0,182.0,1.0,15.0,252.0,198.0,54.0,2.0,1969,,,
+134,4,Sun,October 12,,W,False,4-0,False,Atlanta Falcons,24.0,17.0,19.0,397.0,232.0,165.0,1.0,14.0,213.0,125.0,88.0,2.0,1969,,,
+135,5,Sun,October 19,,W,False,5-0,True,Philadelphia Eagles,49.0,14.0,24.0,447.0,276.0,171.0,1.0,8.0,180.0,122.0,58.0,3.0,1969,,,
+136,6,Mon,October 27,,W,False,6-0,True,New York Giants,25.0,3.0,21.0,370.0,153.0,217.0,3.0,8.0,166.0,126.0,40.0,2.0,1969,,,
+137,7,Sun,November 2,,L,False,6-1,False,Cleveland Browns,10.0,42.0,20.0,323.0,183.0,140.0,6.0,20.0,325.0,230.0,95.0,3.0,1969,,,
+138,8,Sun,November 9,,W,False,7-1,True,New Orleans Saints,33.0,17.0,18.0,438.0,251.0,187.0,2.0,20.0,303.0,162.0,141.0,3.0,1969,,,
+139,9,Sun,November 16,,W,False,8-1,False,Washington Redskins,41.0,28.0,23.0,365.0,147.0,218.0,1.0,19.0,377.0,320.0,57.0,4.0,1969,,,
+140,10,Sun,November 23,,L,False,8-2,False,Los Angeles Rams,23.0,24.0,20.0,352.0,222.0,130.0,4.0,16.0,290.0,202.0,88.0,2.0,1969,,,
+141,11,Thu,November 27,,T,False,8-2-1,True,San Francisco 49ers,24.0,24.0,21.0,305.0,168.0,137.0,3.0,15.0,319.0,227.0,92.0,1.0,1969,,,
+142,12,Sun,December 7,,W,False,9-2-1,False,Pittsburgh Steelers,10.0,7.0,13.0,202.0,109.0,93.0,3.0,14.0,217.0,140.0,77.0,1.0,1969,,,
+143,13,Sat,December 13,,W,False,10-2-1,True,Baltimore Colts,27.0,10.0,18.0,408.0,275.0,133.0,1.0,8.0,224.0,164.0,60.0,4.0,1969,,,
+144,14,Sun,December 21,,W,False,11-2-1,True,Washington Redskins,20.0,10.0,20.0,333.0,195.0,138.0,1.0,19.0,274.0,173.0,101.0,1.0,1969,,,
+145,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1969,,,
+146,Division,Sun,December 28,,L,False,11-3-1,True,Cleveland Browns,14.0,38.0,17.0,217.0,117.0,100.0,3.0,22.0,344.0,247.0,97.0,,1969,,,
+147,1,Sun,September 20,1:00PM ET,W,False,1-0,False,Philadelphia Eagles,17.0,7.0,20.0,297.0,99.0,198.0,3.0,13.0,225.0,121.0,104.0,4.0,1970,,,
+148,2,Sun,September 27,2:00PM ET,W,False,2-0,True,New York Giants,28.0,10.0,24.0,360.0,161.0,199.0,2.0,15.0,238.0,139.0,99.0,3.0,1970,,,
+149,3,Sun,October 4,2:00PM ET,L,False,2-1,False,St. Louis Cardinals,7.0,20.0,17.0,269.0,128.0,141.0,2.0,15.0,309.0,164.0,145.0,2.0,1970,,,
+150,4,Sun,October 11,2:00PM ET,W,False,3-1,True,Atlanta Falcons,13.0,0.0,13.0,257.0,39.0,218.0,3.0,9.0,128.0,44.0,84.0,3.0,1970,,,
+151,5,Sun,October 18,4:00PM ET,L,False,3-2,False,Minnesota Vikings,13.0,54.0,14.0,286.0,126.0,160.0,4.0,19.0,258.0,145.0,113.0,,1970,,,
+152,6,Sun,October 25,4:00PM ET,W,False,4-2,False,Kansas City Chiefs,27.0,16.0,15.0,327.0,132.0,195.0,1.0,12.0,236.0,183.0,53.0,3.0,1970,,,
+153,7,Sun,November 1,2:00PM ET,W,False,5-2,True,Philadelphia Eagles,21.0,17.0,8.0,278.0,232.0,46.0,1.0,20.0,396.0,245.0,151.0,4.0,1970,,,
+154,8,Sun,November 8,1:00PM ET,L,False,5-3,False,New York Giants,20.0,23.0,9.0,263.0,161.0,102.0,,20.0,338.0,136.0,202.0,3.0,1970,,,
+155,9,Mon,November 16,9:00PM ET,L,False,5-4,True,St. Louis Cardinals,0.0,38.0,14.0,243.0,140.0,103.0,6.0,19.0,392.0,150.0,242.0,1.0,1970,,,
+156,10,Sun,November 22,1:00PM ET,W,False,6-4,False,Washington Redskins,45.0,21.0,22.0,370.0,189.0,181.0,1.0,20.0,304.0,135.0,169.0,2.0,1970,,,
+157,11,Thu,November 26,3:30PM ET,W,False,7-4,True,Green Bay Packers,16.0,3.0,15.0,352.0,201.0,151.0,,9.0,129.0,51.0,78.0,1.0,1970,,,
+158,12,Sun,December 6,4:00PM ET,W,False,8-4,True,Washington Redskins,34.0,0.0,24.0,424.0,148.0,276.0,1.0,9.0,166.0,99.0,67.0,4.0,1970,,,
+159,13,Sat,December 12,1:15PM ET,W,False,9-4,False,Cleveland Browns,6.0,2.0,12.0,174.0,52.0,122.0,1.0,13.0,299.0,236.0,63.0,4.0,1970,,,
+160,14,Sun,December 20,2:00PM ET,W,False,10-4,True,Houston Oilers,52.0,10.0,22.0,549.0,341.0,208.0,3.0,12.0,151.0,65.0,86.0,5.0,1970,,,
+161,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1970,,,
+162,Division,Sat,December 26,3:30PM ET,W,False,11-4,True,Detroit Lions,5.0,0.0,14.0,231.0,22.0,209.0,1.0,7.0,156.0,80.0,76.0,3.0,1970,,,
+163,Conf. Champ.,Sun,January 3,4:30PM ET,W,False,12-4,False,San Francisco 49ers,17.0,10.0,22.0,319.0,90.0,229.0,1.0,15.0,307.0,246.0,61.0,2.0,1970,,,
+164,SuperBowl,Sun,January 17,1:50PM ET,L,False,12-5,N,Baltimore Colts,13.0,16.0,9.0,217.0,113.0,104.0,4.0,14.0,329.0,260.0,69.0,7.0,1970,,,
+165,1,Sun,September 19,1:00PM ET,W,False,1-0,False,Buffalo Bills,49.0,37.0,19.0,371.0,211.0,160.0,1.0,18.0,401.0,335.0,66.0,4.0,1971,,,
+166,2,Sun,September 26,1:00PM ET,W,False,2-0,False,Philadelphia Eagles,42.0,7.0,23.0,369.0,219.0,150.0,4.0,12.0,170.0,138.0,32.0,8.0,1971,,,
+167,3,Sun,October 3,2:00PM ET,L,False,2-1,True,Washington Redskins,16.0,20.0,20.0,267.0,185.0,82.0,1.0,14.0,285.0,85.0,200.0,3.0,1971,,,
+168,4,Mon,October 11,9:00PM ET,W,False,3-1,True,New York Giants,20.0,13.0,21.0,401.0,179.0,222.0,6.0,18.0,332.0,265.0,67.0,5.0,1971,,,
+169,5,Sun,October 17,2:00PM ET,L,False,3-2,False,New Orleans Saints,14.0,24.0,20.0,300.0,204.0,96.0,6.0,10.0,157.0,49.0,108.0,2.0,1971,,,
+170,6,Sun,October 24,2:00PM ET,W,False,4-2,True,New England Patriots,44.0,21.0,20.0,406.0,238.0,168.0,,17.0,259.0,183.0,76.0,3.0,1971,,,
+171,7,Sun,October 31,2:00PM ET,L,False,4-3,False,Chicago Bears,19.0,23.0,26.0,481.0,342.0,139.0,7.0,7.0,194.0,112.0,82.0,2.0,1971,,,
+172,8,Sun,November 7,2:00PM ET,W,False,5-3,False,St. Louis Cardinals,16.0,13.0,20.0,372.0,199.0,173.0,,11.0,228.0,192.0,36.0,1.0,1971,,,
+173,9,Sun,November 14,2:00PM ET,W,False,6-3,True,Philadelphia Eagles,20.0,7.0,21.0,308.0,129.0,179.0,1.0,14.0,286.0,242.0,44.0,5.0,1971,,,
+174,10,Sun,November 21,1:00PM ET,W,False,7-3,False,Washington Redskins,13.0,0.0,16.0,279.0,133.0,146.0,1.0,15.0,232.0,167.0,65.0,2.0,1971,,,
+175,11,Thu,November 25,3:30PM ET,W,False,8-3,True,Los Angeles Rams,28.0,21.0,15.0,280.0,166.0,114.0,,21.0,313.0,227.0,86.0,3.0,1971,,,
+176,12,Sat,December 4,4:00PM ET,W,False,9-3,True,New York Jets,52.0,10.0,26.0,439.0,221.0,218.0,1.0,12.0,149.0,19.0,130.0,6.0,1971,,,
+177,13,Sun,December 12,1:00PM ET,W,False,10-3,False,New York Giants,42.0,14.0,23.0,439.0,242.0,197.0,3.0,17.0,247.0,183.0,64.0,4.0,1971,,,
+178,14,Sat,December 18,4:00PM ET,W,False,11-3,True,St. Louis Cardinals,31.0,12.0,18.0,323.0,118.0,205.0,4.0,14.0,215.0,127.0,88.0,3.0,1971,,,
+179,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1971,,,
+180,Division,Sat,December 25,1:00PM ET,W,False,12-3,False,Minnesota Vikings,20.0,12.0,10.0,183.0,85.0,98.0,,17.0,311.0,210.0,101.0,5.0,1971,,,
+181,Conf. Champ.,Sun,January 2,1:30PM ET,W,False,13-3,True,San Francisco 49ers,14.0,3.0,16.0,244.0,72.0,172.0,1.0,9.0,239.0,178.0,61.0,3.0,1971,,,
+182,SuperBowl,Sun,January 16,2:50PM ET,W,False,14-3,N,Miami Dolphins,24.0,3.0,23.0,352.0,100.0,252.0,1.0,10.0,185.0,105.0,80.0,3.0,1971,,,
+183,1,Sun,September 17,2:00PM ET,W,False,1-0,True,Philadelphia Eagles,28.0,6.0,22.0,389.0,235.0,154.0,3.0,17.0,315.0,245.0,70.0,4.0,1972,,,
+184,2,Sun,September 24,1:00PM ET,W,False,2-0,False,New York Giants,23.0,14.0,18.0,297.0,158.0,139.0,,14.0,355.0,271.0,84.0,2.0,1972,,,
+185,3,Sun,October 1,2:00PM ET,L,False,2-1,False,Green Bay Packers,13.0,16.0,16.0,269.0,131.0,138.0,5.0,11.0,168.0,44.0,124.0,,1972,,,
+186,4,Sun,October 8,2:00PM ET,W,False,3-1,True,Pittsburgh Steelers,17.0,13.0,21.0,367.0,176.0,191.0,4.0,14.0,272.0,142.0,130.0,2.0,1972,,,
+187,5,Sun,October 15,4:00PM ET,W,False,4-1,False,Baltimore Colts,21.0,0.0,21.0,390.0,265.0,125.0,2.0,14.0,175.0,70.0,105.0,3.0,1972,,,
+188,6,Sun,October 22,4:00PM ET,L,False,4-2,False,Washington Redskins,20.0,24.0,18.0,276.0,160.0,116.0,2.0,17.0,305.0,172.0,133.0,1.0,1972,,,
+189,7,Mon,October 30,9:00PM ET,W,False,5-2,True,Detroit Lions,28.0,24.0,19.0,365.0,206.0,159.0,2.0,14.0,283.0,224.0,59.0,,1972,,,
+190,8,Sun,November 5,4:00PM ET,W,False,6-2,False,San Diego Chargers,34.0,28.0,17.0,269.0,169.0,100.0,2.0,17.0,346.0,202.0,144.0,4.0,1972,,,
+191,9,Sun,November 12,2:00PM ET,W,False,7-2,True,St. Louis Cardinals,33.0,24.0,23.0,427.0,197.0,230.0,1.0,16.0,328.0,274.0,54.0,3.0,1972,,,
+192,10,Sun,November 19,1:00PM ET,W,False,8-2,False,Philadelphia Eagles,28.0,7.0,20.0,321.0,158.0,163.0,3.0,12.0,126.0,6.0,120.0,3.0,1972,,,
+193,11,Thu,November 23,3:30PM ET,L,False,8-3,True,San Francisco 49ers,10.0,31.0,19.0,308.0,201.0,107.0,4.0,17.0,280.0,157.0,123.0,1.0,1972,,,
+194,12,Sun,December 3,4:00PM ET,W,False,9-3,False,St. Louis Cardinals,27.0,6.0,18.0,349.0,140.0,209.0,5.0,10.0,141.0,89.0,52.0,5.0,1972,,,
+195,13,Sat,December 9,4:00PM ET,W,False,10-3,True,Washington Redskins,34.0,24.0,14.0,307.0,61.0,246.0,1.0,19.0,312.0,169.0,143.0,4.0,1972,,,
+196,14,Sun,December 17,4:00PM ET,L,False,10-4,True,New York Giants,3.0,23.0,10.0,132.0,85.0,47.0,4.0,25.0,349.0,175.0,174.0,1.0,1972,,,
+197,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1972,,,
+198,Division,Sat,December 23,4:00PM ET,W,False,11-4,False,San Francisco 49ers,30.0,28.0,22.0,402.0,237.0,165.0,5.0,13.0,255.0,150.0,105.0,3.0,1972,,,
+199,Conf. Champ.,Sun,December 31,3:00PM ET,L,False,11-5,False,Washington Redskins,3.0,26.0,8.0,169.0,73.0,96.0,1.0,16.0,316.0,194.0,122.0,1.0,1972,,,
+200,1,Sun,September 16,2:00PM ET,W,False,1-0,False,Chicago Bears,20.0,17.0,17.0,272.0,84.0,188.0,3.0,12.0,202.0,30.0,172.0,6.0,1973,,,
+201,2,Mon,September 24,9:00PM ET,W,False,2-0,True,New Orleans Saints,40.0,3.0,24.0,355.0,186.0,169.0,1.0,17.0,236.0,98.0,138.0,2.0,1973,,,
+202,3,Sun,September 30,2:00PM ET,W,False,3-0,True,St. Louis Cardinals,45.0,10.0,31.0,578.0,328.0,250.0,2.0,17.0,290.0,246.0,44.0,4.0,1973,,,
+203,4,Mon,October 8,9:00PM ET,L,False,3-1,False,Washington Redskins,7.0,14.0,20.0,269.0,87.0,182.0,1.0,13.0,174.0,103.0,71.0,1.0,1973,,,
+204,5,Sun,October 14,4:00PM ET,L,False,3-2,False,Los Angeles Rams,31.0,37.0,17.0,264.0,150.0,114.0,5.0,16.0,383.0,279.0,104.0,3.0,1973,,,
+205,6,Sun,October 21,4:00PM ET,W,False,4-2,True,New York Giants,45.0,28.0,22.0,360.0,126.0,234.0,1.0,21.0,335.0,219.0,116.0,2.0,1973,,,
+206,7,Sun,October 28,1:00PM ET,L,False,4-3,False,Philadelphia Eagles,16.0,30.0,27.0,362.0,232.0,130.0,4.0,19.0,272.0,203.0,69.0,,1973,,,
+207,8,Sun,November 4,2:00PM ET,W,False,5-3,True,Cincinnati Bengals,38.0,10.0,17.0,300.0,181.0,119.0,1.0,16.0,271.0,146.0,125.0,4.0,1973,,,
+208,9,Sun,November 11,1:00PM ET,W,False,6-3,False,New York Giants,23.0,10.0,14.0,195.0,54.0,141.0,2.0,18.0,267.0,186.0,81.0,6.0,1973,,,
+209,10,Sun,November 18,2:00PM ET,W,False,7-3,True,Philadelphia Eagles,31.0,10.0,16.0,393.0,107.0,286.0,3.0,12.0,251.0,133.0,118.0,2.0,1973,,,
+210,11,Thu,November 22,3:30PM ET,L,False,7-4,True,Miami Dolphins,7.0,14.0,16.0,267.0,136.0,131.0,1.0,16.0,260.0,103.0,157.0,1.0,1973,,,
+211,12,Sun,December 2,4:00PM ET,W,False,8-4,False,Denver Broncos,22.0,10.0,14.0,263.0,189.0,74.0,,12.0,229.0,147.0,82.0,3.0,1973,,,
+212,13,Sun,December 9,4:00PM ET,W,False,9-4,True,Washington Redskins,27.0,7.0,22.0,414.0,221.0,193.0,3.0,9.0,155.0,96.0,59.0,3.0,1973,,,
+213,14,Sun,December 16,2:00PM ET,W,False,10-4,False,St. Louis Cardinals,30.0,3.0,24.0,459.0,252.0,207.0,1.0,10.0,141.0,6.0,135.0,4.0,1973,,,
+214,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1973,,,
+215,Division,Sun,December 23,4:00PM ET,W,False,11-4,True,Los Angeles Rams,27.0,16.0,15.0,298.0,136.0,162.0,4.0,11.0,192.0,99.0,93.0,3.0,1973,,,
+216,Conf. Champ.,Sun,December 30,1:00PM ET,L,False,11-5,True,Minnesota Vikings,10.0,27.0,9.0,153.0,63.0,90.0,6.0,20.0,306.0,103.0,203.0,4.0,1973,,,
+217,1,Sun,September 15,4:00PM ET,W,False,1-0,False,Atlanta Falcons,24.0,0.0,21.0,411.0,206.0,205.0,2.0,7.0,108.0,44.0,64.0,5.0,1974,,,
+218,2,Mon,September 23,9:00PM ET,L,False,1-1,False,Philadelphia Eagles,10.0,13.0,20.0,385.0,217.0,168.0,3.0,5.0,165.0,67.0,98.0,3.0,1974,,,
+219,3,Sun,September 29,2:00PM ET,L,False,1-2,True,New York Giants,6.0,14.0,18.0,333.0,221.0,112.0,5.0,16.0,307.0,128.0,179.0,1.0,1974,,,
+220,4,Sun,October 6,4:00PM ET,L,False,1-3,True,Minnesota Vikings,21.0,23.0,16.0,273.0,129.0,144.0,4.0,18.0,376.0,265.0,111.0,,1974,,,
+221,5,Sun,October 13,2:00PM ET,L,False,1-4,False,St. Louis Cardinals,28.0,31.0,24.0,370.0,224.0,146.0,1.0,17.0,374.0,236.0,138.0,,1974,,,
+222,6,Sun,October 20,1:00PM ET,W,False,2-4,True,Philadelphia Eagles,31.0,24.0,29.0,420.0,174.0,246.0,,20.0,300.0,250.0,50.0,3.0,1974,,,
+223,7,Sun,October 27,1:00PM ET,W,False,3-4,False,New York Giants,21.0,7.0,22.0,344.0,160.0,184.0,3.0,13.0,227.0,165.0,62.0,4.0,1974,,,
+224,8,Sun,November 3,2:00PM ET,W,False,4-4,True,St. Louis Cardinals,17.0,14.0,22.0,278.0,146.0,132.0,,19.0,216.0,82.0,134.0,,1974,,,
+225,9,Sun,November 10,2:00PM ET,W,False,5-4,True,San Francisco 49ers,20.0,14.0,21.0,379.0,158.0,221.0,3.0,20.0,326.0,262.0,64.0,1.0,1974,,,
+226,10,Sun,November 17,4:00PM ET,L,False,5-5,False,Washington Redskins,21.0,28.0,18.0,296.0,144.0,152.0,1.0,13.0,252.0,152.0,100.0,1.0,1974,,,
+227,11,Sun,November 24,2:00PM ET,W,False,6-5,False,Houston Oilers,10.0,0.0,15.0,252.0,38.0,214.0,1.0,6.0,81.0,55.0,26.0,1.0,1974,,,
+228,12,Thu,November 28,2:45PM ET,W,False,7-5,True,Washington Redskins,24.0,23.0,23.0,373.0,239.0,134.0,5.0,11.0,207.0,102.0,105.0,1.0,1974,,,
+229,13,Sat,December 7,4:00PM ET,W,False,8-5,True,Cleveland Browns,41.0,17.0,25.0,469.0,217.0,252.0,1.0,19.0,257.0,170.0,87.0,5.0,1974,,,
+230,14,Sat,December 14,9:00PM ET,L,False,8-6,False,Oakland Raiders,23.0,27.0,21.0,400.0,256.0,144.0,2.0,15.0,267.0,141.0,126.0,1.0,1974,,,
+231,1,Sun,September 21,4:00PM ET,W,False,1-0,True,Los Angeles Rams,18.0,7.0,18.0,277.0,80.0,197.0,1.0,11.0,148.0,20.0,128.0,4.0,1975,,,
+232,2,Sun,September 28,2:00PM ET,W,True,2-0,True,St. Louis Cardinals,37.0,31.0,28.0,448.0,288.0,160.0,2.0,19.0,432.0,314.0,118.0,3.0,1975,,,
+233,3,Mon,October 6,9:00PM ET,W,False,3-0,False,Detroit Lions,36.0,10.0,14.0,344.0,250.0,94.0,2.0,16.0,210.0,27.0,183.0,3.0,1975,,,
+234,4,Sun,October 12,1:00PM ET,W,False,4-0,False,New York Giants,13.0,7.0,14.0,262.0,66.0,196.0,1.0,10.0,173.0,77.0,96.0,5.0,1975,,,
+235,5,Sun,October 19,2:00PM ET,L,False,4-1,True,Green Bay Packers,17.0,19.0,20.0,374.0,168.0,206.0,5.0,14.0,291.0,149.0,142.0,3.0,1975,,,
+236,6,Sun,October 26,1:00PM ET,W,False,5-1,False,Philadelphia Eagles,20.0,17.0,21.0,378.0,300.0,78.0,1.0,13.0,267.0,156.0,111.0,1.0,1975,,,
+237,7,Sun,November 2,4:00PM ET,L,True,5-2,False,Washington Redskins,24.0,30.0,22.0,385.0,213.0,172.0,3.0,29.0,403.0,301.0,102.0,6.0,1975,,,
+238,8,Mon,November 10,9:00PM ET,L,False,5-3,True,Kansas City Chiefs,31.0,34.0,26.0,436.0,232.0,204.0,7.0,21.0,296.0,132.0,164.0,3.0,1975,,,
+239,9,Sun,November 16,1:00PM ET,W,False,6-3,False,New England Patriots,34.0,31.0,16.0,336.0,165.0,171.0,2.0,20.0,324.0,225.0,99.0,4.0,1975,,,
+240,10,Sun,November 23,2:00PM ET,W,False,7-3,True,Philadelphia Eagles,27.0,17.0,22.0,351.0,146.0,205.0,2.0,23.0,327.0,216.0,111.0,2.0,1975,,,
+241,11,Sun,November 30,2:00PM ET,W,False,8-3,True,New York Giants,14.0,3.0,19.0,389.0,208.0,181.0,2.0,11.0,158.0,84.0,74.0,3.0,1975,,,
+242,12,Sun,December 7,2:00PM ET,L,False,8-4,False,St. Louis Cardinals,17.0,31.0,28.0,373.0,255.0,118.0,3.0,22.0,368.0,199.0,169.0,1.0,1975,,,
+243,13,Sat,December 13,3:30PM ET,W,False,9-4,True,Washington Redskins,31.0,10.0,19.0,343.0,136.0,207.0,2.0,12.0,222.0,141.0,81.0,4.0,1975,,,
+244,14,Sun,December 21,1:00PM ET,W,False,10-4,False,New York Jets,31.0,21.0,21.0,329.0,86.0,243.0,2.0,13.0,120.0,-1.0,121.0,2.0,1975,,,
+245,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1975,,,
+246,Division,Sun,December 28,1:00PM ET,W,False,11-4,False,Minnesota Vikings,17.0,14.0,19.0,356.0,225.0,131.0,1.0,12.0,215.0,100.0,115.0,1.0,1975,,,
+247,Conf. Champ.,Sun,January 4,4:00PM ET,W,False,12-4,False,Los Angeles Rams,37.0,7.0,24.0,441.0,246.0,195.0,1.0,9.0,118.0,96.0,22.0,3.0,1975,,,
+248,SuperBowl,Sun,January 18,2:00PM ET,L,False,12-5,N,Pittsburgh Steelers,17.0,21.0,14.0,270.0,162.0,108.0,3.0,13.0,339.0,190.0,149.0,,1975,,,
+249,1,Sun,September 12,2:00PM ET,W,False,1-0,True,Philadelphia Eagles,27.0,7.0,24.0,445.0,265.0,180.0,3.0,18.0,280.0,144.0,136.0,5.0,1976,,,
+250,2,Sun,September 19,2:00PM ET,W,False,2-0,False,New Orleans Saints,24.0,6.0,22.0,423.0,225.0,198.0,4.0,11.0,163.0,94.0,69.0,1.0,1976,,,
+251,3,Sun,September 26,4:00PM ET,W,False,3-0,True,Baltimore Colts,30.0,27.0,21.0,457.0,365.0,92.0,3.0,25.0,400.0,216.0,184.0,1.0,1976,,,
+252,4,Sun,October 3,4:00PM ET,W,False,4-0,False,Seattle Seahawks,28.0,13.0,25.0,411.0,200.0,211.0,1.0,19.0,243.0,140.0,103.0,1.0,1976,,,
+253,5,Sun,October 10,1:00PM ET,W,False,5-0,False,New York Giants,24.0,14.0,18.0,331.0,168.0,163.0,,18.0,291.0,153.0,138.0,1.0,1976,,,
+254,6,Sun,October 17,4:00PM ET,L,False,5-1,False,St. Louis Cardinals,17.0,21.0,23.0,380.0,229.0,151.0,1.0,26.0,436.0,346.0,90.0,4.0,1976,,,
+255,7,Sun,October 24,2:00PM ET,W,False,6-1,True,Chicago Bears,31.0,21.0,29.0,529.0,288.0,241.0,3.0,8.0,110.0,17.0,93.0,,1976,,,
+256,8,Sun,October 31,4:00PM ET,W,False,7-1,False,Washington Redskins,20.0,7.0,18.0,253.0,118.0,135.0,,10.0,146.0,58.0,88.0,3.0,1976,,,
+257,9,Sun,November 7,2:00PM ET,W,False,8-1,True,New York Giants,9.0,3.0,12.0,257.0,161.0,96.0,1.0,18.0,269.0,83.0,186.0,3.0,1976,,,
+258,10,Mon,November 15,9:00PM ET,W,False,9-1,True,Buffalo Bills,17.0,10.0,14.0,228.0,165.0,63.0,1.0,19.0,250.0,103.0,147.0,1.0,1976,,,
+259,11,Sun,November 21,1:00PM ET,L,False,9-2,False,Atlanta Falcons,10.0,17.0,15.0,307.0,125.0,182.0,4.0,13.0,230.0,89.0,141.0,2.0,1976,,,
+260,12,Thu,November 25,3:30PM ET,W,False,10-2,True,St. Louis Cardinals,19.0,14.0,16.0,295.0,126.0,169.0,3.0,24.0,377.0,249.0,128.0,2.0,1976,,,
+261,13,Sun,December 5,1:00PM ET,W,False,11-2,False,Philadelphia Eagles,26.0,7.0,22.0,365.0,248.0,117.0,1.0,13.0,176.0,42.0,134.0,,1976,,,
+262,14,Sun,December 12,4:00PM ET,L,False,11-3,True,Washington Redskins,14.0,27.0,10.0,203.0,54.0,149.0,4.0,24.0,359.0,175.0,184.0,4.0,1976,,,
+263,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1976,,,
+264,Division,Sun,December 19,5:30PM ET,L,False,11-4,True,Los Angeles Rams,12.0,14.0,14.0,211.0,126.0,85.0,4.0,17.0,250.0,130.0,120.0,3.0,1976,,,
+265,1,Sun,September 18,2:00PM ET,W,True,1-0,False,Minnesota Vikings,16.0,10.0,16.0,297.0,166.0,131.0,1.0,20.0,294.0,138.0,156.0,5.0,1977,,,
+266,2,Sun,September 25,2:00PM ET,W,False,2-0,True,New York Giants,41.0,21.0,25.0,444.0,259.0,185.0,1.0,14.0,161.0,92.0,69.0,5.0,1977,,,
+267,3,Sun,October 2,1:00PM ET,W,False,3-0,True,Tampa Bay Buccaneers,23.0,7.0,23.0,415.0,210.0,205.0,3.0,10.0,163.0,87.0,76.0,2.0,1977,,,
+268,4,Sun,October 9,2:00PM ET,W,False,4-0,False,St. Louis Cardinals,30.0,24.0,22.0,388.0,124.0,264.0,2.0,15.0,320.0,174.0,146.0,2.0,1977,,,
+269,5,Sun,October 16,4:00PM ET,W,False,5-0,True,Washington Redskins,34.0,16.0,23.0,435.0,264.0,171.0,3.0,12.0,116.0,1.0,115.0,2.0,1977,,,
+270,6,Sun,October 23,1:00PM ET,W,False,6-0,False,Philadelphia Eagles,16.0,10.0,17.0,288.0,139.0,149.0,,15.0,186.0,72.0,114.0,3.0,1977,,,
+271,7,Sun,October 30,2:00PM ET,W,False,7-0,True,Detroit Lions,37.0,0.0,20.0,344.0,168.0,176.0,1.0,7.0,120.0,46.0,74.0,3.0,1977,,,
+272,8,Sun,November 6,1:00PM ET,W,False,8-0,False,New York Giants,24.0,10.0,13.0,254.0,171.0,83.0,,13.0,121.0,2.0,119.0,2.0,1977,,,
+273,9,Mon,November 14,9:00PM ET,L,False,8-1,True,St. Louis Cardinals,17.0,24.0,16.0,236.0,80.0,156.0,3.0,19.0,295.0,137.0,158.0,2.0,1977,,,
+274,10,Sun,November 20,4:00PM ET,L,False,8-2,False,Pittsburgh Steelers,13.0,28.0,20.0,337.0,201.0,136.0,2.0,17.0,320.0,92.0,228.0,1.0,1977,,,
+275,11,Sun,November 27,4:00PM ET,W,False,9-2,False,Washington Redskins,14.0,7.0,19.0,282.0,132.0,150.0,2.0,18.0,334.0,201.0,133.0,1.0,1977,,,
+276,12,Sun,December 4,2:00PM ET,W,False,10-2,True,Philadelphia Eagles,24.0,14.0,19.0,432.0,164.0,268.0,4.0,14.0,243.0,171.0,72.0,2.0,1977,,,
+277,13,Mon,December 12,9:00PM ET,W,False,11-2,False,San Francisco 49ers,42.0,35.0,24.0,398.0,215.0,183.0,,19.0,362.0,269.0,93.0,,1977,,,
+278,14,Sun,December 18,2:00PM ET,W,False,12-2,True,Denver Broncos,14.0,6.0,15.0,262.0,150.0,112.0,2.0,12.0,178.0,80.0,98.0,1.0,1977,,,
+279,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1977,,,
+280,Division,Mon,December 26,2:00PM ET,W,False,13-2,True,Chicago Bears,37.0,7.0,20.0,365.0,132.0,233.0,3.0,15.0,224.0,143.0,81.0,7.0,1977,,,
+281,Conf. Champ.,Sun,January 1,5:00PM ET,W,False,14-2,True,Minnesota Vikings,23.0,6.0,16.0,328.0,158.0,170.0,2.0,12.0,214.0,148.0,66.0,4.0,1977,,,
+282,SuperBowl,Sun,January 15,6:00PM ET,W,False,15-2,N,Denver Broncos,27.0,10.0,17.0,325.0,182.0,143.0,2.0,11.0,156.0,35.0,121.0,8.0,1977,,,
+283,1,Mon,September 4,9:00PM ET,W,False,1-0,True,Baltimore Colts,38.0,0.0,25.0,583.0,305.0,278.0,3.0,9.0,181.0,82.0,99.0,3.0,1978,,,
+284,2,Sun,September 10,1:00PM ET,W,False,2-0,False,New York Giants,34.0,24.0,32.0,401.0,212.0,189.0,2.0,22.0,343.0,243.0,100.0,4.0,1978,,,
+285,3,Sun,September 17,4:00PM ET,L,False,2-1,False,Los Angeles Rams,14.0,27.0,21.0,319.0,223.0,96.0,5.0,16.0,317.0,219.0,98.0,2.0,1978,,,
+286,4,Sun,September 24,4:00PM ET,W,False,3-1,True,St. Louis Cardinals,21.0,12.0,21.0,389.0,173.0,216.0,2.0,16.0,310.0,195.0,115.0,,1978,,,
+287,5,Mon,October 2,9:00PM ET,L,False,3-2,False,Washington Redskins,5.0,9.0,19.0,309.0,200.0,109.0,2.0,16.0,251.0,124.0,127.0,1.0,1978,,,
+288,6,Sun,October 8,2:00PM ET,W,False,4-2,True,New York Giants,24.0,3.0,21.0,357.0,200.0,157.0,2.0,10.0,142.0,40.0,102.0,2.0,1978,,,
+289,7,Sun,October 15,2:00PM ET,W,True,5-2,False,St. Louis Cardinals,24.0,21.0,24.0,418.0,287.0,131.0,4.0,21.0,372.0,236.0,136.0,3.0,1978,,,
+290,8,Sun,October 22,2:00PM ET,W,False,6-2,True,Philadelphia Eagles,14.0,7.0,15.0,278.0,87.0,191.0,,15.0,262.0,145.0,117.0,1.0,1978,,,
+291,9,Thu,October 26,8:30PM ET,L,False,6-3,True,Minnesota Vikings,10.0,21.0,13.0,239.0,147.0,92.0,4.0,21.0,281.0,137.0,144.0,,1978,,,
+292,10,Sun,November 5,4:00PM ET,L,False,6-4,False,Miami Dolphins,16.0,23.0,19.0,328.0,239.0,89.0,5.0,13.0,206.0,152.0,54.0,,1978,,,
+293,11,Sun,November 12,4:00PM ET,W,False,7-4,False,Green Bay Packers,42.0,14.0,32.0,537.0,224.0,313.0,2.0,9.0,142.0,76.0,66.0,3.0,1978,,,
+294,12,Sun,November 19,2:00PM ET,W,False,8-4,True,New Orleans Saints,27.0,7.0,17.0,304.0,106.0,198.0,,15.0,277.0,215.0,62.0,4.0,1978,,,
+295,13,Thu,November 23,3:30PM ET,W,False,9-4,True,Washington Redskins,37.0,10.0,26.0,507.0,218.0,289.0,2.0,11.0,201.0,120.0,81.0,1.0,1978,,,
+296,14,Sun,December 3,4:00PM ET,W,False,10-4,True,New England Patriots,17.0,10.0,17.0,329.0,230.0,99.0,1.0,16.0,363.0,150.0,213.0,3.0,1978,,,
+297,15,Sun,December 10,1:00PM ET,W,False,11-4,False,Philadelphia Eagles,31.0,13.0,17.0,315.0,169.0,146.0,,11.0,224.0,85.0,139.0,5.0,1978,,,
+298,16,Sun,December 17,1:00PM ET,W,False,12-4,False,New York Jets,30.0,7.0,23.0,346.0,156.0,190.0,1.0,11.0,137.0,69.0,68.0,4.0,1978,,,
+299,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1978,,,
+300,Division,Sat,December 30,4:00PM ET,W,False,13-4,True,Atlanta Falcons,27.0,20.0,26.0,369.0,221.0,148.0,4.0,16.0,216.0,52.0,164.0,3.0,1978,,,
+301,Conf. Champ.,Sun,January 7,5:00PM ET,W,False,14-4,False,Los Angeles Rams,28.0,0.0,16.0,235.0,109.0,126.0,3.0,15.0,277.0,196.0,81.0,7.0,1978,,,
+302,SuperBowl,Sun,January 21,4:00PM ET,L,False,14-5,N,Pittsburgh Steelers,31.0,35.0,20.0,330.0,176.0,154.0,3.0,19.0,357.0,291.0,66.0,3.0,1978,,,
+303,1,Sun,September 2,2:00PM ET,W,False,1-0,False,St. Louis Cardinals,22.0,21.0,24.0,455.0,294.0,161.0,1.0,17.0,342.0,105.0,237.0,2.0,1979,,,
+304,2,Sun,September 9,4:00PM ET,W,False,2-0,False,San Francisco 49ers,21.0,13.0,19.0,347.0,249.0,98.0,1.0,16.0,294.0,231.0,63.0,2.0,1979,,,
+305,3,Sun,September 16,4:00PM ET,W,False,3-0,True,Chicago Bears,24.0,20.0,26.0,420.0,206.0,214.0,3.0,14.0,318.0,118.0,200.0,2.0,1979,,,
+306,4,Mon,September 24,9:00PM ET,L,False,3-1,False,Cleveland Browns,7.0,26.0,20.0,394.0,271.0,123.0,5.0,15.0,311.0,229.0,82.0,1.0,1979,,,
+307,5,Sun,September 30,4:00PM ET,W,False,4-1,True,Cincinnati Bengals,38.0,13.0,24.0,370.0,176.0,194.0,1.0,20.0,285.0,181.0,104.0,3.0,1979,,,
+308,6,Sun,October 7,4:00PM ET,W,False,5-1,False,Minnesota Vikings,36.0,20.0,25.0,446.0,167.0,279.0,2.0,14.0,240.0,179.0,61.0,2.0,1979,,,
+309,7,Sun,October 14,9:00PM ET,W,False,6-1,True,Los Angeles Rams,30.0,6.0,23.0,403.0,202.0,201.0,1.0,11.0,158.0,99.0,59.0,3.0,1979,,,
+310,8,Sun,October 21,2:00PM ET,W,False,7-1,True,St. Louis Cardinals,22.0,13.0,12.0,319.0,164.0,155.0,3.0,18.0,235.0,98.0,137.0,2.0,1979,,,
+311,9,Sun,October 28,1:00PM ET,L,False,7-2,False,Pittsburgh Steelers,3.0,14.0,16.0,278.0,199.0,79.0,1.0,16.0,288.0,115.0,173.0,,1979,,,
+312,10,Sun,November 4,1:00PM ET,W,False,8-2,False,New York Giants,16.0,14.0,19.0,344.0,238.0,106.0,1.0,12.0,249.0,133.0,116.0,1.0,1979,,,
+313,11,Mon,November 12,9:00PM ET,L,False,8-3,True,Philadelphia Eagles,21.0,31.0,17.0,408.0,285.0,123.0,3.0,17.0,328.0,158.0,170.0,,1979,,,
+314,12,Sun,November 18,1:00PM ET,L,False,8-4,False,Washington Redskins,20.0,34.0,27.0,384.0,299.0,85.0,5.0,19.0,306.0,202.0,104.0,,1979,,,
+315,13,Thu,November 22,4:00PM ET,L,False,8-5,True,Houston Oilers,24.0,30.0,20.0,371.0,279.0,92.0,3.0,17.0,378.0,154.0,224.0,,1979,,,
+316,14,Sun,December 2,4:00PM ET,W,False,9-5,True,New York Giants,28.0,7.0,21.0,316.0,150.0,166.0,,14.0,197.0,98.0,99.0,3.0,1979,,,
+317,15,Sat,December 8,12:30PM ET,W,False,10-5,False,Philadelphia Eagles,24.0,17.0,19.0,279.0,94.0,185.0,1.0,18.0,284.0,204.0,80.0,1.0,1979,,,
+318,16,Sun,December 16,4:00PM ET,W,False,11-5,True,Washington Redskins,35.0,34.0,27.0,434.0,320.0,114.0,3.0,21.0,373.0,167.0,206.0,1.0,1979,,,
+319,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1979,,,
+320,Division,Sun,December 30,4:00PM ET,L,False,11-6,True,Los Angeles Rams,19.0,21.0,17.0,306.0,150.0,156.0,1.0,16.0,361.0,202.0,159.0,2.0,1979,,,
+321,1,Mon,September 8,9:00PM ET,W,False,1-0,False,Washington Redskins,17.0,3.0,18.0,284.0,107.0,177.0,2.0,14.0,239.0,181.0,58.0,1.0,1980,,,
+322,2,Sun,September 14,4:00PM ET,L,False,1-1,False,Denver Broncos,20.0,41.0,20.0,386.0,276.0,110.0,3.0,19.0,343.0,190.0,153.0,,1980,,,
+323,3,Sun,September 21,4:00PM ET,W,False,2-1,True,Tampa Bay Buccaneers,28.0,17.0,26.0,390.0,244.0,146.0,1.0,22.0,442.0,238.0,204.0,2.0,1980,,,
+324,4,Sun,September 28,1:00PM ET,W,False,3-1,False,Green Bay Packers,28.0,7.0,24.0,394.0,200.0,194.0,1.0,17.0,264.0,132.0,132.0,1.0,1980,,,
+325,5,Sun,October 5,4:00PM ET,W,False,4-1,True,New York Giants,24.0,3.0,20.0,335.0,250.0,85.0,2.0,14.0,292.0,155.0,137.0,4.0,1980,,,
+326,6,Sun,October 12,2:00PM ET,W,False,5-1,True,San Francisco 49ers,59.0,14.0,28.0,460.0,226.0,234.0,,14.0,225.0,147.0,78.0,10.0,1980,,,
+327,7,Sun,October 19,1:00PM ET,L,False,5-2,False,Philadelphia Eagles,10.0,17.0,19.0,249.0,203.0,46.0,5.0,15.0,248.0,180.0,68.0,4.0,1980,,,
+328,8,Sun,October 26,9:00PM ET,W,False,6-2,True,San Diego Chargers,42.0,31.0,29.0,425.0,227.0,198.0,2.0,21.0,449.0,352.0,97.0,7.0,1980,,,
+329,9,Sun,November 2,2:00PM ET,W,False,7-2,False,St. Louis Cardinals,27.0,24.0,16.0,310.0,252.0,58.0,2.0,18.0,360.0,217.0,143.0,2.0,1980,,,
+330,10,Sun,November 9,1:00PM ET,L,False,7-3,False,New York Giants,35.0,38.0,21.0,394.0,155.0,239.0,5.0,26.0,462.0,345.0,117.0,2.0,1980,,,
+331,11,Sun,November 16,2:00PM ET,W,False,8-3,True,St. Louis Cardinals,31.0,21.0,26.0,460.0,276.0,184.0,2.0,16.0,329.0,188.0,141.0,1.0,1980,,,
+332,12,Sun,November 23,4:00PM ET,W,False,9-3,True,Washington Redskins,14.0,10.0,12.0,199.0,84.0,115.0,6.0,14.0,222.0,38.0,184.0,2.0,1980,,,
+333,13,Thu,November 27,4:00PM ET,W,False,10-3,True,Seattle Seahawks,51.0,7.0,24.0,325.0,125.0,200.0,2.0,18.0,232.0,84.0,148.0,7.0,1980,,,
+334,14,Sun,December 7,4:00PM ET,W,False,11-3,False,Oakland Raiders,19.0,13.0,17.0,260.0,132.0,128.0,1.0,16.0,248.0,165.0,83.0,4.0,1980,,,
+335,15,Mon,December 15,9:00PM ET,L,False,11-4,False,Los Angeles Rams,14.0,38.0,13.0,271.0,175.0,96.0,3.0,21.0,517.0,275.0,242.0,,1980,,,
+336,16,Sun,December 21,4:00PM ET,W,False,12-4,True,Philadelphia Eagles,35.0,27.0,24.0,340.0,172.0,168.0,2.0,21.0,407.0,323.0,84.0,,1980,,,
+337,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1980,,,
+338,Wild Card,Sun,December 28,1:30PM ET,W,False,13-4,True,Los Angeles Rams,34.0,13.0,29.0,528.0,190.0,338.0,3.0,15.0,260.0,168.0,92.0,3.0,1980,,,
+339,Division,Sun,January 4,4:00PM ET,W,False,14-4,False,Atlanta Falcons,30.0,27.0,22.0,422.0,310.0,112.0,2.0,18.0,371.0,285.0,86.0,2.0,1980,,,
+340,Conf. Champ.,Sun,January 11,1:00PM ET,L,False,14-5,False,Philadelphia Eagles,7.0,20.0,11.0,206.0,116.0,90.0,4.0,19.0,340.0,77.0,263.0,2.0,1980,,,
+341,1,Sun,September 6,1:00PM ET,W,False,1-0,False,Washington Redskins,26.0,10.0,20.0,346.0,140.0,206.0,1.0,20.0,324.0,280.0,44.0,6.0,1981,,,
+342,2,Sun,September 13,4:00PM ET,W,False,2-0,True,St. Louis Cardinals,30.0,17.0,24.0,391.0,210.0,181.0,2.0,18.0,404.0,262.0,142.0,2.0,1981,,,
+343,3,Mon,September 21,9:00PM ET,W,False,3-0,False,New England Patriots,35.0,21.0,22.0,455.0,218.0,237.0,1.0,16.0,333.0,225.0,108.0,7.0,1981,,,
+344,4,Sun,September 27,4:00PM ET,W,False,4-0,True,New York Giants,18.0,10.0,16.0,317.0,193.0,124.0,,16.0,343.0,258.0,85.0,3.0,1981,,,
+345,5,Sun,October 4,1:00PM ET,L,False,4-1,False,St. Louis Cardinals,17.0,20.0,17.0,306.0,166.0,140.0,2.0,18.0,299.0,184.0,115.0,3.0,1981,,,
+346,6,Sun,October 11,4:00PM ET,L,False,4-2,False,San Francisco 49ers,14.0,45.0,10.0,192.0,109.0,83.0,4.0,23.0,440.0,290.0,150.0,1.0,1981,,,
+347,7,Sun,October 18,9:00PM ET,W,False,5-2,True,Los Angeles Rams,29.0,17.0,24.0,496.0,275.0,221.0,3.0,22.0,374.0,203.0,171.0,3.0,1981,,,
+348,8,Sun,October 25,4:00PM ET,W,False,6-2,True,Miami Dolphins,28.0,27.0,23.0,466.0,327.0,139.0,2.0,25.0,529.0,381.0,148.0,5.0,1981,,,
+349,9,Sun,November 1,4:00PM ET,W,False,7-2,False,Philadelphia Eagles,17.0,14.0,19.0,317.0,176.0,141.0,3.0,17.0,291.0,197.0,94.0,1.0,1981,,,
+350,10,Mon,November 9,9:00PM ET,W,False,8-2,True,Buffalo Bills,27.0,14.0,21.0,398.0,202.0,196.0,3.0,18.0,365.0,310.0,55.0,5.0,1981,,,
+351,11,Sun,November 15,4:00PM ET,L,False,8-3,False,Detroit Lions,24.0,27.0,19.0,323.0,225.0,98.0,2.0,23.0,429.0,231.0,198.0,3.0,1981,,,
+352,12,Sun,November 22,4:00PM ET,W,False,9-3,True,Washington Redskins,24.0,10.0,27.0,470.0,212.0,258.0,2.0,17.0,256.0,131.0,125.0,1.0,1981,,,
+353,13,Thu,November 26,4:00PM ET,W,False,10-3,True,Chicago Bears,10.0,9.0,11.0,273.0,178.0,95.0,3.0,15.0,272.0,43.0,229.0,3.0,1981,,,
+354,14,Sun,December 6,2:00PM ET,W,False,11-3,False,Baltimore Colts,37.0,13.0,29.0,464.0,110.0,354.0,2.0,9.0,238.0,82.0,156.0,3.0,1981,,,
+355,15,Sun,December 13,4:00PM ET,W,False,12-3,True,Philadelphia Eagles,21.0,10.0,23.0,412.0,264.0,148.0,2.0,14.0,225.0,135.0,90.0,5.0,1981,,,
+356,16,Sat,December 19,12:30PM ET,L,True,12-4,False,New York Giants,10.0,13.0,16.0,254.0,164.0,90.0,3.0,15.0,297.0,158.0,139.0,2.0,1981,,,
+357,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1981,,,
+358,Division,Sat,January 2,1:00PM ET,W,False,13-4,True,Tampa Bay Buccaneers,38.0,0.0,26.0,345.0,133.0,212.0,,12.0,222.0,148.0,74.0,4.0,1981,,,
+359,Conf. Champ.,Sun,January 10,4:30PM ET,L,False,13-5,False,San Francisco 49ers,27.0,28.0,16.0,250.0,135.0,115.0,3.0,26.0,393.0,266.0,127.0,6.0,1981,,,
+360,1,Mon,September 13,9:00PM ET,L,False,0-1,True,Pittsburgh Steelers,28.0,36.0,28.0,436.0,341.0,95.0,4.0,23.0,388.0,241.0,147.0,1.0,1982,,,
+361,2,Sun,September 19,1:00PM ET,W,False,1-1,False,St. Louis Cardinals,24.0,7.0,19.0,379.0,246.0,133.0,2.0,19.0,311.0,249.0,62.0,1.0,1982,,,
+362,11,Sun,November 21,1:00PM ET,W,False,2-1,True,Tampa Bay Buccaneers,14.0,9.0,13.0,185.0,107.0,78.0,1.0,21.0,382.0,247.0,135.0,1.0,1982,,,
+363,12,Thu,November 25,4:00PM ET,W,False,3-1,True,Cleveland Browns,31.0,14.0,27.0,496.0,197.0,299.0,4.0,17.0,280.0,198.0,82.0,5.0,1982,,,
+364,13,Sun,December 5,4:00PM ET,W,False,4-1,False,Washington Redskins,24.0,10.0,22.0,362.0,202.0,160.0,2.0,15.0,275.0,209.0,66.0,3.0,1982,,,
+365,14,Mon,December 13,9:00PM ET,W,False,5-1,False,Houston Oilers,37.0,7.0,20.0,416.0,295.0,121.0,2.0,10.0,199.0,160.0,39.0,3.0,1982,,,
+366,15,Sun,December 19,4:00PM ET,W,False,6-1,True,New Orleans Saints,21.0,7.0,16.0,316.0,195.0,121.0,5.0,18.0,301.0,63.0,238.0,4.0,1982,,,
+367,16,Sun,December 26,4:00PM ET,L,False,6-2,True,Philadelphia Eagles,20.0,24.0,17.0,245.0,136.0,109.0,4.0,16.0,236.0,153.0,83.0,4.0,1982,,,
+368,17,Mon,January 3,9:00PM ET,L,False,6-3,False,Minnesota Vikings,27.0,31.0,18.0,364.0,167.0,197.0,2.0,23.0,381.0,222.0,159.0,3.0,1982,,,
+369,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1982,,,
+370,Wild Card,Sun,January 9,4:00PM ET,W,False,7-3,True,Tampa Bay Buccaneers,30.0,17.0,29.0,456.0,277.0,179.0,3.0,8.0,218.0,113.0,105.0,3.0,1982,,,
+371,Division,Sun,January 16,4:00PM ET,W,False,8-3,True,Green Bay Packers,37.0,26.0,24.0,375.0,266.0,109.0,2.0,21.0,466.0,308.0,158.0,5.0,1982,,,
+372,Conf. Champ.,Sat,January 22,12:30PM ET,L,False,8-4,False,Washington Redskins,17.0,31.0,21.0,340.0,275.0,65.0,3.0,18.0,260.0,123.0,137.0,,1982,,,
+373,1,Mon,September 5,9:00PM ET,W,False,1-0,False,Washington Redskins,31.0,30.0,16.0,356.0,173.0,183.0,,26.0,447.0,299.0,148.0,1.0,1983,,,
+374,2,Sun,September 11,1:00PM ET,W,False,2-0,False,St. Louis Cardinals,34.0,17.0,19.0,329.0,214.0,115.0,2.0,16.0,313.0,260.0,53.0,6.0,1983,,,
+375,3,Sun,September 18,4:00PM ET,W,False,3-0,True,New York Giants,28.0,13.0,18.0,309.0,220.0,89.0,3.0,16.0,334.0,203.0,131.0,4.0,1983,,,
+376,4,Sun,September 25,1:00PM ET,W,False,4-0,True,New Orleans Saints,21.0,20.0,16.0,272.0,99.0,173.0,6.0,17.0,298.0,183.0,115.0,3.0,1983,,,
+377,5,Sun,October 2,1:00PM ET,W,False,5-0,False,Minnesota Vikings,37.0,24.0,28.0,400.0,200.0,200.0,3.0,14.0,316.0,272.0,44.0,3.0,1983,,,
+378,6,Sun,October 9,4:00PM ET,W,True,6-0,True,Tampa Bay Buccaneers,27.0,24.0,25.0,444.0,340.0,104.0,3.0,13.0,335.0,248.0,87.0,2.0,1983,,,
+379,7,Sun,October 16,4:00PM ET,W,False,7-0,True,Philadelphia Eagles,37.0,7.0,32.0,522.0,310.0,212.0,1.0,9.0,209.0,165.0,44.0,2.0,1983,,,
+380,8,Sun,October 23,9:00PM ET,L,False,7-1,True,Los Angeles Raiders,38.0,40.0,17.0,319.0,238.0,81.0,3.0,31.0,519.0,300.0,219.0,6.0,1983,,,
+381,9,Sun,October 30,1:00PM ET,W,False,8-1,False,New York Giants,38.0,20.0,27.0,485.0,288.0,197.0,3.0,17.0,390.0,296.0,94.0,6.0,1983,,,
+382,10,Sun,November 6,1:00PM ET,W,False,9-1,False,Philadelphia Eagles,27.0,20.0,22.0,363.0,249.0,114.0,2.0,16.0,353.0,223.0,130.0,2.0,1983,,,
+383,11,Sun,November 13,4:00PM ET,L,False,9-2,False,San Diego Chargers,23.0,24.0,25.0,389.0,291.0,98.0,,21.0,355.0,332.0,23.0,1.0,1983,,,
+384,12,Sun,November 20,4:00PM ET,W,False,10-2,True,Kansas City Chiefs,41.0,21.0,18.0,421.0,229.0,192.0,2.0,29.0,434.0,391.0,43.0,3.0,1983,,,
+385,13,Thu,November 24,4:00PM ET,W,False,11-2,True,St. Louis Cardinals,35.0,17.0,17.0,362.0,230.0,132.0,,14.0,278.0,189.0,89.0,3.0,1983,,,
+386,14,Sun,December 4,4:00PM ET,W,False,12-2,False,Seattle Seahawks,35.0,10.0,25.0,418.0,286.0,132.0,2.0,14.0,216.0,188.0,28.0,4.0,1983,,,
+387,15,Sun,December 11,4:00PM ET,L,False,12-3,True,Washington Redskins,10.0,31.0,13.0,205.0,172.0,33.0,4.0,20.0,336.0,170.0,166.0,1.0,1983,,,
+388,16,Mon,December 19,9:00PM ET,L,False,12-4,False,San Francisco 49ers,17.0,42.0,24.0,365.0,303.0,62.0,5.0,13.0,294.0,209.0,85.0,1.0,1983,,,
+389,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1983,,,
+390,Wild Card,Mon,December 26,2:30PM ET,L,False,12-5,True,Los Angeles Rams,17.0,24.0,24.0,363.0,300.0,63.0,4.0,19.0,243.0,149.0,94.0,,1983,,,
+391,1,Mon,September 3,9:00PM ET,W,False,1-0,False,Los Angeles Rams,20.0,13.0,26.0,436.0,321.0,115.0,5.0,11.0,204.0,67.0,137.0,5.0,1984,,,
+392,2,Sun,September 9,1:00PM ET,L,False,1-1,False,New York Giants,7.0,28.0,23.0,344.0,206.0,138.0,4.0,15.0,284.0,164.0,120.0,1.0,1984,,,
+393,3,Sun,September 16,4:00PM ET,W,False,2-1,True,Philadelphia Eagles,23.0,17.0,21.0,447.0,352.0,95.0,,20.0,299.0,243.0,56.0,3.0,1984,,,
+394,4,Sun,September 23,4:00PM ET,W,False,3-1,True,Green Bay Packers,20.0,6.0,19.0,300.0,200.0,100.0,1.0,15.0,204.0,77.0,127.0,4.0,1984,,,
+395,5,Sun,September 30,1:00PM ET,W,False,4-1,False,Chicago Bears,23.0,14.0,17.0,313.0,254.0,59.0,,26.0,400.0,117.0,283.0,2.0,1984,,,
+396,6,Sun,October 7,1:00PM ET,L,False,4-2,True,St. Louis Cardinals,20.0,31.0,19.0,298.0,177.0,121.0,3.0,23.0,477.0,325.0,152.0,,1984,,,
+397,7,Sun,October 14,4:00PM ET,L,False,4-3,False,Washington Redskins,14.0,34.0,21.0,359.0,269.0,90.0,4.0,19.0,423.0,182.0,241.0,2.0,1984,,,
+398,8,Sun,October 21,9:45PM ET,W,True,5-3,True,New Orleans Saints,30.0,27.0,22.0,292.0,194.0,98.0,2.0,17.0,342.0,107.0,235.0,5.0,1984,,,
+399,9,Sun,October 28,1:00PM ET,W,False,6-3,True,Indianapolis Colts,22.0,3.0,27.0,397.0,262.0,135.0,2.0,9.0,155.0,82.0,73.0,4.0,1984,,,
+400,10,Sun,November 4,1:00PM ET,L,False,6-4,True,New York Giants,7.0,19.0,13.0,256.0,140.0,116.0,3.0,18.0,348.0,227.0,121.0,2.0,1984,,,
+401,11,Sun,November 11,4:00PM ET,W,False,7-4,False,St. Louis Cardinals,24.0,17.0,16.0,250.0,134.0,116.0,2.0,25.0,435.0,357.0,78.0,6.0,1984,,,
+402,12,Sun,November 18,1:00PM ET,L,False,7-5,False,Buffalo Bills,3.0,14.0,19.0,297.0,219.0,78.0,3.0,14.0,307.0,104.0,203.0,2.0,1984,,,
+403,13,Thu,November 22,4:00PM ET,W,False,8-5,True,New England Patriots,20.0,17.0,18.0,342.0,275.0,67.0,2.0,19.0,297.0,147.0,150.0,1.0,1984,,,
+404,14,Sun,December 2,1:00PM ET,W,False,9-5,False,Philadelphia Eagles,26.0,10.0,16.0,286.0,96.0,190.0,6.0,13.0,173.0,135.0,38.0,4.0,1984,,,
+405,15,Sun,December 9,4:00PM ET,L,False,9-6,True,Washington Redskins,28.0,30.0,25.0,387.0,281.0,106.0,4.0,22.0,299.0,148.0,151.0,,1984,,,
+406,16,Mon,December 17,9:00PM ET,L,False,9-7,False,Miami Dolphins,21.0,28.0,21.0,316.0,226.0,90.0,2.0,17.0,389.0,328.0,61.0,3.0,1984,,,
+407,1,Mon,September 9,9:00PM ET,W,False,1-0,True,Washington Redskins,44.0,14.0,19.0,319.0,206.0,113.0,1.0,24.0,369.0,249.0,120.0,7.0,1985,,,
+408,2,Sun,September 15,1:00PM ET,L,False,1-1,False,Detroit Lions,21.0,26.0,33.0,554.0,452.0,102.0,5.0,13.0,200.0,128.0,72.0,1.0,1985,,,
+409,3,Sun,September 22,1:00PM ET,W,False,2-1,True,Cleveland Browns,20.0,7.0,20.0,343.0,212.0,131.0,2.0,15.0,297.0,169.0,128.0,3.0,1985,,,
+410,4,Sun,September 29,1:00PM ET,W,False,3-1,False,Houston Oilers,17.0,10.0,16.0,339.0,183.0,156.0,,13.0,214.0,133.0,81.0,5.0,1985,,,
+411,5,Sun,October 6,9:00PM ET,W,False,4-1,False,New York Giants,30.0,29.0,27.0,423.0,317.0,106.0,4.0,19.0,473.0,403.0,70.0,5.0,1985,,,
+412,6,Sun,October 13,1:00PM ET,W,False,5-1,True,Pittsburgh Steelers,27.0,13.0,18.0,374.0,241.0,133.0,2.0,14.0,315.0,231.0,84.0,3.0,1985,,,
+413,7,Sun,October 20,1:00PM ET,L,False,5-2,False,Philadelphia Eagles,14.0,16.0,22.0,310.0,163.0,147.0,4.0,22.0,402.0,347.0,55.0,1.0,1985,,,
+414,8,Sun,October 27,1:00PM ET,W,False,6-2,True,Atlanta Falcons,24.0,10.0,28.0,461.0,352.0,109.0,4.0,18.0,253.0,91.0,162.0,4.0,1985,,,
+415,9,Mon,November 4,9:00PM ET,L,False,6-3,False,St. Louis Cardinals,10.0,21.0,18.0,248.0,159.0,89.0,3.0,19.0,286.0,237.0,49.0,,1985,,,
+416,10,Sun,November 10,4:00PM ET,W,False,7-3,False,Washington Redskins,13.0,7.0,14.0,338.0,219.0,119.0,,15.0,267.0,143.0,124.0,3.0,1985,,,
+417,11,Sun,November 17,1:00PM ET,L,False,7-4,True,Chicago Bears,0.0,44.0,12.0,171.0,119.0,52.0,5.0,18.0,378.0,162.0,216.0,1.0,1985,,,
+418,12,Sun,November 24,4:00PM ET,W,False,8-4,True,Philadelphia Eagles,34.0,17.0,28.0,377.0,234.0,143.0,1.0,20.0,402.0,277.0,125.0,3.0,1985,,,
+419,13,Thu,November 28,3:00PM ET,W,False,9-4,True,St. Louis Cardinals,35.0,17.0,23.0,393.0,277.0,116.0,1.0,24.0,365.0,281.0,84.0,3.0,1985,,,
+420,14,Sun,December 8,1:00PM ET,L,False,9-5,False,Cincinnati Bengals,24.0,50.0,20.0,260.0,196.0,64.0,4.0,31.0,570.0,296.0,274.0,2.0,1985,,,
+421,15,Sun,December 15,1:00PM ET,W,False,10-5,True,New York Giants,28.0,21.0,13.0,273.0,172.0,101.0,1.0,25.0,396.0,296.0,100.0,4.0,1985,,,
+422,16,Sun,December 22,4:00PM ET,L,False,10-6,False,San Francisco 49ers,16.0,31.0,25.0,419.0,359.0,60.0,4.0,22.0,421.0,312.0,109.0,3.0,1985,,,
+423,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1985,,,
+424,Division,Sat,January 4,4:00PM ET,L,False,10-7,False,Los Angeles Rams,0.0,20.0,15.0,243.0,182.0,61.0,6.0,15.0,316.0,47.0,269.0,2.0,1985,,,
+425,1,Mon,September 8,9:00PM ET,W,False,1-0,True,New York Giants,31.0,28.0,22.0,378.0,265.0,113.0,2.0,24.0,377.0,261.0,116.0,2.0,1986,,,
+426,2,Sun,September 14,1:00PM ET,W,False,2-0,False,Detroit Lions,31.0,7.0,24.0,388.0,191.0,197.0,2.0,12.0,184.0,104.0,80.0,3.0,1986,,,
+427,3,Sun,September 21,1:00PM ET,L,False,2-1,True,Atlanta Falcons,35.0,37.0,22.0,415.0,263.0,152.0,4.0,26.0,420.0,233.0,187.0,1.0,1986,,,
+428,4,Mon,September 29,9:00PM ET,W,False,3-1,False,St. Louis Cardinals,31.0,7.0,18.0,287.0,180.0,107.0,2.0,13.0,225.0,92.0,133.0,4.0,1986,,,
+429,5,Sun,October 5,4:00PM ET,L,False,3-2,False,Denver Broncos,14.0,29.0,19.0,266.0,225.0,41.0,3.0,19.0,319.0,198.0,121.0,1.0,1986,,,
+430,6,Sun,October 12,1:00PM ET,W,False,4-2,True,Washington Redskins,30.0,6.0,25.0,424.0,318.0,106.0,2.0,14.0,184.0,113.0,71.0,3.0,1986,,,
+431,7,Sun,October 19,1:00PM ET,W,False,5-2,False,Philadelphia Eagles,17.0,14.0,17.0,389.0,253.0,136.0,2.0,19.0,317.0,100.0,217.0,,1986,,,
+432,8,Sun,October 26,4:00PM ET,W,False,6-2,True,St. Louis Cardinals,37.0,6.0,30.0,445.0,268.0,177.0,1.0,11.0,200.0,152.0,48.0,1.0,1986,,,
+433,9,Sun,November 2,1:00PM ET,L,False,6-3,False,New York Giants,14.0,17.0,25.0,408.0,306.0,102.0,3.0,14.0,245.0,46.0,199.0,3.0,1986,,,
+434,10,Sun,November 9,4:00PM ET,L,False,6-4,True,Los Angeles Raiders,13.0,17.0,20.0,313.0,147.0,166.0,6.0,15.0,246.0,116.0,130.0,4.0,1986,,,
+435,11,Sun,November 16,4:00PM ET,W,False,7-4,False,San Diego Chargers,24.0,21.0,20.0,254.0,153.0,101.0,1.0,19.0,307.0,242.0,65.0,2.0,1986,,,
+436,12,Sun,November 23,4:00PM ET,L,False,7-5,False,Washington Redskins,14.0,41.0,16.0,251.0,197.0,54.0,3.0,23.0,483.0,316.0,167.0,1.0,1986,,,
+437,13,Thu,November 27,4:00PM ET,L,False,7-6,True,Seattle Seahawks,14.0,31.0,22.0,328.0,201.0,127.0,1.0,24.0,415.0,214.0,201.0,1.0,1986,,,
+438,14,Sun,December 7,9:00PM ET,L,False,7-7,False,Los Angeles Rams,10.0,29.0,14.0,224.0,140.0,84.0,2.0,21.0,418.0,212.0,206.0,1.0,1986,,,
+439,15,Sun,December 14,1:00PM ET,L,False,7-8,True,Philadelphia Eagles,21.0,23.0,15.0,444.0,248.0,196.0,2.0,15.0,323.0,225.0,98.0,2.0,1986,,,
+440,16,Sun,December 21,4:00PM ET,L,False,7-9,True,Chicago Bears,10.0,24.0,16.0,260.0,150.0,110.0,5.0,17.0,322.0,161.0,161.0,6.0,1986,,,
+441,1,Sun,September 13,1:00PM ET,L,False,0-1,False,St. Louis Cardinals,13.0,24.0,19.0,322.0,197.0,125.0,1.0,20.0,360.0,252.0,108.0,,1987,,,
+442,2,Sun,September 20,4:00PM ET,W,False,1-1,False,New York Giants,16.0,14.0,21.0,356.0,242.0,114.0,4.0,14.0,265.0,205.0,60.0,5.0,1987,,,
+443,4,Sun,October 4,4:00PM ET,W,False,2-1,False,New York Jets,38.0,24.0,14.0,246.0,132.0,114.0,4.0,22.0,241.0,159.0,82.0,5.0,1987,,,
+444,5,Sun,October 11,1:00PM ET,W,False,3-1,True,Philadelphia Eagles,41.0,22.0,19.0,400.0,240.0,160.0,2.0,24.0,434.0,362.0,72.0,3.0,1987,,,
+445,6,Mon,October 19,9:00PM ET,L,False,3-2,True,Washington Redskins,7.0,13.0,18.0,316.0,223.0,93.0,3.0,19.0,339.0,153.0,186.0,3.0,1987,,,
+446,7,Sun,October 25,1:00PM ET,L,False,3-3,False,Philadelphia Eagles,20.0,37.0,18.0,294.0,197.0,97.0,3.0,18.0,237.0,96.0,141.0,1.0,1987,,,
+447,8,Mon,November 2,9:00PM ET,W,False,4-3,True,New York Giants,33.0,24.0,15.0,240.0,214.0,26.0,2.0,16.0,297.0,242.0,55.0,5.0,1987,,,
+448,9,Sun,November 8,1:00PM ET,L,False,4-4,False,Detroit Lions,17.0,27.0,20.0,290.0,167.0,123.0,5.0,20.0,293.0,217.0,76.0,4.0,1987,,,
+449,10,Sun,November 15,1:00PM ET,W,True,5-4,False,New England Patriots,23.0,17.0,24.0,438.0,257.0,181.0,3.0,15.0,265.0,177.0,88.0,2.0,1987,,,
+450,11,Sun,November 22,8:00PM ET,L,False,5-5,True,Miami Dolphins,14.0,20.0,16.0,319.0,134.0,185.0,3.0,21.0,440.0,258.0,182.0,1.0,1987,,,
+451,12,Thu,November 26,4:00PM ET,L,True,5-6,True,Minnesota Vikings,38.0,44.0,23.0,403.0,291.0,112.0,5.0,27.0,476.0,288.0,188.0,2.0,1987,,,
+452,13,Sun,December 6,1:00PM ET,L,False,5-7,True,Atlanta Falcons,10.0,21.0,24.0,354.0,263.0,91.0,3.0,18.0,364.0,253.0,111.0,4.0,1987,,,
+453,14,Sun,December 13,1:00PM ET,L,False,5-8,False,Washington Redskins,20.0,24.0,25.0,428.0,341.0,87.0,2.0,15.0,317.0,249.0,68.0,2.0,1987,,,
+454,15,Mon,December 21,9:00PM ET,W,False,6-8,False,Los Angeles Rams,29.0,21.0,20.0,365.0,171.0,194.0,,19.0,311.0,237.0,74.0,4.0,1987,,,
+455,16,Sun,December 27,1:00PM ET,W,False,7-8,True,St. Louis Cardinals,21.0,16.0,17.0,285.0,122.0,163.0,,26.0,422.0,296.0,126.0,2.0,1987,,,
+456,1,Sun,September 4,1:00PM ET,L,False,0-1,False,Pittsburgh Steelers,21.0,24.0,25.0,414.0,280.0,134.0,3.0,17.0,356.0,214.0,142.0,,1988,,,
+457,2,Mon,September 12,8:00PM ET,W,False,1-1,False,Phoenix Cardinals,17.0,14.0,18.0,352.0,162.0,190.0,1.0,22.0,367.0,237.0,130.0,1.0,1988,,,
+458,3,Sun,September 18,4:00PM ET,L,False,1-2,True,New York Giants,10.0,12.0,22.0,366.0,275.0,91.0,2.0,21.0,278.0,150.0,128.0,2.0,1988,,,
+459,4,Sun,September 25,1:00PM ET,W,False,2-2,True,Atlanta Falcons,26.0,20.0,17.0,323.0,210.0,113.0,1.0,15.0,314.0,207.0,107.0,2.0,1988,,,
+460,5,Mon,October 3,9:00PM ET,L,False,2-3,False,New Orleans Saints,17.0,20.0,28.0,457.0,271.0,186.0,3.0,17.0,333.0,268.0,65.0,1.0,1988,,,
+461,6,Sun,October 9,1:00PM ET,L,False,2-4,True,Washington Redskins,17.0,35.0,18.0,361.0,301.0,60.0,5.0,19.0,350.0,170.0,180.0,1.0,1988,,,
+462,7,Sun,October 16,1:00PM ET,L,False,2-5,False,Chicago Bears,7.0,17.0,18.0,291.0,195.0,96.0,2.0,24.0,385.0,261.0,124.0,1.0,1988,,,
+463,8,Sun,October 23,1:00PM ET,L,False,2-6,False,Philadelphia Eagles,23.0,24.0,25.0,437.0,332.0,105.0,1.0,23.0,339.0,274.0,65.0,2.0,1988,,,
+464,9,Sun,October 30,1:00PM ET,L,False,2-7,True,Phoenix Cardinals,10.0,16.0,11.0,228.0,103.0,125.0,2.0,15.0,295.0,135.0,160.0,,1988,,,
+465,10,Sun,November 6,1:00PM ET,L,False,2-8,False,New York Giants,21.0,29.0,21.0,365.0,262.0,103.0,3.0,15.0,262.0,151.0,111.0,1.0,1988,,,
+466,11,Sun,November 13,8:00PM ET,L,False,2-9,True,Minnesota Vikings,3.0,43.0,12.0,159.0,49.0,110.0,7.0,18.0,325.0,222.0,103.0,1.0,1988,,,
+467,12,Sun,November 20,1:00PM ET,L,False,2-10,True,Cincinnati Bengals,24.0,38.0,23.0,355.0,176.0,179.0,2.0,23.0,410.0,196.0,214.0,1.0,1988,,,
+468,13,Thu,November 24,4:00PM ET,L,False,2-11,True,Houston Oilers,17.0,25.0,17.0,282.0,203.0,79.0,2.0,19.0,355.0,210.0,145.0,,1988,,,
+469,14,Sun,December 4,1:00PM ET,L,False,2-12,False,Cleveland Browns,21.0,24.0,22.0,410.0,247.0,163.0,1.0,16.0,302.0,275.0,27.0,1.0,1988,,,
+470,15,Sun,December 11,1:00PM ET,W,False,3-12,False,Washington Redskins,24.0,17.0,21.0,444.0,320.0,124.0,2.0,15.0,372.0,348.0,24.0,5.0,1988,,,
+471,16,Sun,December 18,1:00PM ET,L,False,3-13,True,Philadelphia Eagles,7.0,23.0,13.0,239.0,102.0,137.0,3.0,18.0,371.0,238.0,133.0,,1988,,,
+472,1,Sun,September 10,1:00PM ET,L,False,0-1,False,New Orleans Saints,0.0,28.0,10.0,174.0,154.0,20.0,2.0,26.0,344.0,145.0,199.0,1.0,1989,,,
+473,2,Sun,September 17,1:00PM ET,L,False,0-2,False,Atlanta Falcons,21.0,27.0,18.0,349.0,241.0,108.0,3.0,23.0,333.0,243.0,90.0,,1989,,,
+474,3,Sun,September 24,1:00PM ET,L,False,0-3,True,Washington Redskins,7.0,30.0,10.0,190.0,156.0,34.0,4.0,20.0,373.0,208.0,165.0,1.0,1989,,,
+475,4,Sun,October 1,4:00PM ET,L,False,0-4,True,New York Giants,13.0,30.0,12.0,288.0,201.0,87.0,2.0,20.0,342.0,205.0,137.0,5.0,1989,,,
+476,5,Sun,October 8,1:00PM ET,L,False,0-5,False,Green Bay Packers,13.0,31.0,12.0,213.0,168.0,45.0,2.0,28.0,502.0,313.0,189.0,1.0,1989,,,
+477,6,Sun,October 15,1:00PM ET,L,False,0-6,True,San Francisco 49ers,14.0,31.0,19.0,330.0,270.0,60.0,3.0,17.0,318.0,172.0,146.0,1.0,1989,,,
+478,7,Sun,October 22,1:00PM ET,L,False,0-7,False,Kansas City Chiefs,28.0,36.0,14.0,282.0,166.0,116.0,1.0,26.0,423.0,221.0,202.0,,1989,,,
+479,8,Sun,October 29,1:00PM ET,L,False,0-8,True,Phoenix Cardinals,10.0,19.0,18.0,309.0,264.0,45.0,3.0,17.0,300.0,142.0,158.0,,1989,,,
+480,9,Sun,November 5,8:00PM ET,W,False,1-8,False,Washington Redskins,13.0,3.0,17.0,262.0,114.0,148.0,,20.0,346.0,296.0,50.0,2.0,1989,,,
+481,10,Sun,November 12,4:00PM ET,L,False,1-9,False,Phoenix Cardinals,20.0,24.0,21.0,444.0,367.0,77.0,4.0,15.0,385.0,316.0,69.0,,1989,,,
+482,11,Sun,November 19,1:00PM ET,L,False,1-10,True,Miami Dolphins,14.0,17.0,28.0,428.0,261.0,167.0,2.0,18.0,303.0,238.0,65.0,1.0,1989,,,
+483,12,Thu,November 23,4:00PM ET,L,False,1-11,True,Philadelphia Eagles,0.0,27.0,10.0,191.0,68.0,123.0,5.0,22.0,381.0,243.0,138.0,1.0,1989,,,
+484,13,Sun,December 3,1:00PM ET,L,False,1-12,True,Los Angeles Rams,31.0,35.0,20.0,303.0,165.0,138.0,4.0,20.0,403.0,325.0,78.0,3.0,1989,,,
+485,14,Sun,December 10,1:00PM ET,L,False,1-13,False,Philadelphia Eagles,10.0,20.0,14.0,194.0,107.0,87.0,1.0,19.0,280.0,158.0,122.0,,1989,,,
+486,15,Sat,December 16,12:30PM ET,L,False,1-14,False,New York Giants,0.0,15.0,7.0,108.0,67.0,41.0,1.0,14.0,273.0,133.0,140.0,,1989,,,
+487,16,Sun,December 24,1:00PM ET,L,False,1-15,True,Green Bay Packers,10.0,20.0,16.0,229.0,116.0,113.0,5.0,16.0,250.0,207.0,43.0,1.0,1989,,,
+488,1,Sun,September 9,4:00PM ET,W,False,1-0,True,San Diego Chargers,17.0,14.0,14.0,249.0,161.0,88.0,1.0,12.0,212.0,127.0,85.0,2.0,1990,,,
+489,2,Sun,September 16,4:00PM ET,L,False,1-1,True,New York Giants,7.0,28.0,9.0,156.0,136.0,20.0,4.0,23.0,369.0,208.0,161.0,3.0,1990,,,
+490,3,Sun,September 23,1:00PM ET,L,False,1-2,False,Washington Redskins,15.0,19.0,19.0,234.0,143.0,91.0,3.0,11.0,214.0,135.0,79.0,1.0,1990,,,
+491,4,Sun,September 30,1:00PM ET,L,False,1-3,False,New York Giants,17.0,31.0,20.0,284.0,233.0,51.0,2.0,21.0,334.0,198.0,136.0,,1990,,,
+492,5,Sun,October 7,1:00PM ET,W,False,2-3,True,Tampa Bay Buccaneers,14.0,10.0,19.0,304.0,149.0,155.0,1.0,12.0,271.0,164.0,107.0,1.0,1990,,,
+493,6,Sun,October 14,4:00PM ET,L,False,2-4,False,Phoenix Cardinals,3.0,20.0,9.0,100.0,34.0,66.0,3.0,23.0,414.0,191.0,223.0,2.0,1990,,,
+494,7,Sun,October 21,1:00PM ET,W,False,3-4,False,Tampa Bay Buccaneers,17.0,13.0,14.0,223.0,145.0,78.0,1.0,22.0,331.0,241.0,90.0,5.0,1990,,,
+495,8,Sun,October 28,1:00PM ET,L,False,3-5,True,Philadelphia Eagles,20.0,21.0,23.0,345.0,215.0,130.0,1.0,23.0,304.0,160.0,144.0,1.0,1990,,,
+496,9,Sun,November 4,1:00PM ET,L,False,3-6,False,New York Jets,9.0,24.0,18.0,321.0,226.0,95.0,2.0,15.0,187.0,71.0,116.0,,1990,,,
+497,10,Sun,November 11,8:00PM ET,L,False,3-7,True,San Francisco 49ers,6.0,24.0,9.0,158.0,80.0,78.0,2.0,25.0,388.0,281.0,107.0,2.0,1990,,,
+498,11,Sun,November 18,4:00PM ET,W,False,4-7,False,Los Angeles Rams,24.0,21.0,17.0,359.0,295.0,64.0,1.0,18.0,292.0,124.0,168.0,1.0,1990,,,
+499,12,Thu,November 22,4:00PM ET,W,False,5-7,True,Washington Redskins,27.0,17.0,18.0,370.0,208.0,162.0,2.0,20.0,297.0,261.0,36.0,1.0,1990,,,
+500,13,Sun,December 2,4:00PM ET,W,False,6-7,True,New Orleans Saints,17.0,13.0,17.0,274.0,161.0,113.0,1.0,14.0,283.0,170.0,113.0,1.0,1990,,,
+501,14,,,,,False,,True,Bye Week,,,,,,,,,,,,,1990,,,
+502,15,Sun,December 16,1:00PM ET,W,False,7-7,True,Phoenix Cardinals,41.0,10.0,25.0,354.0,166.0,188.0,3.0,9.0,200.0,151.0,49.0,4.0,1990,,,
+503,16,Sun,December 23,1:00PM ET,L,False,7-8,False,Philadelphia Eagles,3.0,17.0,11.0,199.0,125.0,74.0,4.0,17.0,276.0,98.0,178.0,3.0,1990,,,
+504,17,Sun,December 30,1:00PM ET,L,False,7-9,False,Atlanta Falcons,7.0,26.0,8.0,151.0,104.0,47.0,2.0,15.0,243.0,59.0,184.0,3.0,1990,,,
+505,1,Sun,September 1,1:00PM ET,W,False,1-0,False,Cleveland Browns,26.0,14.0,25.0,395.0,265.0,130.0,,15.0,275.0,243.0,32.0,,1991,,,
+506,2,Mon,September 9,8:00PM ET,L,False,1-1,True,Washington Redskins,31.0,33.0,19.0,349.0,224.0,125.0,2.0,20.0,332.0,192.0,140.0,1.0,1991,,,
+507,3,Sun,September 15,1:00PM ET,L,False,1-2,True,Philadelphia Eagles,0.0,24.0,8.0,90.0,45.0,45.0,4.0,16.0,262.0,207.0,55.0,1.0,1991,,,
+508,4,Sun,September 22,8:00PM ET,W,False,2-2,False,Phoenix Cardinals,17.0,9.0,11.0,320.0,139.0,181.0,1.0,20.0,322.0,220.0,102.0,1.0,1991,,,
+509,5,Sun,September 29,1:00PM ET,W,False,3-2,True,New York Giants,21.0,16.0,20.0,327.0,269.0,58.0,1.0,26.0,487.0,368.0,119.0,3.0,1991,,,
+510,6,Sun,October 6,1:00PM ET,W,False,4-2,False,Green Bay Packers,20.0,17.0,25.0,411.0,287.0,124.0,,15.0,259.0,199.0,60.0,3.0,1991,,,
+511,7,Sun,October 13,1:00PM ET,W,False,5-2,True,Cincinnati Bengals,35.0,23.0,19.0,376.0,264.0,112.0,2.0,17.0,352.0,178.0,174.0,3.0,1991,,,
+512,8,,,,,False,,True,Bye Week,,,,,,,,,,,,,1991,,,
+513,9,Sun,October 27,4:00PM ET,L,False,5-3,False,Detroit Lions,10.0,34.0,22.0,415.0,341.0,74.0,4.0,13.0,208.0,136.0,72.0,,1991,,,
+514,10,Sun,November 3,4:00PM ET,W,False,6-3,True,Phoenix Cardinals,27.0,7.0,22.0,286.0,165.0,121.0,2.0,16.0,239.0,130.0,109.0,3.0,1991,,,
+515,11,Sun,November 10,1:00PM ET,L,True,6-4,False,Houston Oilers,23.0,26.0,21.0,291.0,241.0,50.0,1.0,33.0,583.0,425.0,158.0,1.0,1991,,,
+516,12,Sun,November 17,4:00PM ET,L,False,6-5,False,New York Giants,9.0,22.0,14.0,243.0,142.0,101.0,2.0,21.0,315.0,177.0,138.0,1.0,1991,,,
+517,13,Sun,November 24,1:00PM ET,W,False,7-5,False,Washington Redskins,24.0,21.0,23.0,399.0,277.0,122.0,1.0,15.0,262.0,212.0,50.0,1.0,1991,,,
+518,14,Thu,November 28,4:00PM ET,W,False,8-5,True,Pittsburgh Steelers,20.0,10.0,20.0,297.0,181.0,116.0,,17.0,199.0,134.0,65.0,1.0,1991,,,
+519,15,Sun,December 8,1:00PM ET,W,False,9-5,True,New Orleans Saints,23.0,14.0,20.0,301.0,184.0,117.0,,22.0,328.0,229.0,99.0,1.0,1991,,,
+520,16,Sun,December 15,1:00PM ET,W,False,10-5,False,Philadelphia Eagles,25.0,13.0,11.0,210.0,138.0,72.0,,16.0,240.0,129.0,111.0,2.0,1991,,,
+521,17,Sun,December 22,1:00PM ET,W,False,11-5,True,Atlanta Falcons,31.0,27.0,24.0,391.0,228.0,163.0,4.0,17.0,403.0,316.0,87.0,1.0,1991,,,
+522,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1991,,,
+523,Wild Card,Sun,December 29,12:30PM ET,W,False,12-5,False,Chicago Bears,17.0,13.0,15.0,288.0,180.0,108.0,,26.0,372.0,222.0,150.0,3.0,1991,,,
+524,Division,Sun,January 5,4:00PM ET,L,False,12-6,False,Detroit Lions,6.0,38.0,16.0,276.0,179.0,97.0,4.0,23.0,421.0,337.0,84.0,,1991,,,
+525,1,Mon,September 7,9:00PM ET,W,False,1-0,True,Washington Redskins,23.0,10.0,23.0,391.0,216.0,175.0,2.0,17.0,260.0,185.0,75.0,1.0,1992,,,
+526,2,Sun,September 13,1:00PM ET,W,False,2-0,False,New York Giants,34.0,28.0,20.0,327.0,229.0,98.0,,22.0,331.0,264.0,67.0,1.0,1992,,,
+527,3,Sun,September 20,4:00PM ET,W,False,3-0,True,Phoenix Cardinals,31.0,20.0,21.0,413.0,263.0,150.0,,24.0,438.0,371.0,67.0,2.0,1992,,,
+528,4,,,,,False,,True,Bye Week,,,,,,,,,,,,,1992,,,
+529,5,Mon,October 5,9:00PM ET,L,False,3-1,False,Philadelphia Eagles,7.0,31.0,17.0,311.0,231.0,80.0,4.0,21.0,266.0,106.0,160.0,1.0,1992,,,
+530,6,Sun,October 11,1:00PM ET,W,False,4-1,True,Seattle Seahawks,27.0,0.0,16.0,313.0,197.0,116.0,2.0,6.0,62.0,24.0,38.0,3.0,1992,,,
+531,7,Sun,October 18,1:00PM ET,W,False,5-1,True,Kansas City Chiefs,17.0,10.0,17.0,278.0,183.0,95.0,2.0,18.0,230.0,139.0,91.0,1.0,1992,,,
+532,8,Sun,October 25,4:00PM ET,W,False,6-1,False,Los Angeles Raiders,28.0,13.0,23.0,369.0,207.0,162.0,,12.0,165.0,94.0,71.0,1.0,1992,,,
+533,9,Sun,November 1,4:00PM ET,W,False,7-1,True,Philadelphia Eagles,20.0,10.0,22.0,389.0,214.0,175.0,2.0,10.0,190.0,117.0,73.0,2.0,1992,,,
+534,10,Sun,November 8,1:00PM ET,W,False,8-1,False,Detroit Lions,37.0,3.0,26.0,398.0,240.0,158.0,2.0,10.0,201.0,77.0,124.0,4.0,1992,,,
+535,11,Sun,November 15,4:00PM ET,L,False,8-2,True,Los Angeles Rams,23.0,27.0,19.0,349.0,269.0,80.0,,24.0,367.0,244.0,123.0,,1992,,,
+536,12,Sun,November 22,4:00PM ET,W,False,9-2,False,Phoenix Cardinals,16.0,10.0,18.0,334.0,237.0,97.0,1.0,9.0,149.0,103.0,46.0,1.0,1992,,,
+537,13,Thu,November 26,4:00PM ET,W,False,10-2,True,New York Giants,30.0,3.0,17.0,299.0,142.0,157.0,1.0,12.0,207.0,127.0,80.0,1.0,1992,,,
+538,14,Sun,December 6,4:00PM ET,W,False,11-2,False,Denver Broncos,31.0,27.0,22.0,304.0,222.0,82.0,,15.0,354.0,261.0,93.0,5.0,1992,,,
+539,15,Sun,December 13,4:00PM ET,L,False,11-3,False,Washington Redskins,17.0,20.0,22.0,342.0,221.0,121.0,4.0,14.0,246.0,178.0,68.0,1.0,1992,,,
+540,16,Mon,December 21,8:00PM ET,W,False,12-3,False,Atlanta Falcons,41.0,17.0,19.0,435.0,239.0,196.0,,18.0,373.0,333.0,40.0,3.0,1992,,,
+541,17,Sun,December 27,4:00PM ET,W,False,13-3,True,Chicago Bears,27.0,14.0,22.0,354.0,175.0,179.0,4.0,9.0,92.0,64.0,28.0,4.0,1992,,,
+542,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1992,,,
+543,Division,Sun,January 10,12:30PM ET,W,False,14-3,True,Philadelphia Eagles,34.0,10.0,22.0,346.0,186.0,160.0,1.0,12.0,178.0,115.0,63.0,2.0,1992,,,
+544,Conf. Champ.,Sun,January 17,4:00PM ET,W,False,15-3,False,San Francisco 49ers,30.0,20.0,24.0,416.0,295.0,121.0,,24.0,415.0,301.0,114.0,4.0,1992,,,
+545,SuperBowl,Sun,January 31,6:30PM ET,W,False,16-3,N,Buffalo Bills,52.0,17.0,20.0,408.0,271.0,137.0,1.0,22.0,362.0,254.0,108.0,9.0,1992,,,
+546,1,Mon,September 6,9:00PM ET,L,False,0-1,False,Washington Redskins,16.0,35.0,16.0,345.0,254.0,91.0,4.0,23.0,332.0,161.0,171.0,,1993,,,
+547,2,Sun,September 12,4:00PM ET,L,False,0-2,True,Buffalo Bills,10.0,13.0,23.0,393.0,290.0,103.0,4.0,16.0,229.0,129.0,100.0,2.0,1993,,,
+548,3,Sun,September 19,8:00PM ET,W,False,1-2,False,Phoenix Cardinals,17.0,10.0,23.0,410.0,280.0,130.0,,14.0,273.0,205.0,68.0,1.0,1993,,,
+549,4,,,,,False,,True,Bye Week,,,,,,,,,,,,,1993,,,
+550,5,Sun,October 3,1:00PM ET,W,False,2-2,True,Green Bay Packers,36.0,14.0,20.0,395.0,297.0,98.0,,18.0,214.0,178.0,36.0,,1993,,,
+551,6,Sun,October 10,1:00PM ET,W,False,3-2,False,Indianapolis Colts,27.0,3.0,24.0,374.0,231.0,143.0,1.0,19.0,361.0,235.0,126.0,5.0,1993,,,
+552,7,Sun,October 17,4:00PM ET,W,False,4-2,True,San Francisco 49ers,26.0,17.0,24.0,353.0,230.0,123.0,1.0,25.0,405.0,249.0,156.0,2.0,1993,,,
+553,8,,,,,False,,True,Bye Week,,,,,,,,,,,,,1993,,,
+554,9,Sun,October 31,4:00PM ET,W,False,5-2,False,Philadelphia Eagles,23.0,10.0,19.0,356.0,85.0,271.0,,16.0,228.0,89.0,139.0,1.0,1993,,,
+555,10,Sun,November 7,1:00PM ET,W,False,6-2,True,New York Giants,31.0,9.0,17.0,369.0,230.0,139.0,,18.0,295.0,177.0,118.0,,1993,,,
+556,11,Sun,November 14,1:00PM ET,W,False,7-2,True,Phoenix Cardinals,20.0,15.0,15.0,311.0,224.0,87.0,2.0,15.0,265.0,214.0,51.0,3.0,1993,,,
+557,12,Sun,November 21,1:00PM ET,L,False,7-3,False,Atlanta Falcons,14.0,27.0,13.0,230.0,182.0,48.0,,22.0,400.0,315.0,85.0,1.0,1993,,,
+558,13,Thu,November 25,4:00PM ET,L,False,7-4,True,Miami Dolphins,14.0,16.0,19.0,293.0,181.0,112.0,2.0,15.0,382.0,274.0,108.0,4.0,1993,,,
+559,14,Mon,December 6,9:00PM ET,W,False,8-4,True,Philadelphia Eagles,23.0,17.0,17.0,347.0,165.0,182.0,1.0,21.0,307.0,248.0,59.0,1.0,1993,,,
+560,15,Sun,December 12,4:00PM ET,W,False,9-4,False,Minnesota Vikings,37.0,20.0,25.0,356.0,208.0,148.0,,20.0,270.0,173.0,97.0,1.0,1993,,,
+561,16,Sat,December 18,4:00PM ET,W,False,10-4,False,New York Jets,28.0,7.0,19.0,364.0,235.0,129.0,5.0,23.0,295.0,214.0,81.0,4.0,1993,,,
+562,17,Sun,December 26,4:00PM ET,W,False,11-4,True,Washington Redskins,38.0,3.0,27.0,380.0,205.0,175.0,1.0,16.0,198.0,72.0,126.0,2.0,1993,,,
+563,18,Sun,January 2,1:00PM ET,W,True,12-4,False,New York Giants,16.0,13.0,21.0,339.0,157.0,182.0,1.0,16.0,313.0,183.0,130.0,1.0,1993,,,
+564,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1993,,,
+565,Division,Sun,January 16,12:30PM ET,W,False,13-4,True,Green Bay Packers,27.0,17.0,23.0,381.0,284.0,97.0,3.0,19.0,358.0,327.0,31.0,4.0,1993,,,
+566,Conf. Champ.,Sun,January 23,4:00PM ET,W,False,14-4,True,San Francisco 49ers,38.0,21.0,24.0,377.0,253.0,124.0,,24.0,359.0,275.0,84.0,1.0,1993,,,
+567,SuperBowl,Sun,January 30,6:00PM ET,W,False,15-4,N,Buffalo Bills,30.0,13.0,20.0,341.0,204.0,137.0,1.0,22.0,314.0,227.0,87.0,3.0,1993,,,
+568,1,Sun,September 4,4:00PM ET,W,False,1-0,False,Pittsburgh Steelers,26.0,9.0,26.0,442.0,245.0,197.0,1.0,14.0,126.0,71.0,55.0,,1994,14.7,9.47,-1.39
+569,2,Sun,September 11,4:00PM ET,W,False,2-0,True,Houston Oilers,20.0,17.0,18.0,340.0,225.0,115.0,1.0,20.0,339.0,202.0,137.0,2.0,1994,4.51,-0.11,-1.94
+570,3,Mon,September 19,9:00PM ET,L,True,2-1,True,Detroit Lions,17.0,20.0,25.0,368.0,206.0,162.0,3.0,22.0,379.0,173.0,206.0,,1994,3.97,-8.49,8.41
+571,4,,,,,False,,True,Bye Week,,,,,,,,,,,,,1994,,,
+572,5,Sun,October 2,1:00PM ET,W,False,3-1,False,Washington Redskins,34.0,7.0,26.0,323.0,181.0,142.0,1.0,12.0,110.0,82.0,28.0,4.0,1994,11.38,21.35,-0.47
+573,6,Sun,October 9,4:00PM ET,W,False,4-1,True,Arizona Cardinals,38.0,3.0,22.0,351.0,273.0,78.0,,10.0,221.0,168.0,53.0,5.0,1994,11.7,26.39,-5.29
+574,7,Sun,October 16,4:00PM ET,W,False,5-1,True,Philadelphia Eagles,24.0,13.0,19.0,266.0,153.0,113.0,1.0,18.0,294.0,170.0,124.0,5.0,1994,5.0,6.98,0.21
+575,8,Sun,October 23,4:00PM ET,W,False,6-1,False,Arizona Cardinals,28.0,21.0,14.0,312.0,237.0,75.0,,22.0,315.0,208.0,107.0,,1994,10.71,-3.98,-3.24
+576,9,Sun,October 30,1:00PM ET,W,False,7-1,False,Cincinnati Bengals,23.0,20.0,20.0,368.0,272.0,96.0,2.0,13.0,320.0,243.0,77.0,1.0,1994,-1.58,-0.3,-3.82
+577,10,Mon,November 7,9:00PM ET,W,False,8-1,True,New York Giants,38.0,10.0,27.0,450.0,241.0,209.0,2.0,11.0,188.0,133.0,55.0,3.0,1994,21.51,19.24,-8.81
+578,11,Sun,November 13,4:00PM ET,L,False,8-2,False,San Francisco 49ers,14.0,21.0,19.0,408.0,321.0,87.0,3.0,19.0,308.0,161.0,147.0,,1994,0.33,-3.96,-4.27
+579,12,Sun,November 20,1:00PM ET,W,False,9-2,True,Washington Redskins,31.0,7.0,15.0,241.0,111.0,130.0,1.0,20.0,313.0,229.0,84.0,5.0,1994,-10.06,26.92,2.86
+580,13,Thu,November 24,4:00PM ET,W,False,10-2,True,Green Bay Packers,42.0,31.0,23.0,436.0,298.0,138.0,1.0,17.0,277.0,248.0,29.0,,1994,9.9,-5.0,-1.12
+581,14,Sun,December 4,1:00PM ET,W,False,11-2,False,Philadelphia Eagles,31.0,19.0,15.0,264.0,160.0,104.0,1.0,25.0,393.0,285.0,108.0,1.0,1994,2.46,10.43,-0.59
+582,15,Sat,December 10,4:00PM ET,L,False,11-3,True,Cleveland Browns,14.0,19.0,19.0,289.0,177.0,112.0,4.0,16.0,244.0,110.0,134.0,2.0,1994,-4.07,4.07,-1.79
+583,16,Mon,December 19,9:00PM ET,W,False,12-3,False,New Orleans Saints,24.0,16.0,23.0,280.0,175.0,105.0,2.0,19.0,237.0,147.0,90.0,3.0,1994,-5.52,12.04,-2.02
+584,17,Sat,December 24,1:00PM ET,L,False,12-4,False,New York Giants,10.0,15.0,11.0,183.0,93.0,90.0,1.0,15.0,249.0,122.0,127.0,,1994,-10.09,6.53,-3.3
+585,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1994,,,
+586,Division,Sun,January 8,12:30PM ET,W,False,13-4,True,Green Bay Packers,35.0,9.0,27.0,450.0,330.0,120.0,2.0,18.0,327.0,228.0,99.0,1.0,1994,11.52,7.11,0.15
+587,Conf. Champ.,Sun,January 15,4:00PM ET,L,False,13-5,False,San Francisco 49ers,28.0,38.0,29.0,451.0,352.0,99.0,5.0,19.0,294.0,155.0,139.0,1.0,1994,2.21,-10.92,-4.23
+588,1,Mon,September 4,9:00PM ET,W,False,1-0,False,New York Giants,35.0,0.0,26.0,461.0,229.0,232.0,1.0,16.0,211.0,146.0,65.0,1.0,1995,24.53,13.5,-2.26
+589,2,Sun,September 10,4:00PM ET,W,False,2-0,True,Denver Broncos,31.0,21.0,27.0,358.0,196.0,162.0,1.0,17.0,287.0,198.0,89.0,2.0,1995,8.28,-0.8,3.81
+590,3,Sun,September 17,8:00PM ET,W,True,3-0,False,Minnesota Vikings,23.0,17.0,20.0,387.0,233.0,154.0,2.0,17.0,252.0,160.0,92.0,1.0,1995,0.92,10.76,-3.65
+591,4,Sun,September 24,4:00PM ET,W,False,4-0,True,Arizona Cardinals,34.0,20.0,26.0,440.0,251.0,189.0,1.0,22.0,381.0,329.0,52.0,3.0,1995,17.11,-3.59,2.42
+592,5,Sun,October 1,1:00PM ET,L,False,4-1,False,Washington Redskins,23.0,27.0,19.0,356.0,238.0,118.0,2.0,19.0,319.0,183.0,136.0,1.0,1995,-4.66,-1.72,0.22
+593,6,Sun,October 8,1:00PM ET,W,False,5-1,True,Green Bay Packers,34.0,24.0,25.0,448.0,312.0,136.0,,20.0,369.0,295.0,74.0,1.0,1995,22.02,-8.52,0.51
+594,7,Sun,October 15,4:00PM ET,W,False,6-1,False,San Diego Chargers,23.0,9.0,22.0,320.0,215.0,105.0,1.0,20.0,333.0,174.0,159.0,4.0,1995,4.67,9.41,0.19
+595,8,,,,,False,,True,Bye Week,,,,,,,,,,,,,1995,,,
+596,9,Sun,October 29,1:00PM ET,W,False,7-1,False,Atlanta Falcons,28.0,13.0,23.0,380.0,194.0,186.0,1.0,16.0,258.0,158.0,100.0,,1995,22.42,-5.14,-5.33
+597,10,Mon,November 6,9:00PM ET,W,False,8-1,True,Philadelphia Eagles,34.0,12.0,22.0,366.0,202.0,164.0,2.0,14.0,230.0,120.0,110.0,2.0,1995,9.54,14.25,-1.22
+598,11,Sun,November 12,4:00PM ET,L,False,8-2,True,San Francisco 49ers,20.0,38.0,19.0,296.0,188.0,108.0,4.0,21.0,386.0,300.0,86.0,,1995,-8.17,-14.56,4.92
+599,12,Sun,November 19,4:00PM ET,W,False,9-2,False,Oakland Raiders,34.0,21.0,25.0,336.0,223.0,113.0,1.0,32.0,449.0,309.0,140.0,3.0,1995,11.15,-9.62,10.04
+600,13,Thu,November 23,4:00PM ET,W,False,10-2,True,Kansas City Chiefs,24.0,12.0,23.0,293.0,175.0,118.0,,19.0,334.0,261.0,73.0,1.0,1995,10.84,1.18,1.77
+601,14,Sun,December 3,4:00PM ET,L,False,10-3,True,Washington Redskins,17.0,24.0,24.0,381.0,285.0,96.0,2.0,18.0,292.0,152.0,140.0,,1995,3.82,-5.6,-5.35
+602,15,Sun,December 10,1:00PM ET,L,False,10-4,False,Philadelphia Eagles,17.0,20.0,15.0,196.0,87.0,109.0,1.0,19.0,311.0,162.0,149.0,2.0,1995,-12.62,13.8,-2.63
+603,16,Sun,December 17,4:00PM ET,W,False,11-4,True,New York Giants,21.0,20.0,21.0,332.0,222.0,110.0,1.0,21.0,347.0,103.0,244.0,1.0,1995,6.18,-2.49,-2.62
+604,17,Mon,December 25,9:00PM ET,W,False,12-4,False,Arizona Cardinals,37.0,13.0,27.0,474.0,373.0,101.0,3.0,12.0,285.0,222.0,63.0,3.0,1995,9.71,19.61,-8.45
+605,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1995,,,
+606,Division,Sun,January 7,12:30PM ET,W,False,13-4,True,Philadelphia Eagles,30.0,11.0,21.0,397.0,244.0,153.0,1.0,13.0,227.0,153.0,74.0,1.0,1995,6.38,9.62,3.81
+607,Conf. Champ.,Sun,January 14,4:00PM ET,W,False,14-4,True,Green Bay Packers,38.0,27.0,27.0,419.0,250.0,169.0,,17.0,328.0,280.0,48.0,2.0,1995,16.62,3.49,-6.62
+608,SuperBowl,Sun,January 28,6:33PM ET,W,False,15-4,N,Pittsburgh Steelers,27.0,17.0,15.0,254.0,198.0,56.0,,25.0,310.0,207.0,103.0,3.0,1995,3.32,12.15,-0.2
+609,1,Mon,September 2,9:00PM ET,L,False,0-1,False,Chicago Bears,6.0,22.0,18.0,256.0,173.0,83.0,4.0,14.0,304.0,213.0,91.0,2.0,1996,-24.37,13.05,-5.77
+610,2,Sun,September 8,4:00PM ET,W,False,1-1,True,New York Giants,27.0,0.0,21.0,368.0,228.0,140.0,,7.0,105.0,42.0,63.0,2.0,1996,7.44,26.6,-7.02
+611,3,Sun,September 15,4:00PM ET,L,False,1-2,True,Indianapolis Colts,24.0,25.0,18.0,295.0,184.0,111.0,1.0,18.0,321.0,218.0,103.0,2.0,1996,5.86,1.96,-6.83
+612,4,Sun,September 22,4:00PM ET,L,False,1-3,False,Buffalo Bills,7.0,10.0,12.0,192.0,160.0,32.0,4.0,14.0,224.0,89.0,135.0,2.0,1996,-10.03,13.85,-6.81
+613,5,Mon,September 30,9:00PM ET,W,False,2-3,False,Philadelphia Eagles,23.0,19.0,15.0,239.0,131.0,108.0,2.0,14.0,259.0,174.0,85.0,5.0,1996,-14.45,17.13,0.26
+614,6,,,,,False,,True,Bye Week,,,,,,,,,,,,,1996,,,
+615,7,Sun,October 13,1:00PM ET,W,False,3-3,True,Arizona Cardinals,17.0,3.0,22.0,324.0,199.0,125.0,1.0,13.0,178.0,120.0,58.0,1.0,1996,6.81,14.54,-7.13
+616,8,Sun,October 20,1:00PM ET,W,False,4-3,True,Atlanta Falcons,32.0,28.0,17.0,306.0,250.0,56.0,2.0,22.0,369.0,256.0,113.0,,1996,5.18,-7.62,4.94
+617,9,Sun,October 27,4:00PM ET,W,False,5-3,False,Miami Dolphins,29.0,10.0,27.0,482.0,359.0,123.0,,10.0,221.0,173.0,48.0,3.0,1996,15.05,11.24,-2.95
+618,10,Sun,November 3,1:00PM ET,L,False,5-4,True,Philadelphia Eagles,21.0,31.0,22.0,296.0,179.0,117.0,2.0,22.0,347.0,217.0,130.0,,1996,-4.98,-11.92,4.85
+619,11,Sun,November 10,4:00PM ET,W,True,6-4,False,San Francisco 49ers,20.0,17.0,20.0,316.0,222.0,94.0,1.0,16.0,267.0,156.0,111.0,3.0,1996,-3.35,5.72,-0.1
+620,12,Mon,November 18,9:00PM ET,W,False,7-4,True,Green Bay Packers,21.0,6.0,15.0,317.0,205.0,112.0,,15.0,254.0,164.0,90.0,,1996,-1.94,6.58,6.45
+621,13,Sun,November 24,4:00PM ET,L,False,7-5,False,New York Giants,6.0,20.0,15.0,305.0,272.0,33.0,5.0,14.0,215.0,104.0,111.0,1.0,1996,-21.54,9.98,-2.41
+622,14,Thu,November 28,4:00PM ET,W,False,8-5,True,Washington Redskins,21.0,10.0,19.0,247.0,46.0,201.0,1.0,13.0,209.0,163.0,46.0,3.0,1996,-6.81,15.95,2.45
+623,15,Sun,December 8,4:00PM ET,W,False,9-5,False,Arizona Cardinals,10.0,6.0,15.0,334.0,254.0,80.0,2.0,20.0,347.0,213.0,134.0,4.0,1996,-1.99,7.51,2.45
+624,16,Sun,December 15,1:00PM ET,W,False,10-5,True,New England Patriots,12.0,6.0,16.0,251.0,144.0,107.0,2.0,16.0,279.0,178.0,101.0,4.0,1996,-15.02,17.89,4.59
+625,17,Sun,December 22,4:00PM ET,L,False,10-6,False,Washington Redskins,10.0,37.0,14.0,235.0,116.0,119.0,2.0,32.0,483.0,326.0,157.0,1.0,1996,-6.68,-17.43,-4.19
+626,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1996,,,
+627,Wild Card,Sat,December 28,4:00PM ET,W,False,11-6,True,Minnesota Vikings,40.0,15.0,27.0,438.0,183.0,255.0,2.0,12.0,268.0,205.0,63.0,6.0,1996,15.1,15.23,-6.67
+628,Division,Sun,January 5,4:00PM ET,L,False,11-7,False,Carolina Panthers,17.0,26.0,21.0,244.0,148.0,96.0,3.0,18.0,227.0,100.0,127.0,2.0,1996,-16.0,2.9,-0.45
+629,1,Sun,August 31,1:00PM ET,W,False,1-0,False,Pittsburgh Steelers,37.0,7.0,21.0,380.0,295.0,85.0,,15.0,174.0,89.0,85.0,2.0,1997,14.54,14.84,0.13
+630,2,Sun,September 7,8:00PM ET,L,True,1-1,False,Arizona Cardinals,22.0,25.0,15.0,327.0,147.0,180.0,1.0,21.0,286.0,220.0,66.0,4.0,1997,-20.74,8.13,9.67
+631,3,Mon,September 15,9:00PM ET,W,False,2-1,True,Philadelphia Eagles,21.0,20.0,18.0,279.0,187.0,92.0,2.0,16.0,333.0,176.0,157.0,,1997,-19.19,-2.97,15.88
+632,4,,,,,False,,True,Bye Week,,,,,,,,,,,,,1997,,,
+633,5,Sun,September 28,4:00PM ET,W,False,3-1,True,Chicago Bears,27.0,3.0,13.0,180.0,124.0,56.0,1.0,17.0,243.0,102.0,141.0,2.0,1997,-5.27,21.0,5.08
+634,6,Sun,October 5,1:00PM ET,L,False,3-2,False,New York Giants,17.0,20.0,27.0,428.0,310.0,118.0,2.0,13.0,166.0,109.0,57.0,,1997,-2.53,3.94,-4.27
+635,7,Mon,October 13,9:00PM ET,L,False,3-3,False,Washington Redskins,16.0,21.0,16.0,290.0,175.0,115.0,1.0,16.0,255.0,139.0,116.0,1.0,1997,-12.97,4.36,1.46
+636,8,Sun,October 19,1:00PM ET,W,False,4-3,True,Jacksonville Jaguars,26.0,22.0,24.0,337.0,238.0,99.0,,15.0,271.0,229.0,42.0,1.0,1997,13.76,-6.08,-2.85
+637,9,Sun,October 26,1:00PM ET,L,False,4-4,False,Philadelphia Eagles,12.0,13.0,14.0,244.0,93.0,151.0,,17.0,274.0,120.0,154.0,,1997,-5.05,-4.15,9.0
+638,10,Sun,November 2,4:00PM ET,L,False,4-5,False,San Francisco 49ers,10.0,17.0,16.0,271.0,184.0,87.0,2.0,18.0,301.0,173.0,128.0,2.0,1997,-10.79,2.89,1.25
+639,11,Sun,November 9,1:00PM ET,W,False,5-5,True,Arizona Cardinals,24.0,6.0,19.0,329.0,204.0,125.0,1.0,18.0,274.0,173.0,101.0,1.0,1997,2.7,14.68,1.26
+640,12,Sun,November 16,4:00PM ET,W,False,6-5,True,Washington Redskins,17.0,14.0,20.0,312.0,207.0,105.0,,16.0,259.0,155.0,104.0,,1997,-3.17,0.86,4.22
+641,13,Sun,November 23,1:00PM ET,L,False,6-6,False,Green Bay Packers,17.0,45.0,11.0,213.0,120.0,93.0,2.0,29.0,409.0,189.0,220.0,1.0,1997,-14.52,-21.41,8.87
+642,14,Thu,November 27,4:00PM ET,L,False,6-7,True,Tennessee Oilers,14.0,27.0,16.0,386.0,340.0,46.0,5.0,14.0,245.0,81.0,164.0,1.0,1997,-26.74,8.77,9.39
+643,15,Mon,December 8,9:00PM ET,L,False,6-8,True,Carolina Panthers,13.0,23.0,9.0,216.0,138.0,78.0,1.0,22.0,324.0,169.0,155.0,1.0,1997,-18.5,-0.57,6.37
+644,16,Sun,December 14,1:00PM ET,L,False,6-9,False,Cincinnati Bengals,24.0,31.0,29.0,402.0,274.0,128.0,2.0,17.0,419.0,262.0,157.0,2.0,1997,3.51,-16.46,8.53
+645,17,Sun,December 21,1:00PM ET,L,False,6-10,True,New York Giants,7.0,20.0,11.0,184.0,105.0,79.0,3.0,17.0,283.0,136.0,147.0,1.0,1997,-28.11,6.71,4.58
+646,1,Sun,September 6,4:05PM ET,W,False,1-0,True,Arizona Cardinals,38.0,10.0,30.0,444.0,256.0,188.0,3.0,13.0,205.0,160.0,45.0,2.0,1998,9.14,13.8,9.89
+647,2,Sun,September 13,4:15PM ET,L,False,1-1,False,Denver Broncos,23.0,42.0,18.0,370.0,201.0,169.0,,21.0,515.0,306.0,209.0,,1998,11.12,-33.97,6.89
+648,3,Mon,September 21,8:20PM ET,W,False,2-1,False,New York Giants,31.0,7.0,11.0,302.0,224.0,78.0,,16.0,252.0,196.0,56.0,4.0,1998,-2.72,25.39,1.43
+649,4,Sun,September 27,1:00PM ET,L,False,2-2,True,Oakland Raiders,12.0,13.0,16.0,275.0,207.0,68.0,3.0,13.0,288.0,159.0,129.0,,1998,-5.89,-0.72,6.74
+650,5,Sun,October 4,1:00PM ET,W,False,3-2,False,Washington Redskins,31.0,10.0,21.0,387.0,163.0,224.0,1.0,14.0,256.0,164.0,92.0,1.0,1998,13.06,9.83,-5.23
+651,6,Sun,October 11,1:00PM ET,W,False,4-2,True,Carolina Panthers,27.0,20.0,22.0,428.0,277.0,151.0,2.0,16.0,304.0,267.0,37.0,3.0,1998,5.04,0.2,1.8
+652,7,Sun,October 18,4:15PM ET,L,False,4-3,False,Chicago Bears,12.0,13.0,13.0,236.0,128.0,108.0,1.0,18.0,299.0,220.0,79.0,2.0,1998,-13.54,5.81,0.8
+653,8,,,,,False,,True,Bye Week,,,,,,,,,,,,,1998,,,
+654,9,Mon,November 2,8:20PM ET,W,False,5-3,False,Philadelphia Eagles,34.0,0.0,20.0,294.0,173.0,121.0,,15.0,200.0,104.0,96.0,3.0,1998,1.76,23.56,10.56
+655,10,Sun,November 8,1:00PM ET,W,False,6-3,True,New York Giants,16.0,6.0,16.0,327.0,165.0,162.0,,15.0,286.0,127.0,159.0,1.0,1998,5.34,1.46,2.76
+656,11,Sun,November 15,4:15PM ET,W,False,7-3,False,Arizona Cardinals,35.0,28.0,23.0,354.0,208.0,146.0,,28.0,480.0,448.0,32.0,2.0,1998,16.08,-12.97,1.93
+657,12,Sun,November 22,1:00PM ET,W,False,8-3,True,Seattle Seahawks,30.0,22.0,29.0,465.0,292.0,173.0,1.0,17.0,249.0,183.0,66.0,2.0,1998,10.97,0.95,-1.89
+658,13,Thu,November 26,4:15PM ET,L,False,8-4,True,Minnesota Vikings,36.0,46.0,32.0,513.0,455.0,58.0,,21.0,471.0,353.0,118.0,1.0,1998,15.47,-28.3,0.55
+659,14,Sun,December 6,1:00PM ET,L,False,8-5,False,New Orleans Saints,3.0,22.0,10.0,182.0,174.0,8.0,,17.0,328.0,215.0,113.0,2.0,1998,-15.29,9.24,-5.36
+660,15,Sun,December 13,4:15PM ET,L,False,8-6,False,Kansas City Chiefs,17.0,20.0,14.0,247.0,196.0,51.0,2.0,23.0,383.0,200.0,183.0,,1998,-0.32,-1.1,-0.87
+661,16,Sun,December 20,4:15PM ET,W,False,9-6,True,Philadelphia Eagles,13.0,9.0,11.0,248.0,95.0,153.0,2.0,15.0,356.0,231.0,125.0,1.0,1998,-20.18,13.49,8.4
+662,17,Sun,December 27,8:20PM ET,W,False,10-6,True,Washington Redskins,23.0,7.0,22.0,378.0,222.0,156.0,,14.0,292.0,212.0,80.0,2.0,1998,10.4,8.07,-2.58
+663,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1998,,,
+664,Wild Card,Sat,January 2,4:00PM ET,L,False,10-7,True,Arizona Cardinals,7.0,20.0,20.0,260.0,164.0,96.0,3.0,14.0,346.0,213.0,133.0,2.0,1998,-26.29,6.88,2.12
+665,1,Sun,September 12,1:00PM ET,W,True,1-0,False,Washington Redskins,41.0,35.0,30.0,541.0,355.0,186.0,3.0,25.0,504.0,369.0,135.0,2.0,1999,18.44,-17.34,0.6
+666,2,Mon,September 20,9:07PM ET,W,False,2-0,True,Atlanta Falcons,24.0,7.0,17.0,232.0,98.0,134.0,2.0,13.0,324.0,239.0,85.0,4.0,1999,-6.93,26.82,1.14
+667,3,,,,,False,,True,Bye Week,,,,,,,,,,,,,1999,,,
+668,4,Sun,October 3,1:05PM ET,W,False,3-0,True,Arizona Cardinals,35.0,7.0,17.0,306.0,192.0,114.0,1.0,12.0,208.0,137.0,71.0,5.0,1999,0.84,33.68,-5.57
+669,5,Sun,October 10,1:03PM ET,L,False,3-1,False,Philadelphia Eagles,10.0,13.0,19.0,300.0,170.0,130.0,3.0,12.0,244.0,139.0,105.0,1.0,1999,-10.04,14.73,-4.53
+670,6,Mon,October 18,9:09PM ET,L,False,3-2,False,New York Giants,10.0,13.0,14.0,274.0,250.0,24.0,1.0,13.0,228.0,153.0,75.0,,1999,-4.89,5.38,0.62
+671,7,Sun,October 24,1:05PM ET,W,False,4-2,True,Washington Redskins,38.0,20.0,23.0,352.0,244.0,108.0,1.0,14.0,272.0,211.0,61.0,,1999,14.25,-5.01,8.5
+672,8,Sun,October 31,5:15PM ET,L,False,4-3,False,Indianapolis Colts,24.0,34.0,18.0,232.0,129.0,103.0,1.0,23.0,419.0,300.0,119.0,,1999,-5.19,-14.03,12.97
+673,9,Mon,November 8,9:10PM ET,L,False,4-4,False,Minnesota Vikings,17.0,27.0,14.0,328.0,123.0,205.0,2.0,17.0,308.0,190.0,118.0,2.0,1999,-13.35,1.95,4.11
+674,10,Sun,November 14,4:15PM ET,W,False,5-4,True,Green Bay Packers,27.0,13.0,19.0,339.0,190.0,149.0,2.0,20.0,284.0,244.0,40.0,2.0,1999,0.55,10.41,0.85
+675,11,Sun,November 21,4:16PM ET,L,False,5-5,False,Arizona Cardinals,9.0,13.0,15.0,258.0,102.0,156.0,,13.0,207.0,105.0,102.0,2.0,1999,-11.57,9.46,4.5
+676,12,Thu,November 25,4:15PM ET,W,False,6-5,True,Miami Dolphins,20.0,0.0,15.0,324.0,223.0,101.0,1.0,16.0,275.0,206.0,69.0,5.0,1999,-12.51,26.05,8.0
+677,13,Sun,December 5,8:23PM ET,L,False,6-6,False,New England Patriots,6.0,13.0,12.0,203.0,140.0,63.0,,18.0,284.0,176.0,108.0,2.0,1999,-13.59,5.98,-2.68
+678,14,Sun,December 12,1:00PM ET,W,False,7-6,True,Philadelphia Eagles,20.0,10.0,22.0,337.0,225.0,112.0,1.0,14.0,238.0,143.0,95.0,3.0,1999,-2.21,17.98,-5.7
+679,15,Sun,December 19,4:15PM ET,L,False,7-7,True,New York Jets,21.0,22.0,16.0,347.0,152.0,195.0,2.0,19.0,355.0,229.0,126.0,2.0,1999,-9.87,7.07,2.21
+680,16,Fri,December 24,3:00PM ET,L,False,7-8,False,New Orleans Saints,24.0,31.0,24.0,368.0,246.0,122.0,3.0,18.0,310.0,249.0,61.0,2.0,1999,-6.79,-4.25,3.03
+681,17,Sun,January 2,4:05PM ET,W,False,8-8,True,New York Giants,26.0,18.0,20.0,437.0,288.0,149.0,,19.0,380.0,308.0,72.0,1.0,1999,0.92,18.33,5.35
+682,,,Playoffs,,,False,,True,,,,,,,,,,,,,,1999,,,
+683,Wild Card,Sun,January 9,12:35PM ET,L,False,8-9,False,Minnesota Vikings,10.0,27.0,18.0,389.0,278.0,111.0,3.0,20.0,374.0,199.0,175.0,,1999,-0.73,-6.78,-5.59
+684,1,Sun,September 3,4:05PM ET,L,False,0-1,True,Philadelphia Eagles,14.0,41.0,10.0,167.0,100.0,67.0,2.0,27.0,425.0,119.0,306.0,3.0,2000,-19.42,-10.67,1.4
+685,2,Sun,September 10,8:35PM ET,L,False,0-2,False,Arizona Cardinals,31.0,32.0,17.0,330.0,240.0,90.0,2.0,21.0,322.0,224.0,98.0,1.0,2000,5.06,-11.23,4.92
+686,3,Mon,September 18,9:01PM ET,W,False,1-2,False,Washington Redskins,27.0,21.0,15.0,332.0,179.0,153.0,2.0,24.0,331.0,224.0,107.0,2.0,2000,4.07,2.92,0.18
+687,4,Sun,September 24,1:05PM ET,L,False,1-3,True,San Francisco 49ers,24.0,41.0,18.0,298.0,222.0,76.0,3.0,27.0,439.0,178.0,261.0,,2000,4.15,-27.2,3.9
+688,5,Sun,October 1,1:02PM ET,W,True,2-3,False,Carolina Panthers,16.0,13.0,20.0,291.0,118.0,173.0,2.0,13.0,272.0,153.0,119.0,2.0,2000,-1.38,5.2,-1.82
+689,6,,,,,False,,True,Bye Week,,,,,,,,,,,,,2000,,,
+690,7,Sun,October 15,1:03PM ET,L,False,2-4,False,New York Giants,14.0,19.0,23.0,269.0,193.0,76.0,5.0,17.0,311.0,108.0,203.0,,2000,-11.64,0.31,8.37
+691,8,Sun,October 22,1:00PM ET,W,False,3-4,True,Arizona Cardinals,48.0,7.0,23.0,347.0,147.0,200.0,,15.0,276.0,167.0,109.0,3.0,2000,21.03,22.9,-4.47
+692,9,Sun,October 29,4:15PM ET,L,True,3-5,True,Jacksonville Jaguars,17.0,23.0,22.0,325.0,207.0,118.0,3.0,18.0,392.0,231.0,161.0,,2000,0.63,-6.82,-0.44
+693,10,Sun,November 5,1:03PM ET,L,True,3-6,False,Philadelphia Eagles,13.0,16.0,16.0,295.0,91.0,204.0,2.0,23.0,357.0,228.0,129.0,2.0,2000,-9.77,4.25,3.85
+694,11,Sun,November 12,1:00PM ET,W,False,4-6,True,Cincinnati Bengals,23.0,6.0,22.0,405.0,308.0,97.0,1.0,15.0,195.0,56.0,139.0,2.0,2000,5.19,19.19,-3.4
+695,12,Sun,November 19,4:15PM ET,L,False,4-7,False,Baltimore Ravens,0.0,27.0,9.0,192.0,137.0,55.0,3.0,22.0,479.0,229.0,250.0,2.0,2000,-21.75,-13.55,8.49
+696,13,Thu,November 23,4:08PM ET,L,False,4-8,True,Minnesota Vikings,15.0,27.0,22.0,404.0,276.0,128.0,2.0,18.0,360.0,192.0,168.0,,2000,1.0,-13.25,-3.59
+697,14,Sun,December 3,1:01PM ET,L,False,4-9,False,Tampa Bay Buccaneers,7.0,27.0,19.0,266.0,153.0,113.0,4.0,17.0,301.0,51.0,250.0,1.0,2000,-10.3,-7.53,-3.96
+698,15,Sun,December 10,4:15PM ET,W,False,5-9,True,Washington Redskins,32.0,13.0,19.0,314.0,72.0,242.0,,17.0,270.0,191.0,79.0,2.0,2000,6.26,13.63,-0.32
+699,16,Sun,December 17,8:20PM ET,L,False,5-10,True,New York Giants,13.0,17.0,15.0,145.0,70.0,75.0,3.0,12.0,225.0,126.0,99.0,1.0,2000,-15.72,7.53,1.33
+700,17,Mon,December 25,9:10PM ET,L,False,5-11,False,Tennessee Titans,0.0,31.0,6.0,95.0,9.0,86.0,5.0,23.0,374.0,216.0,158.0,4.0,2000,-48.01,5.28,8.63
+701,1,Sun,September 9,12:03PM ET,L,False,0-1,True,Tampa Bay Buccaneers,6.0,10.0,8.0,127.0,28.0,99.0,3.0,19.0,263.0,192.0,71.0,2.0,2001,-18.31,2.79,12.61
+702,2,Sun,September 23,1:12PM ET,L,False,0-2,True,San Diego Chargers,21.0,32.0,14.0,289.0,188.0,101.0,5.0,26.0,475.0,345.0,130.0,1.0,2001,-4.42,-11.77,4.21
+703,3,Sun,September 30,8:38PM ET,L,False,0-3,False,Philadelphia Eagles,18.0,40.0,11.0,242.0,61.0,181.0,5.0,14.0,276.0,145.0,131.0,3.0,2001,-24.49,2.71,-3.79
+704,4,Sun,October 7,1:15PM ET,L,False,0-4,False,Oakland Raiders,21.0,28.0,17.0,231.0,123.0,108.0,,23.0,308.0,207.0,101.0,2.0,2001,1.8,-11.38,1.8
+705,5,Mon,October 15,8:08PM ET,W,False,1-4,True,Washington Redskins,9.0,7.0,23.0,386.0,175.0,211.0,1.0,10.0,226.0,123.0,103.0,1.0,2001,3.79,4.98,-7.91
+706,6,,,,,False,,True,Bye Week,,,,,,,,,,,,,2001,,,
+707,7,Sun,October 28,3:05PM ET,W,False,2-4,True,Arizona Cardinals,17.0,3.0,15.0,225.0,80.0,145.0,2.0,17.0,292.0,217.0,75.0,4.0,2001,-5.98,21.33,0.27
+708,8,Sun,November 4,1:04PM ET,L,True,2-5,False,New York Giants,24.0,27.0,17.0,324.0,238.0,86.0,4.0,19.0,358.0,265.0,93.0,5.0,2001,-15.53,15.86,-2.85
+709,9,Sun,November 11,1:05PM ET,L,False,2-6,False,Atlanta Falcons,13.0,20.0,15.0,303.0,96.0,207.0,2.0,12.0,201.0,46.0,155.0,1.0,2001,-2.8,4.8,-8.83
+710,10,Sun,November 18,1:03PM ET,L,False,2-7,True,Philadelphia Eagles,3.0,36.0,11.0,213.0,81.0,132.0,4.0,17.0,227.0,129.0,98.0,1.0,2001,-30.55,4.82,-7.7
+711,11,Thu,November 22,4:15PM ET,L,False,2-8,True,Denver Broncos,24.0,26.0,16.0,191.0,164.0,27.0,2.0,19.0,279.0,160.0,119.0,1.0,2001,-10.34,10.23,-2.31
+712,12,Sun,December 2,4:15PM ET,W,False,3-8,False,Washington Redskins,20.0,14.0,19.0,337.0,122.0,215.0,1.0,15.0,277.0,196.0,81.0,1.0,2001,7.32,0.32,-0.85
+713,13,Sun,December 9,1:02PM ET,W,False,4-8,True,New York Giants,20.0,13.0,14.0,289.0,185.0,104.0,,12.0,245.0,120.0,125.0,2.0,2001,-6.53,11.93,4.62
+714,14,Sun,December 16,4:17PM ET,L,False,4-9,False,Seattle Seahawks,3.0,29.0,10.0,218.0,116.0,102.0,1.0,22.0,312.0,139.0,173.0,,2001,-20.11,-3.1,-3.89
+715,15,Sun,December 23,4:06PM ET,L,False,4-10,False,Arizona Cardinals,10.0,17.0,21.0,343.0,169.0,174.0,3.0,11.0,209.0,134.0,75.0,,2001,-17.79,7.34,4.93
+716,16,Sun,December 30,1:03PM ET,W,False,5-10,True,San Francisco 49ers,27.0,21.0,24.0,420.0,234.0,186.0,,16.0,285.0,229.0,56.0,1.0,2001,16.21,-2.06,-5.85
+717,17,Sun,January 6,1:03PM ET,L,False,5-11,False,Detroit Lions,10.0,15.0,12.0,264.0,158.0,106.0,1.0,20.0,366.0,242.0,124.0,,2001,-7.22,-7.65,7.45
+718,1,Sun,September 8,8:36PM ET,L,False,0-1,False,Houston Texans,10.0,19.0,11.0,267.0,112.0,155.0,2.0,13.0,210.0,123.0,87.0,1.0,2002,-9.87,14.29,-7.99
+719,2,Sun,September 15,1:02PM ET,W,False,1-1,True,Tennessee Titans,21.0,13.0,14.0,297.0,230.0,67.0,,19.0,333.0,235.0,98.0,1.0,2002,2.85,10.71,-3.81
+720,3,Sun,September 22,1:02PM ET,L,False,1-2,False,Philadelphia Eagles,13.0,44.0,18.0,304.0,183.0,121.0,4.0,26.0,447.0,294.0,153.0,2.0,2002,-16.63,-22.83,9.87
+721,4,Sun,September 29,1:02PM ET,W,False,2-2,False,St. Louis Rams,13.0,10.0,17.0,315.0,193.0,122.0,2.0,19.0,366.0,273.0,93.0,3.0,2002,-6.79,2.99,4.66
+722,5,Sun,October 6,1:03PM ET,L,False,2-3,True,New York Giants,17.0,21.0,20.0,340.0,245.0,95.0,,16.0,316.0,212.0,104.0,2.0,2002,1.18,-2.53,-0.17
+723,6,Sun,October 13,1:03PM ET,W,False,3-3,True,Carolina Panthers,14.0,13.0,17.0,311.0,174.0,137.0,2.0,14.0,308.0,198.0,110.0,,2002,-10.65,7.02,0.58
+724,7,Sun,October 20,4:15PM ET,L,True,3-4,False,Arizona Cardinals,6.0,9.0,14.0,342.0,194.0,148.0,4.0,22.0,380.0,228.0,152.0,1.0,2002,-10.01,6.06,0.95
+725,8,Sun,October 27,1:04PM ET,L,False,3-5,True,Seattle Seahawks,14.0,17.0,17.0,237.0,132.0,105.0,1.0,18.0,267.0,170.0,97.0,2.0,2002,-2.04,0.09,6.5
+726,9,Sun,November 3,1:04PM ET,L,False,3-6,False,Detroit Lions,7.0,9.0,17.0,221.0,150.0,71.0,2.0,8.0,148.0,96.0,52.0,2.0,2002,-17.97,25.34,-8.61
+727,10,,,,,False,,True,Bye Week,,,,,,,,,,,,,2002,,,
+728,11,Sun,November 17,1:00PM ET,L,False,3-7,False,Indianapolis Colts,3.0,20.0,11.0,178.0,94.0,84.0,2.0,20.0,362.0,252.0,110.0,1.0,2002,-19.68,-1.76,3.59
+729,12,Sun,November 24,1:03PM ET,W,False,4-7,True,Jacksonville Jaguars,21.0,19.0,21.0,405.0,287.0,118.0,3.0,19.0,326.0,194.0,132.0,3.0,2002,-0.45,6.66,-1.77
+730,13,Thu,November 28,4:17PM ET,W,False,5-7,True,Washington Redskins,27.0,20.0,19.0,328.0,117.0,211.0,,16.0,315.0,232.0,83.0,4.0,2002,-0.09,8.04,-1.05
+731,14,Sun,December 8,1:02PM ET,L,False,5-8,True,San Francisco 49ers,27.0,31.0,10.0,257.0,147.0,110.0,2.0,26.0,401.0,276.0,125.0,1.0,2002,-15.23,6.47,4.95
+732,15,Sun,December 15,4:16PM ET,L,False,5-9,False,New York Giants,7.0,37.0,14.0,241.0,137.0,104.0,3.0,20.0,377.0,220.0,157.0,,2002,-27.51,-8.02,6.13
+733,16,Sat,December 21,8:39PM ET,L,False,5-10,True,Philadelphia Eagles,3.0,27.0,9.0,146.0,78.0,68.0,3.0,17.0,359.0,245.0,114.0,2.0,2002,-32.82,3.71,4.41
+734,17,Sun,December 29,1:02PM ET,L,False,5-11,False,Washington Redskins,14.0,20.0,8.0,186.0,148.0,38.0,4.0,18.0,352.0,201.0,151.0,5.0,2002,-26.49,19.28,2.18
+735,1,Sun,September 7,4:19PM ET,L,False,0-1,True,Atlanta Falcons,13.0,27.0,16.0,403.0,254.0,149.0,2.0,17.0,318.0,220.0,98.0,1.0,2003,-1.45,-5.22,-5.24
+736,2,Mon,September 15,9:08PM ET,W,True,1-1,False,New York Giants,35.0,32.0,24.0,403.0,296.0,107.0,1.0,20.0,309.0,256.0,53.0,3.0,2003,-3.89,4.73,1.1
+737,3,,,,,False,,True,Bye Week,,,,,,,,,,,,,2003,,,
+738,4,Sun,September 28,4:15PM ET,W,False,2-1,False,New York Jets,17.0,6.0,18.0,360.0,158.0,202.0,1.0,15.0,285.0,219.0,66.0,2.0,2003,3.81,9.68,-4.94
+739,5,Sun,October 5,1:02PM ET,W,False,3-1,True,Arizona Cardinals,24.0,7.0,18.0,365.0,268.0,97.0,1.0,9.0,151.0,119.0,32.0,2.0,2003,-0.67,15.46,1.17
+740,6,Sun,October 12,1:03PM ET,W,False,4-1,True,Philadelphia Eagles,23.0,21.0,15.0,292.0,173.0,119.0,1.0,14.0,232.0,115.0,117.0,1.0,2003,-4.42,3.22,3.9
+741,7,Sun,October 19,1:03PM ET,W,False,5-1,False,Detroit Lions,38.0,7.0,25.0,331.0,197.0,134.0,1.0,9.0,157.0,74.0,83.0,4.0,2003,-1.94,30.6,0.57
+742,8,Sun,October 26,1:01PM ET,L,False,5-2,False,Tampa Bay Buccaneers,0.0,16.0,9.0,178.0,118.0,60.0,3.0,14.0,261.0,133.0,128.0,,2003,-22.81,6.91,-2.77
+743,9,Sun,November 2,4:15PM ET,W,False,6-2,True,Washington Redskins,21.0,14.0,24.0,400.0,192.0,208.0,4.0,13.0,213.0,124.0,89.0,,2003,0.12,9.02,2.06
+744,10,Sun,November 9,4:15PM ET,W,False,7-2,True,Buffalo Bills,10.0,6.0,14.0,236.0,114.0,122.0,,15.0,185.0,85.0,100.0,2.0,2003,-12.34,19.83,-1.65
+745,11,Sun,November 16,8:37PM ET,L,False,7-3,False,New England Patriots,0.0,12.0,17.0,291.0,207.0,84.0,3.0,14.0,268.0,203.0,65.0,1.0,2003,-14.78,8.37,-2.01
+746,12,Sun,November 23,1:02PM ET,W,False,8-3,True,Carolina Panthers,24.0,20.0,19.0,319.0,254.0,65.0,1.0,15.0,244.0,169.0,75.0,2.0,2003,0.75,7.28,-4.03
+747,13,Thu,November 27,4:16PM ET,L,False,8-4,True,Miami Dolphins,21.0,40.0,21.0,354.0,263.0,91.0,5.0,22.0,365.0,239.0,126.0,1.0,2003,-5.3,-8.71,-1.49
+748,14,Sun,December 7,1:03PM ET,L,False,8-5,False,Philadelphia Eagles,10.0,36.0,13.0,225.0,75.0,150.0,2.0,20.0,403.0,228.0,175.0,,2003,-14.44,-11.69,0.03
+749,15,Sun,December 14,4:17PM ET,W,False,9-5,False,Washington Redskins,27.0,0.0,16.0,326.0,104.0,222.0,1.0,8.0,161.0,55.0,106.0,6.0,2003,-6.08,31.29,0.83
+750,16,Sun,December 21,1:02PM ET,W,False,10-5,True,New York Giants,19.0,3.0,16.0,326.0,222.0,104.0,,10.0,213.0,159.0,54.0,,2003,1.49,11.16,2.76
+751,17,Sun,December 28,1:03PM ET,L,False,10-6,False,New Orleans Saints,7.0,13.0,21.0,352.0,267.0,85.0,3.0,13.0,291.0,233.0,58.0,,2003,-1.72,3.03,-2.93
+752,,,Playoffs,,,False,,True,,,,,,,,,,,,,,2003,,,
+753,Wild Card,Sat,January 3,8:09PM ET,L,False,10-7,False,Carolina Panthers,10.0,29.0,10.0,204.0,132.0,72.0,2.0,16.0,380.0,273.0,107.0,,2003,-19.26,-7.69,7.86
+754,1,Sun,September 12,4:15PM ET,L,False,0-1,False,Minnesota Vikings,17.0,35.0,27.0,423.0,352.0,71.0,2.0,23.0,415.0,279.0,136.0,,2004,4.13,-29.8,6.41
+755,2,Sun,September 19,4:15PM ET,W,False,1-1,True,Cleveland Browns,19.0,12.0,20.0,441.0,315.0,126.0,4.0,12.0,202.0,66.0,136.0,3.0,2004,-2.33,19.84,-12.11
+756,3,Mon,September 27,9:10PM ET,W,False,2-1,False,Washington Redskins,21.0,18.0,14.0,287.0,237.0,50.0,,21.0,384.0,290.0,94.0,,2004,6.09,-6.12,-0.87
+757,4,,,,,False,,True,Bye Week,,,,,,,,,,,,,2004,,,
+758,5,Sun,October 10,1:03PM ET,L,False,2-2,True,New York Giants,10.0,26.0,16.0,278.0,112.0,166.0,2.0,19.0,336.0,211.0,125.0,1.0,2004,-7.15,-2.51,-2.93
+759,6,Sun,October 17,4:15PM ET,L,False,2-3,True,Pittsburgh Steelers,20.0,24.0,20.0,348.0,248.0,100.0,1.0,21.0,297.0,172.0,125.0,,2004,5.51,-8.82,2.68
+760,7,Sun,October 24,4:15PM ET,L,False,2-4,False,Green Bay Packers,20.0,41.0,18.0,362.0,296.0,66.0,,23.0,480.0,260.0,220.0,,2004,9.09,-28.26,-1.07
+761,8,Sun,October 31,1:03PM ET,W,False,3-4,True,Detroit Lions,31.0,21.0,22.0,357.0,230.0,127.0,3.0,15.0,284.0,245.0,39.0,1.0,2004,6.24,-2.29,7.44
+762,9,Sun,November 7,1:02PM ET,L,False,3-5,False,Cincinnati Bengals,3.0,26.0,13.0,311.0,202.0,109.0,5.0,15.0,328.0,212.0,116.0,,2004,-17.51,-2.92,0.34
+763,10,Mon,November 15,9:09PM ET,L,False,3-6,True,Philadelphia Eagles,21.0,49.0,14.0,317.0,246.0,71.0,3.0,20.0,485.0,336.0,149.0,,2004,-9.45,-23.31,3.6
+764,11,Sun,November 21,1:02PM ET,L,False,3-7,False,Baltimore Ravens,10.0,30.0,16.0,222.0,128.0,94.0,3.0,15.0,287.0,228.0,59.0,2.0,2004,-26.01,6.76,0.21
+765,12,Thu,November 25,4:36PM ET,W,False,4-7,True,Chicago Bears,21.0,7.0,18.0,267.0,113.0,154.0,2.0,10.0,140.0,91.0,49.0,4.0,2004,-14.72,28.91,-3.09
+766,13,Mon,December 6,9:09PM ET,W,False,5-7,False,Seattle Seahawks,43.0,39.0,24.0,405.0,207.0,198.0,2.0,25.0,507.0,398.0,109.0,2.0,2004,11.26,-16.56,7.23
+767,14,Sun,December 12,1:05PM ET,L,False,5-8,True,New Orleans Saints,13.0,27.0,18.0,269.0,148.0,121.0,4.0,21.0,344.0,239.0,105.0,2.0,2004,-15.88,4.4,-4.03
+768,15,Sun,December 19,1:02PM ET,L,False,5-9,False,Philadelphia Eagles,7.0,12.0,14.0,237.0,157.0,80.0,2.0,24.0,328.0,208.0,120.0,3.0,2004,-10.07,4.03,-1.29
+769,16,Sun,December 26,4:15PM ET,W,False,6-9,True,Washington Redskins,13.0,10.0,21.0,306.0,217.0,89.0,2.0,15.0,233.0,149.0,84.0,3.0,2004,-7.16,5.13,3.04
+770,17,Sun,January 2,8:36PM ET,L,False,6-10,False,New York Giants,24.0,28.0,21.0,367.0,220.0,147.0,2.0,18.0,235.0,137.0,98.0,1.0,2004,6.26,-10.38,-0.02
+771,1,Sun,September 11,4:15PM ET,W,False,1-0,False,San Diego Chargers,28.0,24.0,23.0,301.0,192.0,109.0,1.0,19.0,291.0,188.0,103.0,2.0,2005,12.6,-5.58,-2.88
+772,2,Mon,September 19,9:07PM ET,L,False,1-1,True,Washington Redskins,13.0,14.0,14.0,351.0,261.0,90.0,,14.0,346.0,242.0,104.0,2.0,2005,-5.74,5.2,2.09
+773,3,Sun,September 25,4:05PM ET,W,False,2-1,False,San Francisco 49ers,34.0,31.0,26.0,443.0,348.0,95.0,3.0,19.0,390.0,266.0,124.0,3.0,2005,6.19,-0.97,-0.44
+774,4,Sun,October 2,4:15PM ET,L,False,2-2,False,Oakland Raiders,13.0,19.0,16.0,303.0,187.0,116.0,1.0,16.0,333.0,204.0,129.0,,2005,0.01,-3.23,-1.44
+775,5,Sun,October 9,4:15PM ET,W,False,3-2,True,Philadelphia Eagles,33.0,10.0,28.0,456.0,289.0,167.0,1.0,6.0,129.0,110.0,19.0,,2005,4.18,17.11,3.47
+776,6,Sun,October 16,1:02PM ET,W,True,4-2,True,New York Giants,16.0,13.0,25.0,385.0,293.0,92.0,4.0,11.0,270.0,179.0,91.0,4.0,2005,-7.49,20.93,-8.97
+777,7,Sun,October 23,4:06PM ET,L,False,4-3,False,Seattle Seahawks,10.0,13.0,16.0,275.0,111.0,164.0,2.0,20.0,289.0,217.0,72.0,3.0,2005,-17.19,12.95,1.5
+778,8,Sun,October 30,1:02PM ET,W,False,5-3,True,Arizona Cardinals,34.0,13.0,21.0,348.0,202.0,146.0,1.0,12.0,213.0,142.0,71.0,2.0,2005,11.88,16.28,-6.21
+779,9,,,,,False,,True,Bye Week,,,,,,,,,,,,,2005,,,
+780,10,Mon,November 14,9:08PM ET,W,False,6-3,False,Philadelphia Eagles,21.0,20.0,13.0,241.0,183.0,58.0,1.0,21.0,359.0,178.0,181.0,1.0,2005,-6.59,4.7,0.48
+781,11,Sun,November 20,1:02PM ET,W,False,7-3,True,Detroit Lions,20.0,7.0,26.0,253.0,104.0,149.0,1.0,11.0,226.0,169.0,57.0,1.0,2005,7.03,3.31,3.04
+782,12,Thu,November 24,4:17PM ET,L,True,7-4,True,Denver Broncos,21.0,24.0,23.0,314.0,229.0,85.0,2.0,13.0,293.0,149.0,144.0,2.0,2005,-3.92,2.45,-3.38
+783,13,Sun,December 4,1:03PM ET,L,False,7-5,False,New York Giants,10.0,17.0,16.0,206.0,125.0,81.0,4.0,17.0,277.0,150.0,127.0,2.0,2005,-19.95,11.47,4.2
+784,14,Sun,December 11,4:15PM ET,W,False,8-5,True,Kansas City Chiefs,31.0,28.0,21.0,445.0,316.0,129.0,,25.0,493.0,332.0,161.0,1.0,2005,19.18,-17.83,0.24
+785,15,Sun,December 18,4:16PM ET,L,False,8-6,False,Washington Redskins,7.0,35.0,13.0,216.0,107.0,109.0,4.0,19.0,334.0,163.0,171.0,1.0,2005,-20.99,-7.51,1.36
+786,16,Sat,December 24,1:03PM ET,W,False,9-6,False,Carolina Panthers,24.0,20.0,22.0,394.0,180.0,214.0,2.0,13.0,318.0,247.0,71.0,2.0,2005,6.48,6.28,-7.45
+787,17,Sun,January 1,8:36PM ET,L,False,9-7,True,St. Louis Rams,10.0,20.0,15.0,271.0,214.0,57.0,4.0,20.0,253.0,147.0,106.0,,2005,-19.33,4.32,1.13
+788,1,Sun,September 10,4:15PM ET,L,False,0-1,False,Jacksonville Jaguars,17.0,24.0,14.0,323.0,235.0,88.0,3.0,22.0,307.0,229.0,78.0,1.0,2006,-7.28,-3.66,0.43
+789,2,Sun,September 17,8:20PM ET,W,False,1-1,True,Washington Redskins,27.0,10.0,22.0,367.0,229.0,138.0,1.0,16.0,245.0,152.0,93.0,1.0,2006,4.26,13.44,-4.67
+790,3,,,,,False,,True,Bye Week,,,,,,,,,,,,,2006,,,
+791,4,Sun,October 1,1:04PM ET,W,False,2-1,False,Tennessee Titans,45.0,14.0,23.0,396.0,179.0,217.0,1.0,16.0,229.0,151.0,78.0,3.0,2006,22.31,15.23,-3.66
+792,5,Sun,October 8,4:14PM ET,L,False,2-2,False,Philadelphia Eagles,24.0,38.0,23.0,320.0,174.0,146.0,5.0,16.0,383.0,331.0,52.0,2.0,2006,-19.81,4.73,3.17
+793,6,Sun,October 15,1:02PM ET,W,False,3-2,True,Houston Texans,34.0,6.0,21.0,354.0,184.0,170.0,,12.0,232.0,198.0,34.0,3.0,2006,9.98,10.92,0.31
+794,7,Mon,October 23,8:40PM ET,L,False,3-3,True,New York Giants,22.0,36.0,21.0,379.0,310.0,69.0,4.0,18.0,328.0,173.0,155.0,2.0,2006,-9.68,-4.29,-4.04
+795,8,Sun,October 29,8:20PM ET,W,False,4-3,False,Carolina Panthers,35.0,14.0,27.0,414.0,258.0,156.0,1.0,16.0,204.0,128.0,76.0,3.0,2006,11.1,4.7,1.92
+796,9,Sun,November 5,1:02PM ET,L,False,4-4,False,Washington Redskins,19.0,22.0,21.0,378.0,267.0,111.0,,18.0,300.0,183.0,117.0,1.0,2006,9.57,-4.5,-11.86
+797,10,Sun,November 12,4:16PM ET,W,False,5-4,False,Arizona Cardinals,27.0,10.0,20.0,434.0,308.0,126.0,,17.0,295.0,209.0,86.0,3.0,2006,12.98,2.3,-0.14
+798,11,Sun,November 19,4:15PM ET,W,False,6-4,True,Indianapolis Colts,21.0,14.0,24.0,342.0,225.0,117.0,2.0,22.0,335.0,247.0,88.0,4.0,2006,7.75,5.95,-3.93
+799,12,Thu,November 23,4:25PM ET,W,False,7-4,True,Tampa Bay Buccaneers,38.0,10.0,27.0,435.0,298.0,137.0,,10.0,211.0,110.0,101.0,2.0,2006,24.69,6.68,-4.65
+800,13,Sun,December 3,4:15PM ET,W,False,8-4,False,New York Giants,23.0,20.0,21.0,365.0,255.0,110.0,2.0,22.0,396.0,270.0,126.0,1.0,2006,11.65,-9.96,-0.57
+801,14,Sun,December 10,8:21PM ET,L,False,8-5,True,New Orleans Saints,17.0,42.0,16.0,347.0,231.0,116.0,2.0,28.0,536.0,377.0,159.0,,2006,4.95,-30.04,-2.02
+802,15,Sat,December 16,8:05PM ET,W,False,9-5,False,Atlanta Falcons,38.0,28.0,21.0,352.0,258.0,94.0,2.0,19.0,376.0,249.0,127.0,3.0,2006,10.16,-3.06,0.78
+803,16,Mon,December 25,5:07PM ET,L,False,9-6,True,Philadelphia Eagles,7.0,23.0,16.0,201.0,118.0,83.0,3.0,20.0,426.0,222.0,204.0,1.0,2006,-6.55,-10.91,-1.77
+804,17,Sun,December 31,1:02PM ET,L,False,9-7,True,Detroit Lions,31.0,39.0,19.0,365.0,307.0,58.0,4.0,22.0,362.0,277.0,85.0,1.0,2006,2.43,-8.62,-0.49
+805,,,Playoffs,,,False,,True,,,,,,,,,,,,,,2006,,,
+806,Wild Card,Sat,January 6,8:09PM ET,L,False,9-8,False,Seattle Seahawks,20.0,21.0,14.0,284.0,168.0,116.0,1.0,19.0,332.0,240.0,92.0,2.0,2006,-8.69,2.81,7.2
+807,1,Sun,September 9,8:25PM ET,W,False,1-0,True,New York Giants,45.0,35.0,21.0,478.0,336.0,142.0,2.0,22.0,438.0,314.0,124.0,1.0,2007,26.48,-8.52,-2.05
+808,2,Sun,September 16,4:05PM ET,W,False,2-0,False,Miami Dolphins,37.0,20.0,19.0,352.0,186.0,166.0,,21.0,334.0,273.0,61.0,5.0,2007,6.9,9.34,0.2
+809,3,Sun,September 23,8:24PM ET,W,False,3-0,False,Chicago Bears,34.0,10.0,21.0,431.0,300.0,131.0,1.0,16.0,239.0,164.0,75.0,4.0,2007,9.96,16.7,-6.4
+810,4,Sun,September 30,1:02PM ET,W,False,4-0,True,St. Louis Rams,35.0,7.0,28.0,502.0,331.0,171.0,1.0,12.0,187.0,125.0,62.0,1.0,2007,22.08,16.6,-10.05
+811,5,Mon,October 8,8:40PM ET,W,False,5-0,False,Buffalo Bills,25.0,24.0,24.0,385.0,309.0,76.0,6.0,14.0,229.0,148.0,81.0,1.0,2007,-13.72,15.68,-1.96
+812,6,Sun,October 14,4:17PM ET,L,False,5-1,True,New England Patriots,27.0,48.0,13.0,285.0,186.0,99.0,1.0,28.0,448.0,373.0,75.0,1.0,2007,-0.85,-22.04,2.49
+813,7,Sun,October 21,4:15PM ET,W,False,6-1,True,Minnesota Vikings,24.0,14.0,22.0,381.0,253.0,128.0,2.0,11.0,196.0,65.0,131.0,1.0,2007,-4.88,11.02,4.9
+814,8,,,,,False,,True,Bye Week,,,,,,,,,,,,,2007,,,
+815,9,Sun,November 4,8:23PM ET,W,False,7-1,False,Philadelphia Eagles,38.0,17.0,24.0,434.0,324.0,110.0,1.0,21.0,316.0,250.0,66.0,3.0,2007,23.28,-2.79,-1.4
+816,10,Sun,November 11,4:15PM ET,W,False,8-1,False,New York Giants,31.0,20.0,19.0,323.0,243.0,80.0,1.0,23.0,300.0,194.0,106.0,2.0,2007,14.34,-1.74,-0.66
+817,11,Sun,November 18,4:15PM ET,W,False,9-1,True,Washington Redskins,28.0,23.0,19.0,362.0,287.0,75.0,1.0,28.0,423.0,361.0,62.0,2.0,2007,18.2,-7.86,-5.28
+818,12,Thu,November 22,4:20PM ET,W,False,10-1,True,New York Jets,34.0,3.0,21.0,344.0,170.0,174.0,1.0,9.0,180.0,120.0,60.0,2.0,2007,5.74,22.63,-0.6
+819,13,Thu,November 29,8:16PM ET,W,False,11-1,True,Green Bay Packers,37.0,27.0,23.0,414.0,309.0,105.0,1.0,20.0,357.0,233.0,124.0,2.0,2007,18.86,-6.01,-0.88
+820,14,Sun,December 9,1:03PM ET,W,False,12-1,False,Detroit Lions,28.0,27.0,25.0,368.0,281.0,87.0,1.0,25.0,390.0,238.0,152.0,,2007,15.89,-13.86,0.26
+821,15,Sun,December 16,4:15PM ET,L,False,12-2,True,Philadelphia Eagles,6.0,10.0,11.0,240.0,187.0,53.0,3.0,20.0,315.0,181.0,134.0,1.0,2007,-14.74,2.95,5.28
+822,16,Sat,December 22,8:15PM ET,W,False,13-2,False,Carolina Panthers,20.0,13.0,25.0,405.0,257.0,148.0,1.0,12.0,216.0,147.0,69.0,1.0,2007,6.24,6.16,-5.18
+823,17,Sun,December 30,4:15PM ET,L,False,13-3,False,Washington Redskins,6.0,27.0,7.0,147.0,146.0,1.0,1.0,22.0,354.0,223.0,131.0,2.0,2007,-22.67,-4.31,7.51
+824,,,Playoffs,,,False,,True,,,,,,,,,,,,,,2007,,,
+825,Division,Sun,January 13,4:45PM ET,L,False,13-4,True,New York Giants,17.0,21.0,23.0,336.0,182.0,154.0,1.0,16.0,230.0,140.0,90.0,,2007,7.34,-8.49,-1.73
+826,1,Sun,September 7,4:16PM ET,W,False,1-0,False,Cleveland Browns,28.0,10.0,30.0,487.0,320.0,167.0,1.0,11.0,205.0,114.0,91.0,,2008,25.03,-0.33,-2.71
+827,2,Mon,September 15,8:40PM ET,W,False,2-0,True,Philadelphia Eagles,41.0,37.0,20.0,380.0,312.0,68.0,2.0,23.0,337.0,259.0,78.0,1.0,2008,9.53,-7.01,1.37
+828,3,Sun,September 21,8:23PM ET,W,False,3-0,False,Green Bay Packers,27.0,16.0,22.0,453.0,236.0,217.0,2.0,17.0,334.0,250.0,84.0,1.0,2008,5.47,6.09,-0.25
+829,4,Sun,September 28,4:15PM ET,L,False,3-1,True,Washington Redskins,24.0,26.0,21.0,344.0,300.0,44.0,1.0,22.0,381.0,220.0,161.0,,2008,9.85,-7.16,-5.22
+830,5,Sun,October 5,4:15PM ET,W,False,4-1,True,Cincinnati Bengals,31.0,22.0,18.0,373.0,175.0,198.0,2.0,18.0,269.0,208.0,61.0,2.0,2008,7.86,11.54,-8.43
+831,6,Sun,October 12,4:15PM ET,L,True,4-2,False,Arizona Cardinals,24.0,30.0,15.0,374.0,301.0,73.0,1.0,14.0,276.0,226.0,50.0,3.0,2008,1.25,2.21,-9.52
+832,7,Sun,October 19,1:00PM ET,L,False,4-3,False,St. Louis Rams,14.0,34.0,17.0,341.0,217.0,124.0,4.0,18.0,325.0,135.0,190.0,,2008,-8.22,-8.0,-1.01
+833,8,Sun,October 26,1:02PM ET,W,False,5-3,True,Tampa Bay Buccaneers,13.0,9.0,17.0,172.0,102.0,70.0,,15.0,262.0,213.0,49.0,1.0,2008,-6.96,6.33,4.15
+834,9,Sun,November 2,4:15PM ET,L,False,5-4,False,New York Giants,14.0,35.0,11.0,183.0,102.0,81.0,4.0,23.0,319.0,119.0,200.0,3.0,2008,-19.48,-1.93,1.6
+835,10,,,,,False,,True,Bye Week,,,,,,,,,,,,,2008,,,
+836,11,Sun,November 16,8:23PM ET,W,False,6-4,False,Washington Redskins,14.0,10.0,17.0,315.0,198.0,117.0,2.0,14.0,228.0,136.0,92.0,1.0,2008,3.02,6.42,-1.57
+837,12,Sun,November 23,1:03PM ET,W,False,7-4,True,San Francisco 49ers,35.0,22.0,16.0,408.0,334.0,74.0,1.0,16.0,304.0,278.0,26.0,2.0,2008,4.71,1.36,8.77
+838,13,Thu,November 27,4:29PM ET,W,False,8-4,True,Seattle Seahawks,34.0,9.0,24.0,447.0,331.0,116.0,1.0,19.0,322.0,242.0,80.0,2.0,2008,15.83,9.29,-2.38
+839,14,Sun,December 7,4:16PM ET,L,False,8-5,False,Pittsburgh Steelers,13.0,20.0,15.0,289.0,194.0,95.0,5.0,13.0,238.0,168.0,70.0,2.0,2008,-26.1,18.36,-1.0
+840,15,Sun,December 14,8:24PM ET,W,False,9-5,True,New York Giants,20.0,8.0,17.0,321.0,221.0,100.0,,17.0,218.0,146.0,72.0,2.0,2008,2.72,11.56,-5.04
+841,16,Sat,December 20,8:15PM ET,L,False,9-6,True,Baltimore Ravens,24.0,33.0,16.0,327.0,235.0,92.0,2.0,20.0,388.0,123.0,265.0,1.0,2008,-1.71,-7.56,1.77
+842,17,Sun,December 28,4:15PM ET,L,False,9-7,False,Philadelphia Eagles,6.0,44.0,15.0,298.0,211.0,87.0,5.0,16.0,303.0,166.0,137.0,1.0,2008,-31.76,-7.09,2.07
+843,1,Sun,September 13,1:03PM ET,W,False,1-0,False,Tampa Bay Buccaneers,34.0,21.0,18.0,462.0,344.0,118.0,,26.0,450.0,276.0,174.0,,2009,19.25,-16.05,11.93
+844,2,Sun,September 20,8:20PM ET,L,False,1-1,True,New York Giants,31.0,33.0,23.0,378.0,127.0,251.0,4.0,19.0,427.0,330.0,97.0,,2009,7.17,-12.5,2.39
+845,3,Mon,September 28,8:40PM ET,W,False,2-1,True,Carolina Panthers,21.0,7.0,24.0,449.0,237.0,212.0,,15.0,271.0,198.0,73.0,3.0,2009,9.9,10.06,-5.68
+846,4,Sun,October 4,4:15PM ET,L,False,2-2,False,Denver Broncos,10.0,17.0,20.0,315.0,241.0,74.0,2.0,18.0,337.0,221.0,116.0,1.0,2009,-10.43,0.81,3.51
+847,5,Sun,October 11,1:00PM ET,W,True,3-2,False,Kansas City Chiefs,26.0,20.0,20.0,498.0,348.0,150.0,2.0,20.0,304.0,232.0,72.0,,2009,12.3,1.9,-10.33
+848,6,,,,,False,,True,Bye Week,,,,,,,,,,,,,2009,,,
+849,7,Sun,October 25,4:15PM ET,W,False,4-2,True,Atlanta Falcons,37.0,21.0,18.0,414.0,299.0,115.0,1.0,21.0,298.0,174.0,124.0,3.0,2009,9.44,-0.19,7.05
+850,8,Sun,November 1,1:03PM ET,W,False,5-2,True,Seattle Seahawks,38.0,17.0,26.0,362.0,249.0,113.0,1.0,18.0,308.0,229.0,79.0,2.0,2009,13.95,1.99,4.66
+851,9,Sun,November 8,8:31PM ET,W,False,6-2,False,Philadelphia Eagles,20.0,16.0,18.0,358.0,282.0,76.0,1.0,17.0,297.0,208.0,89.0,2.0,2009,3.88,2.58,-3.59
+852,10,Sun,November 15,4:15PM ET,L,False,6-3,False,Green Bay Packers,7.0,17.0,17.0,278.0,217.0,61.0,3.0,20.0,283.0,178.0,105.0,,2009,-13.36,3.41,-2.49
+853,11,Sun,November 22,1:03PM ET,W,False,7-3,True,Washington Redskins,7.0,6.0,17.0,305.0,152.0,153.0,2.0,14.0,324.0,246.0,78.0,1.0,2009,-6.34,2.37,5.91
+854,12,Thu,November 26,4:15PM ET,W,False,8-3,True,Oakland Raiders,24.0,7.0,18.0,494.0,299.0,195.0,,14.0,305.0,181.0,124.0,1.0,2009,17.06,7.51,-7.18
+855,13,Sun,December 6,4:15PM ET,L,False,8-4,False,New York Giants,24.0,31.0,27.0,424.0,379.0,45.0,1.0,15.0,337.0,237.0,100.0,2.0,2009,6.0,-3.08,-9.81
+856,14,Sun,December 13,4:15PM ET,L,False,8-5,True,San Diego Chargers,17.0,20.0,22.0,347.0,239.0,108.0,,21.0,341.0,268.0,73.0,1.0,2009,7.45,-12.26,-0.89
+857,15,Sat,December 19,8:22PM ET,W,False,9-5,False,New Orleans Saints,24.0,17.0,24.0,439.0,294.0,145.0,,23.0,336.0,271.0,65.0,3.0,2009,14.21,-1.16,-5.26
+858,16,Sun,December 27,8:31PM ET,W,False,10-5,False,Washington Redskins,17.0,0.0,22.0,393.0,285.0,108.0,1.0,15.0,208.0,165.0,43.0,1.0,2009,4.57,14.55,0.59
+859,17,Sun,January 3,4:15PM ET,W,False,11-5,True,Philadelphia Eagles,24.0,0.0,21.0,474.0,295.0,179.0,1.0,10.0,228.0,191.0,37.0,1.0,2009,11.35,15.05,-4.41
+860,,,Playoffs,,,False,,True,,,,,,,,,,,,,,2009,,,
+861,Wild Card,Sat,January 9,8:05PM ET,W,False,12-5,True,Philadelphia Eagles,34.0,14.0,27.0,426.0,228.0,198.0,1.0,17.0,340.0,284.0,56.0,4.0,2009,18.74,6.29,-5.71
+862,Division,Sun,January 17,1:05PM ET,L,False,12-6,False,Minnesota Vikings,3.0,34.0,16.0,248.0,156.0,92.0,3.0,16.0,323.0,214.0,109.0,,2009,-21.34,-5.54,-2.9
+863,1,Sun,September 12,8:31PM ET,L,False,0-1,False,Washington Redskins,7.0,13.0,24.0,380.0,277.0,103.0,1.0,17.0,250.0,161.0,89.0,,2010,-1.57,9.58,-10.17
+864,2,Sun,September 19,1:05PM ET,L,False,0-2,True,Chicago Bears,20.0,27.0,23.0,410.0,374.0,36.0,3.0,14.0,308.0,270.0,38.0,,2010,-1.44,-4.53,-1.69
+865,3,Sun,September 26,1:02PM ET,W,False,1-2,False,Houston Texans,27.0,13.0,21.0,385.0,284.0,101.0,,24.0,340.0,216.0,124.0,3.0,2010,14.61,-2.66,2.64
+866,4,,,,,False,,True,Bye Week,,,,,,,,,,,,,2010,,,
+867,5,Sun,October 10,4:16PM ET,L,False,1-3,True,Tennessee Titans,27.0,34.0,25.0,511.0,370.0,141.0,3.0,17.0,321.0,163.0,158.0,,2010,4.81,-9.53,-6.01
+868,6,Sun,October 17,4:15PM ET,L,False,1-4,False,Minnesota Vikings,21.0,24.0,16.0,314.0,220.0,94.0,2.0,14.0,188.0,93.0,95.0,1.0,2010,2.43,3.93,-8.54
+869,7,Mon,October 25,8:41PM ET,L,False,1-5,True,New York Giants,35.0,41.0,14.0,254.0,213.0,41.0,2.0,25.0,497.0,297.0,200.0,5.0,2010,-13.44,-0.15,4.63
+870,8,Sun,October 31,1:05PM ET,L,False,1-6,True,Jacksonville Jaguars,17.0,35.0,25.0,415.0,365.0,50.0,4.0,20.0,387.0,238.0,149.0,1.0,2010,-2.83,-15.48,0.95
+871,9,Sun,November 7,8:30PM ET,L,False,1-7,False,Green Bay Packers,7.0,45.0,12.0,205.0,166.0,39.0,4.0,26.0,415.0,277.0,138.0,,2010,-11.88,-20.76,-3.14
+872,10,Sun,November 14,4:15PM ET,W,False,2-7,False,New York Giants,33.0,20.0,15.0,427.0,327.0,100.0,1.0,25.0,480.0,373.0,107.0,3.0,2010,14.73,7.94,-5.24
+873,11,Sun,November 21,1:02PM ET,W,False,3-7,True,Detroit Lions,35.0,19.0,19.0,265.0,131.0,134.0,1.0,17.0,338.0,263.0,75.0,2.0,2010,6.9,0.05,7.64
+874,12,Thu,November 25,4:36PM ET,L,False,3-8,True,New Orleans Saints,27.0,30.0,24.0,457.0,313.0,144.0,3.0,21.0,414.0,333.0,81.0,2.0,2010,7.07,-9.55,-0.74
+875,13,Sun,December 5,4:15PM ET,W,True,4-8,False,Indianapolis Colts,38.0,35.0,24.0,368.0,151.0,217.0,,24.0,405.0,365.0,40.0,4.0,2010,8.32,-3.48,-3.63
+876,14,Sun,December 12,8:30PM ET,L,False,4-9,True,Philadelphia Eagles,27.0,30.0,22.0,349.0,239.0,110.0,2.0,18.0,429.0,258.0,171.0,2.0,2010,6.33,-11.26,-0.47
+877,15,Sun,December 19,1:03PM ET,W,False,5-9,True,Washington Redskins,33.0,30.0,25.0,434.0,300.0,134.0,,23.0,341.0,286.0,55.0,3.0,2010,12.15,-7.69,0.55
+878,16,Sat,December 25,7:30PM ET,L,False,5-10,False,Arizona Cardinals,26.0,27.0,24.0,382.0,199.0,183.0,3.0,10.0,271.0,178.0,93.0,,2010,-4.37,-0.18,1.95
+879,17,Sun,January 2,4:15PM ET,W,False,6-10,False,Philadelphia Eagles,14.0,13.0,14.0,272.0,113.0,159.0,1.0,14.0,244.0,123.0,121.0,4.0,2010,-7.56,19.12,-8.8
+880,1,Sun,September 11,8:33PM ET,L,False,0-1,False,New York Jets,24.0,27.0,21.0,390.0,326.0,64.0,3.0,19.0,360.0,315.0,45.0,2.0,2011,0.11,2.95,-5.63
+881,2,Sun,September 18,4:05PM ET,W,True,1-1,False,San Francisco 49ers,27.0,24.0,20.0,472.0,427.0,45.0,2.0,14.0,206.0,132.0,74.0,1.0,2011,12.54,2.83,-14.1
+882,3,Mon,September 26,8:41PM ET,W,False,2-1,True,Washington Redskins,18.0,16.0,17.0,375.0,250.0,125.0,2.0,20.0,298.0,233.0,65.0,2.0,2011,-3.71,6.87,1.08
+883,4,Sun,October 2,1:02PM ET,L,False,2-2,True,Detroit Lions,30.0,34.0,25.0,434.0,321.0,113.0,3.0,18.0,303.0,240.0,63.0,1.0,2011,-6.22,2.92,-2.15
+884,5,,,,,False,,True,Bye Week,,,,,,,,,,,,,2011,,,
+885,6,Sun,October 16,4:15PM ET,L,False,2-3,False,New England Patriots,16.0,20.0,21.0,377.0,300.0,77.0,2.0,25.0,371.0,270.0,101.0,4.0,2011,-1.21,-2.89,1.61
+886,7,Sun,October 23,4:15PM ET,W,False,3-3,True,St. Louis Rams,34.0,7.0,24.0,445.0,151.0,294.0,1.0,13.0,265.0,195.0,70.0,2.0,2011,17.68,10.36,-1.4
+887,8,Sun,October 30,8:28PM ET,L,False,3-4,False,Philadelphia Eagles,7.0,34.0,12.0,267.0,182.0,85.0,1.0,31.0,495.0,256.0,239.0,,2011,-1.31,-27.96,6.97
+888,9,Sun,November 6,1:02PM ET,W,False,4-4,True,Seattle Seahawks,23.0,13.0,18.0,442.0,279.0,163.0,1.0,18.0,381.0,219.0,162.0,3.0,2011,9.63,-1.03,1.4
+889,10,Sun,November 13,1:02PM ET,W,False,5-4,True,Buffalo Bills,44.0,7.0,24.0,433.0,270.0,163.0,,20.0,271.0,136.0,135.0,4.0,2011,24.58,11.85,-0.33
+890,11,Sun,November 20,1:03PM ET,W,True,6-4,False,Washington Redskins,27.0,24.0,20.0,353.0,264.0,89.0,,18.0,339.0,279.0,60.0,2.0,2011,7.7,-1.3,-3.96
+891,12,Thu,November 24,4:16PM ET,W,False,7-4,True,Miami Dolphins,20.0,19.0,19.0,303.0,218.0,85.0,2.0,18.0,352.0,263.0,89.0,1.0,2011,-1.95,0.6,2.35
+892,13,Sun,December 4,4:15PM ET,L,True,7-5,False,Arizona Cardinals,13.0,19.0,20.0,336.0,261.0,75.0,,16.0,327.0,224.0,103.0,,2011,1.98,-1.07,-7.14
+893,14,Sun,December 11,8:30PM ET,L,False,7-6,True,New York Giants,34.0,37.0,23.0,444.0,305.0,139.0,1.0,28.0,510.0,400.0,110.0,1.0,2011,17.77,-19.02,-0.89
+894,15,Sat,December 17,8:29PM ET,W,False,8-6,False,Tampa Bay Buccaneers,31.0,15.0,28.0,399.0,239.0,160.0,1.0,7.0,190.0,132.0,58.0,1.0,2011,15.8,11.22,-6.4
+895,16,Sat,December 24,4:15PM ET,L,False,8-7,True,Philadelphia Eagles,7.0,20.0,16.0,238.0,157.0,81.0,,20.0,386.0,281.0,105.0,1.0,2011,-9.54,-3.77,0.73
+896,17,Sun,January 1,8:31PM ET,L,False,8-8,False,New York Giants,14.0,31.0,19.0,300.0,251.0,49.0,2.0,20.0,437.0,331.0,106.0,,2011,-4.82,-15.03,4.24
+897,1,Wed,September 5,8:41PM ET,W,False,1-0,False,New York Giants,24.0,17.0,18.0,433.0,290.0,143.0,1.0,15.0,269.0,187.0,82.0,1.0,2012,6.86,-0.96,1.43
+898,2,Sun,September 16,4:06PM ET,L,False,1-1,False,Seattle Seahawks,7.0,27.0,17.0,296.0,247.0,49.0,2.0,20.0,315.0,133.0,182.0,,2012,-3.37,-5.89,-9.28
+899,3,Sun,September 23,1:05PM ET,W,False,2-1,True,Tampa Bay Buccaneers,16.0,10.0,14.0,297.0,259.0,38.0,3.0,12.0,166.0,91.0,75.0,2.0,2012,-17.66,11.49,10.12
+900,4,Mon,October 1,8:40PM ET,L,False,2-2,True,Chicago Bears,18.0,34.0,26.0,430.0,389.0,41.0,5.0,18.0,360.0,267.0,93.0,1.0,2012,-5.32,-8.38,-4.07
+901,5,,,,,False,,True,Bye Week,,,,,,,,,,,,,2012,,,
+902,6,Sun,October 14,1:02PM ET,L,False,2-3,False,Baltimore Ravens,29.0,31.0,30.0,481.0,254.0,227.0,1.0,19.0,316.0,230.0,86.0,,2012,20.22,-15.0,-7.68
+903,7,Sun,October 21,1:03PM ET,W,False,3-3,False,Carolina Panthers,19.0,14.0,18.0,312.0,227.0,85.0,1.0,18.0,328.0,216.0,112.0,2.0,2012,0.93,3.15,1.53
+904,8,Sun,October 28,4:25PM ET,L,False,3-4,True,New York Giants,24.0,29.0,28.0,434.0,415.0,19.0,6.0,11.0,293.0,190.0,103.0,2.0,2012,-5.04,10.9,-8.46
+905,9,Sun,November 4,8:31PM ET,L,False,3-5,False,Atlanta Falcons,13.0,19.0,18.0,377.0,312.0,65.0,,21.0,453.0,330.0,123.0,,2012,9.19,-17.08,6.06
+906,10,Sun,November 11,4:25PM ET,W,False,4-5,False,Philadelphia Eagles,38.0,23.0,14.0,294.0,193.0,101.0,,23.0,369.0,278.0,91.0,2.0,2012,2.83,4.69,5.86
+907,11,Sun,November 18,1:04PM ET,W,True,5-5,True,Cleveland Browns,23.0,20.0,30.0,320.0,257.0,63.0,1.0,19.0,311.0,192.0,119.0,1.0,2012,3.48,0.6,-3.61
+908,12,Thu,November 22,4:41PM ET,L,False,5-6,True,Washington Redskins,31.0,38.0,22.0,458.0,423.0,35.0,3.0,22.0,437.0,288.0,149.0,1.0,2012,6.7,-15.22,-4.47
+909,13,Sun,December 2,8:20PM ET,W,False,6-6,True,Philadelphia Eagles,38.0,33.0,22.0,417.0,294.0,123.0,,23.0,423.0,240.0,183.0,1.0,2012,21.78,-11.93,-2.87
+910,14,Sun,December 9,1:03PM ET,W,False,7-6,False,Cincinnati Bengals,20.0,19.0,20.0,288.0,239.0,49.0,1.0,19.0,336.0,190.0,146.0,1.0,2012,7.78,-0.63,-5.4
+911,15,Sun,December 16,4:25PM ET,W,True,8-6,True,Pittsburgh Steelers,27.0,24.0,23.0,415.0,328.0,87.0,1.0,20.0,388.0,319.0,69.0,2.0,2012,6.23,-6.46,3.23
+912,16,Sun,December 23,1:02PM ET,L,True,8-7,True,New Orleans Saints,31.0,34.0,18.0,446.0,406.0,40.0,1.0,33.0,562.0,446.0,116.0,,2012,12.45,-27.29,12.18
+913,17,Sun,December 30,8:31PM ET,L,False,8-8,False,Washington Redskins,18.0,28.0,20.0,296.0,196.0,100.0,3.0,24.0,361.0,87.0,274.0,,2012,0.69,-16.28,7.18
+914,1,Sun,September 8,8:30PM ET,W,False,1-0,True,New York Giants,36.0,31.0,22.0,331.0,244.0,87.0,1.0,21.0,478.0,428.0,50.0,6.0,2013,-9.93,4.53,13.06
+915,2,Sun,September 15,1:02PM ET,L,False,1-1,False,Kansas City Chiefs,16.0,17.0,20.0,318.0,281.0,37.0,2.0,19.0,313.0,199.0,114.0,,2013,-6.67,-1.42,7.11
+916,3,Sun,September 22,1:02PM ET,W,False,2-1,True,St. Louis Rams,31.0,7.0,21.0,396.0,203.0,193.0,1.0,17.0,232.0,197.0,35.0,1.0,2013,18.31,14.3,-10.56
+917,4,Sun,September 29,4:25PM ET,L,False,2-2,False,San Diego Chargers,21.0,30.0,21.0,319.0,227.0,92.0,1.0,27.0,506.0,394.0,112.0,1.0,2013,5.6,-12.93,-0.68
+918,5,Sun,October 6,4:25PM ET,L,False,2-3,True,Denver Broncos,48.0,51.0,24.0,522.0,470.0,52.0,2.0,34.0,517.0,414.0,103.0,2.0,2013,31.36,-24.76,-9.6
+919,6,Sun,October 13,8:31PM ET,W,False,3-3,True,Washington Redskins,31.0,16.0,18.0,213.0,165.0,48.0,1.0,25.0,433.0,217.0,216.0,2.0,2013,-0.73,-0.95,16.07
+920,7,Sun,October 20,1:02PM ET,W,False,4-3,False,Philadelphia Eagles,17.0,3.0,22.0,368.0,294.0,74.0,2.0,19.0,278.0,194.0,84.0,3.0,2013,-7.44,20.12,-0.29
+921,8,Sun,October 27,1:03PM ET,L,False,4-4,False,Detroit Lions,30.0,31.0,13.0,268.0,206.0,62.0,,29.0,623.0,480.0,143.0,4.0,2013,-1.28,-5.83,8.24
+922,9,Sun,November 3,1:03PM ET,W,False,5-4,True,Minnesota Vikings,27.0,23.0,20.0,350.0,314.0,36.0,1.0,22.0,393.0,224.0,169.0,2.0,2013,5.61,-5.82,2.09
+923,10,Sun,November 10,8:30PM ET,L,False,5-5,False,New Orleans Saints,17.0,49.0,9.0,193.0,104.0,89.0,,40.0,625.0,383.0,242.0,1.0,2013,-4.88,-46.75,15.75
+924,11,,,,,False,,True,Bye Week,,,,,,,,,,,,,2013,,,
+925,12,Sun,November 24,4:25PM ET,W,False,6-5,False,New York Giants,24.0,21.0,24.0,311.0,204.0,107.0,1.0,22.0,356.0,154.0,202.0,1.0,2013,3.05,1.69,-3.65
+926,13,Thu,November 28,4:31PM ET,W,False,7-5,True,Oakland Raiders,31.0,24.0,23.0,352.0,208.0,144.0,1.0,16.0,305.0,255.0,50.0,2.0,2013,14.89,1.61,-7.78
+927,14,Mon,December 9,8:40PM ET,L,False,7-6,False,Chicago Bears,28.0,45.0,24.0,328.0,130.0,198.0,,33.0,490.0,341.0,149.0,,2013,15.42,-35.83,2.48
+928,15,Sun,December 15,4:25PM ET,L,False,7-7,True,Green Bay Packers,36.0,37.0,27.0,466.0,332.0,134.0,2.0,26.0,433.0,283.0,150.0,1.0,2013,12.68,-17.75,-1.01
+929,16,Sun,December 22,1:03PM ET,W,False,8-7,False,Washington Redskins,24.0,23.0,16.0,309.0,214.0,95.0,2.0,17.0,297.0,197.0,100.0,1.0,2013,5.05,-1.45,0.92
+930,17,Sun,December 29,8:30PM ET,L,False,8-8,True,Philadelphia Eagles,22.0,24.0,21.0,414.0,358.0,56.0,3.0,21.0,366.0,229.0,137.0,1.0,2013,-1.63,-2.05,-0.14
+931,1,Sun,September 7,4:25PM ET,L,False,0-1,True,San Francisco 49ers,17.0,28.0,26.0,382.0,255.0,127.0,4.0,19.0,319.0,192.0,127.0,,2014,-2.69,-9.57,0.64
+932,2,Sun,September 14,1:03PM ET,W,False,1-1,False,Tennessee Titans,26.0,10.0,26.0,368.0,148.0,220.0,1.0,13.0,314.0,232.0,82.0,2.0,2014,6.3,4.97,6.76
+933,3,Sun,September 21,1:00PM ET,W,False,2-1,False,St. Louis Rams,34.0,31.0,19.0,340.0,217.0,123.0,2.0,26.0,448.0,327.0,121.0,3.0,2014,12.07,-9.63,0.92
+934,4,Sun,September 28,8:31PM ET,W,False,3-1,True,New Orleans Saints,38.0,17.0,24.0,445.0,255.0,190.0,,20.0,438.0,334.0,104.0,3.0,2014,20.78,-4.35,3.17
+935,5,Sun,October 5,1:03PM ET,W,True,4-1,True,Houston Texans,20.0,17.0,24.0,456.0,316.0,140.0,3.0,15.0,330.0,154.0,176.0,1.0,2014,10.27,-0.04,-8.5
+936,6,Sun,October 12,4:26PM ET,W,False,5-1,False,Seattle Seahawks,30.0,23.0,23.0,401.0,239.0,162.0,2.0,9.0,206.0,126.0,80.0,1.0,2014,13.25,8.6,-12.84
+937,7,Sun,October 19,4:25PM ET,W,False,6-1,True,New York Giants,31.0,21.0,20.0,423.0,267.0,156.0,1.0,20.0,352.0,248.0,104.0,2.0,2014,15.12,-5.5,0.62
+938,8,Mon,October 27,8:30PM ET,L,True,6-2,True,Washington Redskins,17.0,20.0,20.0,395.0,224.0,171.0,2.0,19.0,409.0,286.0,123.0,1.0,2014,3.35,-7.31,-1.34
+939,9,Sun,November 2,1:04PM ET,L,False,6-3,True,Arizona Cardinals,17.0,28.0,18.0,266.0,174.0,92.0,2.0,22.0,339.0,237.0,102.0,1.0,2014,-6.97,-5.07,0.07
+940,10,Sun,November 9,1:06PM ET,W,False,7-3,False,Jacksonville Jaguars,31.0,17.0,16.0,399.0,248.0,151.0,1.0,20.0,333.0,262.0,71.0,3.0,2014,5.46,3.63,4.25
+941,11,,,,,False,,True,Bye Week,,,,,,,,,,,,,2014,,,
+942,12,Sun,November 23,8:30PM ET,W,False,8-3,False,New York Giants,31.0,28.0,18.0,385.0,266.0,119.0,1.0,27.0,417.0,328.0,89.0,1.0,2014,13.48,-13.63,2.4
+943,13,Thu,November 27,4:36PM ET,L,False,8-4,True,Philadelphia Eagles,10.0,33.0,16.0,267.0,174.0,93.0,3.0,26.0,464.0,208.0,256.0,1.0,2014,-11.84,-15.42,4.28
+944,14,Thu,December 4,8:26PM ET,W,False,9-4,False,Chicago Bears,41.0,28.0,21.0,397.0,203.0,194.0,,23.0,376.0,341.0,35.0,2.0,2014,22.34,-13.64,3.37
+945,15,Sun,December 14,8:35PM ET,W,False,10-4,False,Philadelphia Eagles,38.0,27.0,26.0,364.0,249.0,115.0,1.0,19.0,294.0,219.0,75.0,3.0,2014,10.61,-1.4,0.33
+946,16,Sun,December 21,4:26PM ET,W,False,11-4,True,Indianapolis Colts,42.0,7.0,25.0,377.0,250.0,127.0,1.0,17.0,229.0,228.0,1.0,3.0,2014,23.6,10.93,-3.35
+947,17,Sun,December 28,1:05PM ET,W,False,12-4,False,Washington Redskins,44.0,17.0,20.0,473.0,299.0,174.0,1.0,20.0,413.0,309.0,104.0,4.0,2014,15.43,8.56,1.86
+948,,,Playoffs,,,False,,True,,,,,,,,,,,,,,2014,,,
+949,Wild Card,Sun,January 4,4:41PM ET,W,False,13-4,True,Detroit Lions,24.0,20.0,18.0,315.0,242.0,73.0,1.0,19.0,397.0,307.0,90.0,3.0,2014,10.31,-4.18,-1.17
+950,Division,Sun,January 11,1:05PM ET,L,False,13-5,False,Green Bay Packers,21.0,26.0,21.0,315.0,170.0,145.0,1.0,23.0,416.0,297.0,119.0,1.0,2014,11.27,-15.81,-1.7
+951,1,Sun,September 13,8:31PM ET,W,False,1-0,True,New York Giants,27.0,26.0,27.0,436.0,356.0,80.0,3.0,18.0,288.0,189.0,99.0,,2015,4.61,-2.48,-2.2
+952,2,Sun,September 20,4:25PM ET,W,False,2-0,False,Philadelphia Eagles,20.0,10.0,21.0,359.0,250.0,109.0,2.0,17.0,226.0,219.0,7.0,3.0,2015,-6.08,15.51,1.73
+953,3,Sun,September 27,1:03PM ET,L,False,2-1,True,Atlanta Falcons,28.0,39.0,23.0,347.0,220.0,127.0,1.0,26.0,438.0,280.0,158.0,,2015,12.25,-24.77,0.64
+954,4,Sun,October 4,8:30PM ET,L,True,2-2,False,New Orleans Saints,20.0,26.0,21.0,335.0,220.0,115.0,,27.0,438.0,335.0,103.0,,2015,10.86,-18.09,-0.16
+955,5,Sun,October 11,4:25PM ET,L,False,2-3,True,New England Patriots,6.0,30.0,18.0,265.0,163.0,102.0,2.0,20.0,356.0,247.0,109.0,,2015,-15.25,-7.94,0.38
+956,6,,,,,False,,True,Bye Week,,,,,,,,,,,,,2015,,,
+957,7,Sun,October 25,4:25PM ET,L,False,2-4,False,New York Giants,20.0,27.0,27.0,460.0,227.0,233.0,4.0,13.0,289.0,157.0,132.0,,2015,2.39,-1.44,-10.3
+958,8,Sun,November 1,4:25PM ET,L,False,2-5,True,Seattle Seahawks,12.0,13.0,14.0,220.0,91.0,129.0,,19.0,323.0,210.0,113.0,1.0,2015,-7.75,-0.06,2.69
+959,9,Sun,November 8,8:31PM ET,L,True,2-6,True,Philadelphia Eagles,27.0,33.0,25.0,411.0,277.0,134.0,1.0,25.0,459.0,287.0,172.0,,2015,11.6,-14.81,-0.73
+960,10,Sun,November 15,1:05PM ET,L,False,2-7,False,Tampa Bay Buccaneers,6.0,10.0,12.0,216.0,174.0,42.0,1.0,23.0,330.0,246.0,84.0,2.0,2015,-8.71,-1.55,6.55
+961,11,Sun,November 22,1:03PM ET,W,False,3-7,False,Miami Dolphins,24.0,14.0,22.0,386.0,220.0,166.0,2.0,9.0,210.0,140.0,70.0,1.0,2015,2.78,10.03,-0.88
+962,12,Thu,November 26,4:31PM ET,L,False,3-8,True,Carolina Panthers,14.0,33.0,14.0,210.0,179.0,31.0,3.0,18.0,294.0,165.0,129.0,,2015,-18.68,-0.1,-1.47
+963,13,Mon,December 7,8:31PM ET,W,False,4-8,False,Washington Redskins,19.0,16.0,16.0,318.0,221.0,97.0,3.0,15.0,266.0,193.0,73.0,1.0,2015,-8.26,4.13,9.39
+964,14,Sun,December 13,4:25PM ET,L,False,4-9,False,Green Bay Packers,7.0,28.0,11.0,270.0,99.0,171.0,1.0,29.0,435.0,205.0,230.0,,2015,-13.6,-6.9,3.05
+965,15,Sat,December 19,8:26PM ET,L,False,4-10,True,New York Jets,16.0,19.0,15.0,309.0,176.0,133.0,4.0,20.0,372.0,299.0,73.0,1.0,2015,-10.81,0.36,9.21
+966,16,Sun,December 27,1:02PM ET,L,False,4-11,False,Buffalo Bills,6.0,16.0,14.0,307.0,186.0,121.0,2.0,19.0,408.0,172.0,236.0,2.0,2015,-4.89,0.35,-6.43
+967,17,Sun,January 3,1:03PM ET,L,False,4-12,True,Washington Redskins,23.0,34.0,27.0,512.0,412.0,100.0,4.0,19.0,437.0,291.0,146.0,,2015,4.93,-16.48,-1.86
+968,1,Sun,September 11,4:27PM ET,L,False,0-1,True,New York Giants,19.0,20.0,24.0,328.0,227.0,101.0,,18.0,316.0,203.0,113.0,1.0,2016,6.65,-9.23,2.24
+969,2,Sun,September 18,1:03PM ET,W,False,1-1,False,Washington Redskins,27.0,23.0,24.0,380.0,278.0,102.0,1.0,24.0,432.0,350.0,82.0,1.0,2016,14.43,-9.76,-2.03
+970,3,Sun,September 25,8:31PM ET,W,False,2-1,True,Chicago Bears,31.0,17.0,25.0,447.0,248.0,199.0,1.0,21.0,390.0,312.0,78.0,2.0,2016,17.99,-3.42,-3.78
+971,4,Sun,October 2,4:25PM ET,W,False,3-1,False,San Francisco 49ers,24.0,17.0,26.0,428.0,234.0,194.0,,14.0,295.0,189.0,106.0,1.0,2016,15.96,-2.03,-5.8
+972,5,Sun,October 9,4:25PM ET,W,False,4-1,True,Cincinnati Bengals,28.0,14.0,21.0,402.0,222.0,180.0,1.0,27.0,345.0,249.0,96.0,,2016,18.6,-11.82,7.25
+973,6,Sun,October 16,4:25PM ET,W,False,5-1,False,Green Bay Packers,30.0,16.0,24.0,424.0,233.0,191.0,2.0,24.0,372.0,294.0,78.0,4.0,2016,12.09,4.84,-2.93
+974,7,,,,,False,,True,Bye Week,,,,,,,,,,,,,2016,,,
+975,8,Sun,October 30,8:31PM ET,W,True,6-1,True,Philadelphia Eagles,29.0,23.0,26.0,460.0,273.0,187.0,1.0,21.0,291.0,194.0,97.0,1.0,2016,6.81,3.91,-6.68
+976,9,Sun,November 6,1:00PM ET,W,False,7-1,False,Cleveland Browns,35.0,10.0,29.0,423.0,255.0,168.0,,13.0,222.0,177.0,45.0,,2016,27.99,-0.76,0.64
+977,10,Sun,November 13,4:25PM ET,W,False,8-1,False,Pittsburgh Steelers,35.0,30.0,20.0,422.0,295.0,127.0,1.0,30.0,448.0,400.0,48.0,,2016,13.5,-21.01,10.13
+978,11,Sun,November 20,1:00PM ET,W,False,9-1,True,Baltimore Ravens,27.0,17.0,27.0,417.0,299.0,118.0,,17.0,368.0,267.0,101.0,,2016,21.44,-10.17,-0.83
+979,12,Thu,November 24,4:30PM ET,W,False,10-1,True,Washington Redskins,31.0,26.0,24.0,353.0,190.0,163.0,,25.0,505.0,449.0,56.0,,2016,19.18,-24.94,11.43
+980,13,Thu,December 1,7:25PM ET,W,False,11-1,False,Minnesota Vikings,17.0,15.0,13.0,264.0,124.0,140.0,2.0,21.0,318.0,231.0,87.0,1.0,2016,-9.19,2.5,11.58
+981,14,Sun,December 11,8:30PM ET,L,False,11-2,False,New York Giants,7.0,10.0,13.0,260.0,152.0,108.0,3.0,12.0,260.0,167.0,93.0,3.0,2016,-20.81,20.25,-8.56
+982,15,Sun,December 18,8:30PM ET,W,False,12-2,True,Tampa Bay Buccaneers,26.0,20.0,24.0,449.0,264.0,185.0,1.0,16.0,276.0,224.0,52.0,4.0,2016,6.07,7.29,-5.77
+983,16,Mon,December 26,8:30PM ET,W,False,13-2,True,Detroit Lions,42.0,21.0,23.0,375.0,211.0,164.0,,23.0,319.0,229.0,90.0,2.0,2016,24.42,-5.57,0.09
+984,17,Sun,January 1,1:00PM ET,L,False,13-3,False,Philadelphia Eagles,13.0,27.0,15.0,195.0,126.0,69.0,2.0,24.0,346.0,232.0,114.0,,2016,-9.6,-6.89,4.57
+985,,,Playoffs,,,False,,True,,,,,,,,,,,,,,2016,,,
+986,Division,Sun,January 15,4:40PM ET,L,False,13-4,True,Green Bay Packers,31.0,34.0,25.0,429.0,291.0,138.0,1.0,27.0,413.0,326.0,87.0,1.0,2016,15.85,-20.14,1.15
+987,1,Sun,September 10,8:30PM ET,W,False,1-0,True,New York Giants,19.0,3.0,22.0,392.0,263.0,129.0,,13.0,233.0,198.0,35.0,1.0,2017,10.62,5.48,-2.73
+988,2,Sun,September 17,4:25PM ET,L,False,1-1,False,Denver Broncos,17.0,42.0,16.0,268.0,228.0,40.0,2.0,26.0,380.0,202.0,178.0,2.0,2017,-21.83,-9.11,6.44
+989,3,Mon,September 25,8:30PM ET,W,False,2-1,False,Arizona Cardinals,28.0,17.0,15.0,273.0,174.0,99.0,,22.0,332.0,283.0,49.0,,2017,8.02,-3.02,5.45
+990,4,Sun,October 1,1:00PM ET,L,False,2-2,True,Los Angeles Rams,30.0,35.0,22.0,440.0,251.0,189.0,2.0,24.0,412.0,244.0,168.0,,2017,14.94,-13.53,-9.26
+991,5,Sun,October 8,4:25PM ET,L,False,2-3,True,Green Bay Packers,31.0,35.0,26.0,408.0,245.0,163.0,3.0,25.0,342.0,182.0,160.0,1.0,2017,19.13,-23.19,2.23
+992,6,,,,,False,,True,Bye Week,,,,,,,,,,,,,2017,,,
+993,7,Sun,October 22,4:05PM ET,W,False,3-3,False,San Francisco 49ers,40.0,10.0,27.0,501.0,236.0,265.0,,23.0,290.0,187.0,103.0,3.0,2017,28.6,7.8,-0.96
+994,8,Sun,October 29,4:25PM ET,W,False,4-3,False,Washington Redskins,33.0,19.0,18.0,307.0,138.0,169.0,1.0,16.0,285.0,236.0,49.0,3.0,2017,-2.02,2.45,12.19
+995,9,Sun,November 5,4:25PM ET,W,False,5-3,True,Kansas City Chiefs,28.0,17.0,24.0,375.0,244.0,131.0,,17.0,323.0,255.0,68.0,1.0,2017,19.63,-4.76,-5.67
+996,10,Sun,November 12,4:25PM ET,L,False,5-4,False,Atlanta Falcons,7.0,27.0,18.0,233.0,126.0,107.0,2.0,22.0,336.0,204.0,132.0,1.0,2017,-9.4,-7.61,-2.02
+997,11,Sun,November 19,8:30PM ET,L,False,5-5,True,Philadelphia Eagles,9.0,37.0,14.0,225.0,113.0,112.0,4.0,17.0,383.0,168.0,215.0,,2017,-23.68,-15.09,12.66
+998,12,Thu,November 23,4:30PM ET,L,False,5-6,True,Los Angeles Chargers,6.0,28.0,14.0,247.0,168.0,79.0,2.0,25.0,515.0,434.0,81.0,,2017,-9.49,-26.42,11.7
+999,13,Thu,November 30,8:25PM ET,W,False,6-6,True,Washington Redskins,38.0,14.0,21.0,275.0,93.0,182.0,,15.0,280.0,224.0,56.0,4.0,2017,7.94,4.45,8.49
+1000,14,Sun,December 10,1:00PM ET,W,False,7-6,False,New York Giants,30.0,10.0,19.0,454.0,332.0,122.0,,21.0,330.0,228.0,102.0,2.0,2017,18.33,4.71,-5.19
+1001,15,Sun,December 17,8:30PM ET,W,False,8-6,False,Oakland Raiders,20.0,17.0,21.0,330.0,204.0,126.0,2.0,19.0,293.0,171.0,122.0,1.0,2017,6.11,-5.2,2.88
+1002,16,Sun,December 24,4:25PM ET,L,False,8-7,True,Seattle Seahawks,12.0,21.0,21.0,282.0,154.0,128.0,3.0,15.0,136.0,60.0,76.0,,2017,-7.97,5.32,-6.11
+1003,17,Sun,December 31,1:00PM ET,W,False,9-7,False,Philadelphia Eagles,6.0,0.0,16.0,301.0,172.0,129.0,1.0,12.0,219.0,149.0,70.0,2.0,2017,-6.53,16.51,-5.76
+1004,1,Sun,September 9,4:25PM ET,L,False,0-1,False,Carolina Panthers,8.0,16.0,17.0,232.0,138.0,94.0,1.0,20.0,293.0,146.0,147.0,1.0,2018,-9.14,2.28,-3.01
+1005,2,Sun,September 16,8:20PM ET,W,False,1-1,True,New York Giants,20.0,13.0,16.0,298.0,160.0,138.0,,17.0,255.0,220.0,35.0,1.0,2018,7.1,3.49,-3.49
+1006,3,Sun,September 23,4:25PM ET,L,False,1-2,False,Seattle Seahawks,13.0,24.0,17.0,303.0,137.0,166.0,3.0,18.0,295.0,182.0,113.0,,2018,-11.41,-5.56,11.31
+1007,4,Sun,September 30,1:00PM ET,W,False,2-2,True,Detroit Lions,26.0,24.0,26.0,414.0,231.0,183.0,,18.0,382.0,286.0,96.0,,2018,18.17,-17.1,0.37
+1008,5,Sun,October 7,8:20PM ET,L,True,2-3,False,Houston Texans,16.0,19.0,14.0,292.0,194.0,98.0,2.0,25.0,462.0,374.0,88.0,2.0,2018,-8.15,-1.63,5.93
+1009,6,Sun,October 14,4:25PM ET,W,False,3-3,True,Jacksonville Jaguars,40.0,7.0,23.0,378.0,172.0,206.0,,10.0,204.0,139.0,65.0,2.0,2018,11.83,15.11,4.14
+1010,7,Sun,October 21,4:25PM ET,L,False,3-4,False,Washington Redskins,17.0,20.0,17.0,323.0,250.0,73.0,2.0,15.0,305.0,175.0,130.0,,2018,-1.71,-0.89,-0.27
+1011,8,,,,,False,,True,Bye Week,,,,,,,,,,,,,2018,,,
+1012,9,Mon,November 5,8:15PM ET,L,False,3-5,True,Tennessee Titans,14.0,28.0,18.0,297.0,225.0,72.0,2.0,24.0,340.0,215.0,125.0,2.0,2018,-2.26,-12.17,2.87
+1013,10,Sun,November 11,8:20PM ET,W,False,4-5,False,Philadelphia Eagles,27.0,20.0,23.0,410.0,239.0,171.0,,23.0,421.0,350.0,71.0,1.0,2018,11.95,-3.87,-5.2
+1014,11,Sun,November 18,1:00PM ET,W,False,5-5,False,Atlanta Falcons,22.0,19.0,20.0,323.0,191.0,132.0,,19.0,354.0,274.0,80.0,1.0,2018,10.89,-5.2,-0.89
+1015,12,Thu,November 22,4:30PM ET,W,False,6-5,True,Washington Redskins,31.0,23.0,20.0,404.0,258.0,146.0,,18.0,331.0,251.0,80.0,3.0,2018,10.45,0.72,-1.62
+1016,13,Thu,November 29,8:20PM ET,W,False,7-5,True,New Orleans Saints,13.0,10.0,21.0,308.0,209.0,99.0,2.0,14.0,176.0,111.0,65.0,1.0,2018,-0.16,9.57,-1.7
+1017,14,Sun,December 9,4:25PM ET,W,True,8-5,True,Philadelphia Eagles,29.0,23.0,32.0,576.0,434.0,142.0,3.0,16.0,256.0,222.0,34.0,1.0,2018,9.25,-0.29,-2.96
+1018,15,Sun,December 16,1:00PM ET,L,False,8-6,False,Indianapolis Colts,0.0,23.0,19.0,292.0,180.0,112.0,1.0,25.0,370.0,192.0,178.0,1.0,2018,-8.08,-10.54,2.01
+1019,16,Sun,December 23,1:00PM ET,W,False,9-6,True,Tampa Bay Buccaneers,27.0,20.0,16.0,232.0,152.0,80.0,,27.0,383.0,320.0,63.0,2.0,2018,-0.41,5.08,4.32
+1020,17,Sun,December 30,1:00PM ET,W,False,10-6,False,New York Giants,36.0,35.0,23.0,419.0,368.0,51.0,1.0,20.0,441.0,298.0,143.0,2.0,2018,21.03,-10.28,-8.93
+1021,,,Playoffs,,,False,,True,,,,,,,,,,,,,,2018,,,
+1022,Wild Card,Sat,January 5,8:15PM ET,W,False,11-6,True,Seattle Seahawks,24.0,22.0,23.0,380.0,216.0,164.0,1.0,11.0,299.0,226.0,73.0,,2018,7.14,-3.19,-4.37
+1023,Division,Sat,January 12,8:15PM ET,L,False,11-7,False,Los Angeles Rams,22.0,30.0,19.0,308.0,258.0,50.0,,30.0,459.0,186.0,273.0,,2018,13.46,-24.75,0.14
+1024,1,Sun,September 8,4:25PM ET,W,False,1-0,True,New York Giants,35.0,17.0,23.0,494.0,405.0,89.0,,25.0,470.0,319.0,151.0,2.0,2019,26.91,-10.91,0.11
+1025,2,Sun,September 15,1:00PM ET,W,False,2-0,False,Washington Redskins,31.0,21.0,25.0,474.0,261.0,213.0,1.0,19.0,255.0,208.0,47.0,,2019,23.5,-7.06,-3.71
+1026,3,Sun,September 22,1:00PM ET,W,False,3-0,True,Miami Dolphins,31.0,6.0,28.0,476.0,241.0,235.0,1.0,17.0,283.0,211.0,72.0,1.0,2019,19.62,14.0,-6.19
+1027,4,Sun,September 29,8:20PM ET,L,False,3-1,False,New Orleans Saints,10.0,12.0,15.0,257.0,212.0,45.0,3.0,18.0,266.0,149.0,117.0,1.0,2019,1.46,1.84,-0.65
+1028,5,Sun,October 6,4:25PM ET,L,False,3-2,True,Green Bay Packers,24.0,34.0,32.0,563.0,441.0,122.0,3.0,24.0,335.0,215.0,120.0,,2019,12.8,-9.21,-10.99
+1029,6,Sun,October 13,4:25PM ET,L,False,3-3,False,New York Jets,22.0,24.0,26.0,399.0,270.0,129.0,,20.0,382.0,326.0,56.0,1.0,2019,11.13,-10.83,-3.11
+1030,7,Sun,October 20,8:20PM ET,W,False,4-3,True,Philadelphia Eagles,37.0,10.0,23.0,402.0,213.0,189.0,1.0,16.0,283.0,168.0,115.0,4.0,2019,15.32,10.92,-0.53
+1031,8,,,,,False,,True,Bye Week,,,,,,,,,,,,,2019,,,
+1032,9,Mon,November 4,8:15PM ET,W,False,5-3,False,New York Giants,37.0,18.0,24.0,429.0,257.0,172.0,2.0,20.0,271.0,171.0,100.0,3.0,2019,10.68,12.66,-5.61
+1033,10,Sun,November 10,8:20PM ET,L,False,5-4,True,Minnesota Vikings,24.0,28.0,24.0,443.0,393.0,50.0,1.0,27.0,364.0,211.0,153.0,,2019,18.62,-18.73,-2.89
+1034,11,Sun,November 17,1:00PM ET,W,False,6-4,False,Detroit Lions,35.0,27.0,26.0,509.0,434.0,75.0,1.0,19.0,312.0,191.0,121.0,,2019,22.23,-7.7,-6.35
+1035,12,Sun,November 24,4:25PM ET,L,False,6-5,False,New England Patriots,9.0,13.0,16.0,321.0,212.0,109.0,1.0,17.0,282.0,181.0,101.0,,2019,-7.56,7.59,-4.62
+1036,13,Thu,November 28,4:30PM ET,L,False,6-6,True,Buffalo Bills,15.0,26.0,32.0,426.0,323.0,103.0,2.0,22.0,356.0,232.0,124.0,,2019,7.13,-17.02,-5.01
+1037,14,Thu,December 5,8:20PM ET,L,False,6-7,False,Chicago Bears,24.0,31.0,22.0,408.0,326.0,82.0,,24.0,382.0,231.0,151.0,2.0,2019,10.67,-10.48,-8.71
+1038,15,Sun,December 15,4:25PM ET,W,False,7-7,True,Los Angeles Rams,44.0,21.0,25.0,475.0,212.0,263.0,,23.0,289.0,267.0,22.0,1.0,2019,26.77,3.54,-5.18
+1039,16,Sun,December 22,4:25PM ET,L,False,7-8,False,Philadelphia Eagles,9.0,17.0,16.0,311.0,257.0,54.0,1.0,23.0,431.0,313.0,118.0,,2019,-6.26,-8.73,3.16
+1040,17,Sun,December 29,4:25PM ET,W,False,8-8,True,Washington Redskins,47.0,16.0,22.0,517.0,294.0,223.0,1.0,13.0,271.0,183.0,88.0,2.0,2019,17.75,18.31,-5.03
+1041,1,Sun,September 13,8:20PM ET,L,False,0-1,False,Los Angeles Rams,17.0,20.0,24.0,380.0,244.0,136.0,,23.0,422.0,269.0,153.0,1.0,2020,3.18,-12.62,1.54
+1042,2,Sun,September 20,1:00PM ET,W,False,1-1,True,Atlanta Falcons,40.0,39.0,33.0,570.0,445.0,125.0,3.0,22.0,380.0,267.0,113.0,,2020,17.31,-13.66,-1.38
+1043,3,Sun,September 27,4:25PM ET,L,False,1-2,False,Seattle Seahawks,31.0,38.0,27.0,522.0,461.0,61.0,3.0,23.0,412.0,295.0,117.0,1.0,2020,9.84,-11.85,-4.6
+1044,4,Sun,October 4,1:00PM ET,L,False,1-3,True,Cleveland Browns,38.0,49.0,35.0,566.0,481.0,85.0,3.0,33.0,508.0,201.0,307.0,,2020,19.85,-29.43,-1.81
+1045,5,Sun,October 11,4:25PM ET,W,False,2-3,True,New York Giants,37.0,34.0,28.0,402.0,276.0,126.0,2.0,20.0,300.0,211.0,89.0,1.0,2020,11.9,0.61,-7.75
+1046,6,Mon,October 19,8:15PM ET,L,False,2-4,True,Arizona Cardinals,10.0,38.0,27.0,344.0,247.0,97.0,4.0,22.0,438.0,177.0,261.0,,2020,-3.91,-23.56,0.53
+1047,7,Sun,October 25,1:00PM ET,L,False,2-5,False,Washington Football Team,3.0,25.0,12.0,142.0,59.0,83.0,1.0,21.0,397.0,189.0,208.0,,2020,-14.88,-15.64,10.05
+1048,8,Sun,November 1,8:20PM ET,L,False,2-6,False,Philadelphia Eagles,9.0,23.0,21.0,265.0,132.0,133.0,2.0,18.0,222.0,103.0,119.0,4.0,2020,-21.74,11.99,1.73
+1049,9,Sun,November 8,4:25PM ET,L,False,2-7,True,Pittsburgh Steelers,19.0,24.0,19.0,364.0,220.0,144.0,2.0,20.0,355.0,309.0,46.0,,2020,-3.09,-4.51,5.6
+1050,10,,,,,False,,True,Bye Week,,,,,,,,,,,,,2020,,,
+1051,11,Sun,November 22,4:25PM ET,W,False,3-7,False,Minnesota Vikings,31.0,28.0,24.0,376.0,196.0,180.0,1.0,24.0,430.0,305.0,125.0,2.0,2020,15.61,-9.0,-2.73
+1052,12,Thu,November 26,4:30PM ET,L,False,3-8,True,Washington Football Team,16.0,41.0,13.0,247.0,187.0,60.0,2.0,22.0,338.0,156.0,182.0,1.0,2020,-17.92,-8.38,-1.4
+1053,13,Tue,December 8,8:05PM ET,L,False,3-9,False,Baltimore Ravens,17.0,34.0,29.0,388.0,277.0,111.0,1.0,19.0,401.0,107.0,294.0,1.0,2020,10.45,-19.5,-3.43
+1054,14,Sun,December 13,1:00PM ET,W,False,4-9,False,Cincinnati Bengals,30.0,7.0,16.0,272.0,171.0,101.0,,18.0,309.0,208.0,101.0,3.0,2020,8.06,14.89,0.7
+1055,15,Sun,December 20,1:00PM ET,W,False,5-9,True,San Francisco 49ers,41.0,33.0,15.0,291.0,204.0,87.0,,28.0,458.0,308.0,150.0,4.0,2020,4.47,-11.28,12.91
+1056,16,Sun,December 27,4:25PM ET,W,False,6-9,True,Philadelphia Eagles,37.0,17.0,22.0,513.0,362.0,151.0,1.0,24.0,477.0,326.0,151.0,3.0,2020,23.4,-5.42,-0.38
+1057,17,Sun,January 3,1:00PM ET,L,False,6-10,False,New York Giants,19.0,23.0,26.0,307.0,199.0,108.0,1.0,22.0,336.0,211.0,125.0,2.0,2020,-3.56,-4.34,4.88
+1058,1,Thu,September 9,8:20PM ET,L,False,0-1,False,Tampa Bay Buccaneers,29.0,31.0,30.0,451.0,391.0,60.0,1.0,24.0,431.0,379.0,52.0,4.0,2021,13.67,-9.37,-7.76
+1059,2,Sun,September 19,4:25PM ET,W,False,1-1,False,Los Angeles Chargers,20.0,17.0,25.0,419.0,221.0,198.0,1.0,24.0,408.0,313.0,95.0,2.0,2021,17.5,-5.55,1.81
+1060,3,Mon,September 27,8:15PM ET,,False,,True,Philadelphia Eagles,,,,,,,,,,,,,2021,,,
+1061,4,Sun,October 3,1:00PM ET,,False,,True,Carolina Panthers,,,,,,,,,,,,,2021,,,
+1062,5,Sun,October 10,4:25PM ET,,False,,True,New York Giants,,,,,,,,,,,,,2021,,,
+1063,6,Sun,October 17,4:25PM ET,,False,,False,New England Patriots,,,,,,,,,,,,,2021,,,
+1064,7,,,,,False,,True,Bye Week,,,,,,,,,,,,,2021,,,
+1065,8,Sun,October 31,8:20PM ET,,False,,False,Minnesota Vikings,,,,,,,,,,,,,2021,,,
+1066,9,Sun,November 7,1:00PM ET,,False,,True,Denver Broncos,,,,,,,,,,,,,2021,,,
+1067,10,Sun,November 14,1:00PM ET,,False,,True,Atlanta Falcons,,,,,,,,,,,,,2021,,,
+1068,11,Sun,November 21,4:25PM ET,,False,,False,Kansas City Chiefs,,,,,,,,,,,,,2021,,,
+1069,12,Thu,November 25,4:30PM ET,,False,,True,Las Vegas Raiders,,,,,,,,,,,,,2021,,,
+1070,13,Thu,December 2,8:20PM ET,,False,,False,New Orleans Saints,,,,,,,,,,,,,2021,,,
+1071,14,Sun,December 12,1:00PM ET,,False,,False,Washington Football Team,,,,,,,,,,,,,2021,,,
+1072,15,Sun,December 19,1:00PM ET,,False,,False,New York Giants,,,,,,,,,,,,,2021,,,
+1073,16,Sun,December 26,8:20PM ET,,False,,True,Washington Football Team,,,,,,,,,,,,,2021,,,
+1074,17,Sun,January 2,1:00PM ET,,False,,True,Arizona Cardinals,,,,,,,,,,,,,2021,,,
+1075,18,Sun,January 9,1:00PM ET,,False,,False,Philadelphia Eagles,,,,,,,,,,,,,2021,,,
